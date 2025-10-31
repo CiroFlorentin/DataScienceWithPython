@@ -1,0 +1,13 @@
+{
+  "lockfileVersion": 1,
+  "workspaces": {
+    "": {
+      "dependencies": {
+        "numpy": "^0.0.1",
+      },
+    },
+  },
+  "packages": {
+    "numpy": ["numpy@0.0.1", "", {}, "sha512-HPoSFyRtH4dRUGjI6bzeVKgfOeNtIAWLvVWMqbaNGmWKE+npdnZ6L78TEJELgZBb+9XpL6r16vOz1jaQ7YVI7Q=="],
+  }
+}
