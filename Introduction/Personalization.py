@@ -21,6 +21,6 @@ plt.title("Population Growth")
 plt.yticks([0,2, 4, 6, 8, 10, 12],['0','2B','4B','6B','8B','10B','12B'])
 plt.text(2000, 10, "Population Growth")
 plt.grid(True)
- 
+
 plt.show()
 

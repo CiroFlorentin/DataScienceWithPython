@@ -16,5 +16,5 @@ final_tails = np.array(final_tails)
 promedio =sum(final_tails[final_tails >= 4])/10000
 print(promedio)
 
-# plt.hist(final_tails, bins = 10)
-# plt.show()
+plt.hist(final_tails, bins = 10)
+plt.show()
