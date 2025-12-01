@@ -1,0 +1,151 @@
+tid,name,aid,mtid,gid,composer,u_price
+1,Lost Kingdom 1,13,1,20,K. Michaels,1.81
+2,Iron Souls 2,1,5,7,F. Baltes,1.03
+3,Midnight Runner 3,16,2,18,D. Frey,1.89
+4,Scarlet Path 4,20,3,6,T. Rivers,1.1
+5,Blue Nights 5,7,2,27,D. Frey,0.72
+6,Blue Nights 6,17,4,51,M. Hale,0.89
+7,Midnight Runner 7,15,3,111,K. Michaels,0.75
+8,Storm Riders 8,18,5,108,A. Young,1.68
+9,Restless Echoes 9,20,1,102,L. Storm,1.39
+10,Midnight Runner 10,10,3,88,L. Storm,0.88
+11,Blue Nights 11,5,5,3,A. Young,1.87
+12,Lost Kingdom 12,18,3,22,S. Wolf,1.95
+13,Princess of Shadows 13,5,5,37,D. Frey,1.58
+14,Hidden Sunrise 14,1,4,92,F. Baltes,1.92
+15,Hidden Sunrise 15,15,5,91,M. Hale,1.12
+16,Midnight Runner 16,16,4,101,K. Michaels,1.73
+17,Storm Riders 17,2,2,35,F. Baltes,0.86
+18,Midnight Runner 18,19,1,92,L. Storm,1.77
+19,Midnight Runner 19,8,2,3,M. Hale,1.23
+20,Golden Horizon 20,5,3,87,L. Storm,0.96
+21,Midnight Runner 21,15,3,73,M. Hale,1.74
+22,Iron Souls 22,7,1,29,F. Baltes,1.33
+23,Golden Horizon 23,19,4,97,S. Wolf,1.11
+24,Hidden Sunrise 24,13,2,112,K. Michaels,1.2
+25,Golden Horizon 25,20,1,81,A. Young,1.81
+26,Lost Kingdom 26,5,2,62,D. Frey,1.51
+27,Midnight Runner 27,11,2,59,L. Storm,1.29
+28,Lost Kingdom 28,11,2,72,A. Young,1.26
+29,Scarlet Path 29,15,1,97,D. Frey,1.85
+30,Princess of Shadows 30,14,5,108,L. Storm,0.7
+31,Hidden Sunrise 31,13,5,41,R. Anders,1.92
+32,Hidden Sunrise 32,6,2,38,F. Baltes,1.81
+33,Hidden Sunrise 33,9,1,41,L. Storm,1.11
+34,Iron Souls 34,16,2,49,S. Wolf,0.81
+35,Restless Echoes 35,18,5,88,L. Storm,1.51
+36,Iron Souls 36,7,5,10,S. Wolf,1.17
+37,Lost Kingdom 37,6,2,76,R. Anders,1.28
+38,Midnight Runner 38,14,4,102,L. Storm,1.81
+39,Princess of Shadows 39,7,5,119,S. Wolf,1.4
+40,Storm Riders 40,5,2,98,S. Wolf,1.76
+41,Golden Horizon 41,13,2,103,R. Anders,1.59
+42,Hidden Sunrise 42,11,3,57,F. Baltes,1.49
+43,Iron Souls 43,12,2,23,A. Young,1.73
+44,Princess of Shadows 44,2,3,99,M. Hale,0.88
+45,Iron Souls 45,16,3,117,F. Baltes,0.81
+46,Scarlet Path 46,7,1,28,K. Michaels,1.24
+47,Restless Echoes 47,1,3,85,D. Frey,1.38
+48,Lost Kingdom 48,7,5,7,K. Michaels,1.69
+49,Iron Souls 49,10,3,117,L. Storm,1.95
+50,Princess of Shadows 50,9,2,39,L. Storm,1.6
+51,Midnight Runner 51,1,2,119,T. Rivers,1.5
+52,Princess of Shadows 52,6,1,79,T. Rivers,0.97
+53,Lost Kingdom 53,8,5,62,D. Frey,1.68
+54,Restless Echoes 54,16,3,52,D. Frey,1.53
+55,Golden Horizon 55,8,4,52,S. Wolf,1.15
+56,Princess of Shadows 56,14,3,43,R. Anders,1.23
+57,Princess of Shadows 57,19,1,96,M. Hale,1.18
+58,Iron Souls 58,13,2,53,R. Anders,1.0
+59,Scarlet Path 59,3,5,27,F. Baltes,0.91
+60,Scarlet Path 60,6,5,38,M. Hale,0.72
+61,Princess of Shadows 61,6,5,38,T. Rivers,0.88
+62,Princess of Shadows 62,5,3,118,S. Wolf,0.96
+63,Scarlet Path 63,1,4,21,S. Wolf,1.31
+64,Scarlet Path 64,18,2,104,K. Michaels,1.33
+65,Lost Kingdom 65,1,4,38,R. Anders,1.58
+66,Iron Souls 66,3,2,37,A. Young,1.41
+67,Princess of Shadows 67,14,2,32,T. Rivers,1.12
+68,Golden Horizon 68,5,1,67,S. Wolf,1.46
+69,Scarlet Path 69,2,4,17,T. Rivers,1.41
+70,Golden Horizon 70,17,2,36,D. Frey,1.12
+71,Lost Kingdom 71,18,5,2,L. Storm,1.96
+72,Storm Riders 72,1,2,14,T. Rivers,1.99
+73,Hidden Sunrise 73,20,3,10,D. Frey,1.24
+74,Lost Kingdom 74,4,3,76,M. Hale,1.24
+75,Hidden Sunrise 75,13,5,102,T. Rivers,1.74
+76,Iron Souls 76,2,3,1,A. Young,0.78
+77,Restless Echoes 77,7,3,78,F. Baltes,1.74
+78,Hidden Sunrise 78,16,1,28,L. Storm,1.27
+79,Blue Nights 79,19,4,44,D. Frey,0.78
+80,Iron Souls 80,9,3,99,K. Michaels,1.55
+81,Golden Horizon 81,12,2,80,L. Storm,0.94
+82,Midnight Runner 82,10,5,99,A. Young,1.27
+83,Lost Kingdom 83,1,3,69,R. Anders,1.69
+84,Blue Nights 84,19,3,69,S. Wolf,1.16
+85,Blue Nights 85,5,5,85,D. Frey,1.57
+86,Lost Kingdom 86,15,5,10,K. Michaels,1.21
+87,Golden Horizon 87,9,2,69,M. Hale,0.73
+88,Princess of Shadows 88,16,2,96,A. Young,1.04
+89,Scarlet Path 89,18,3,40,F. Baltes,1.86
+90,Restless Echoes 90,6,3,27,L. Storm,1.83
+91,Storm Riders 91,17,4,24,A. Young,1.44
+92,Midnight Runner 92,17,5,74,F. Baltes,1.32
+93,Midnight Runner 93,16,5,97,F. Baltes,1.39
+94,Golden Horizon 94,1,1,46,K. Michaels,1.14
+95,Hidden Sunrise 95,10,5,19,S. Wolf,1.01
+96,Midnight Runner 96,8,1,19,T. Rivers,0.89
+97,Midnight Runner 97,17,3,26,D. Frey,1.49
+98,Storm Riders 98,4,2,57,L. Storm,1.51
+99,Restless Echoes 99,11,3,47,F. Baltes,1.07
+100,Hidden Sunrise 100,3,1,116,R. Anders,1.46
+101,Golden Horizon 101,19,1,2,S. Wolf,1.12
+102,Lost Kingdom 102,3,5,81,M. Hale,1.65
+103,Storm Riders 103,2,5,25,R. Anders,1.45
+104,Lost Kingdom 104,20,1,12,L. Storm,1.39
+105,Princess of Shadows 105,15,1,39,R. Anders,1.61
+106,Blue Nights 106,10,5,93,F. Baltes,0.92
+107,Hidden Sunrise 107,14,1,30,M. Hale,1.65
+108,Blue Nights 108,8,5,113,S. Wolf,1.1
+109,Hidden Sunrise 109,9,2,3,T. Rivers,0.98
+110,Golden Horizon 110,9,2,13,K. Michaels,1.96
+111,Storm Riders 111,20,1,20,K. Michaels,1.0
+112,Scarlet Path 112,20,1,99,R. Anders,1.11
+113,Golden Horizon 113,9,5,72,L. Storm,1.03
+114,Blue Nights 114,13,3,54,L. Storm,1.32
+115,Princess of Shadows 115,13,4,26,K. Michaels,0.83
+116,Scarlet Path 116,7,4,73,K. Michaels,0.77
+117,Blue Nights 117,12,3,14,D. Frey,1.91
+118,Restless Echoes 118,12,4,22,T. Rivers,1.1
+119,Storm Riders 119,19,4,90,S. Wolf,1.39
+120,Storm Riders 120,10,2,62,S. Wolf,1.14
+121,Restless Echoes 121,2,5,116,K. Michaels,1.75
+122,Blue Nights 122,10,4,68,F. Baltes,1.25
+123,Restless Echoes 123,7,5,14,L. Storm,0.82
+124,Hidden Sunrise 124,4,4,74,K. Michaels,1.86
+125,Storm Riders 125,13,2,93,R. Anders,1.34
+126,Hidden Sunrise 126,18,1,53,T. Rivers,0.97
+127,Golden Horizon 127,7,5,14,R. Anders,1.69
+128,Storm Riders 128,5,5,45,D. Frey,0.72
+129,Storm Riders 129,13,2,51,A. Young,1.73
+130,Hidden Sunrise 130,16,3,119,D. Frey,0.9
+131,Golden Horizon 131,5,5,88,T. Rivers,1.85
+132,Scarlet Path 132,16,1,3,A. Young,1.15
+133,Scarlet Path 133,16,2,31,T. Rivers,1.87
+134,Restless Echoes 134,13,1,47,T. Rivers,1.22
+135,Scarlet Path 135,4,1,45,D. Frey,0.79
+136,Iron Souls 136,16,4,8,F. Baltes,1.75
+137,Lost Kingdom 137,14,2,40,F. Baltes,0.76
+138,Scarlet Path 138,15,3,2,K. Michaels,1.92
+139,Princess of Shadows 139,16,1,10,A. Young,1.03
+140,Iron Souls 140,14,2,38,K. Michaels,1.89
+141,Blue Nights 141,6,5,87,A. Young,0.93
+142,Hidden Sunrise 142,10,2,46,A. Young,1.06
+143,Midnight Runner 143,7,2,112,K. Michaels,1.06
+144,Blue Nights 144,16,4,69,D. Frey,1.0
+145,Midnight Runner 145,2,3,78,M. Hale,1.4
+146,Storm Riders 146,20,4,90,K. Michaels,1.05
+147,Lost Kingdom 147,2,1,45,T. Rivers,1.38
+148,Blue Nights 148,9,4,50,A. Young,1.61
+149,Storm Riders 149,10,3,32,F. Baltes,1.97
+150,Hidden Sunrise 150,10,1,47,S. Wolf,1.58
