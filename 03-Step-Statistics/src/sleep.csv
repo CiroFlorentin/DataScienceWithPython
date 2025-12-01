@@ -1,0 +1,40 @@
+name,genus,vore,order,sleep_total,sleep_rem,sleep_cycle,awake,brainwt,bodywt
+Zebra,Zebra,insecti,Carnivora,15.7,3.4,1.015,8.3,4.33705,99.657
+Cow,Cow,carni,Rodentia,14.1,3.5,,9.9,396.377,6000
+Capybara,Capybara,herbi,Cetacea,12.1,3.8,0.813,11.9,1.3069,346.991
+Anteater,Anteater,herbi,Cetacea,17.8,3.3,0.23,6.2,3.56939,576.991
+Meerkat,Meerkat,herbi,Cetacea,16.7,,0.889,7.3,,160.155
+Chimpanzee,Chimpanzee,herbi,Primates,6.7,3.5,0.41,17.3,,272.718
+Ocelot,Ocelot,herbi,Artiodactyla,14.6,1.1,,9.4,2.67068,29.641
+Bongo,Bongo,herbi,Cetacea,11.2,0.4,,12.8,,449.925
+Kudu,Kudu,herbi,Rodentia,3.4,2.8,,20.6,3.58623,466.047
+Hippocamelus,Hippocamelus,carni,Artiodactyla,7.7,3.0,,16.3,2.67282,580.838
+Domestic dog,Domestic,carn i,Artiodactyla,15.8,2.1,0.417,8.2,1.01935,400.73
+Hyena,Hyena,herbi,Perissodactyla,14.3,2.0,,9.7,0.04484,245.51
+Baboon,Baboon,omni,Lagomorpha,13.0,3.8,,11.0,5.40202,284.671
+Reindeer,Reindeer,omni,Rodentia,17.4,0.7,0.369,6.6,2.53757,669.947
+Mandrill,Mandrill,omni,Rodentia,10.0,2.3,,14.0,4.13915,523.722
+Wombat,Wombat,herbi,Cetacea,10.1,0.5,,13.9,4.19191,23.998
+Sea lion,Sea,insecti,Cetacea,11.3,3.2,,12.7,,665.405
+Serval,Serval,omni,Rodentia,4.5,3.9,,19.5,3.93541,401.552
+Walrus,Walrus,carni,Cetacea,9.9,3.9,1.139,14.1,2.6359,38.629
+Puma,Puma,insecti,Artiodactyla,8.4,3.0,,15.6,,72.043
+Koala,Koala,herbi,Soricomorpha,13.6,1.3,,10.4,,374.838
+Jackal,Jackal,carni,Rodentia,2.7,0.7,,21.3,,238.843
+Musk ox,Musk,omni,Carnivora,15.0,,0.738,9.0,,264.792
+Chipmunk,Chipmunk,herbi,Artiodactyla,9.0,3.5,,15.0,4.07863,214.084
+Brown bear,Brown,herbi,Artiodactyla,15.6,0.6,,8.4,0.79503,635.32
+Impala,Impala,carni,Carnivora,3.8,2.2,,20.2,4.49568,467.231
+Giraffe,Giraffe,carni,Soricomorpha,17.6,2.5,,6.4,1.14361,568.629
+Mole,Mole,omni,Cetacea,15.7,2.3,,8.3,,21.639
+Yak,Yak,omni,Cetacea,7.6,,0.567,16.4,,117.611
+Gorilla,Gorilla,carni,Rodentia,10.1,3.7,,13.9,4.43559,14.861
+Narwhal,Narwhal,herbi,Chiroptera,15.9,,0.13,8.1,1.63072,577.095
+Hippopotamus,Hippopotamus,carni,Perissodactyla,15.4,0.8,0.209,8.6,,562.172
+Boar,Boar,herbi,Soricomorpha,4.4,,0.364,19.6,,56.744
+Rabbit,Rabbit,insecti,Cetacea,13.8,2.1,,10.2,1.45599,180.822
+Ferret,Ferret,insecti,Soricomorpha,12.9,2.1,,11.1,,672.068
+Polar bear,Polar,insecti,Soricomorpha,13.6,1.9,,10.4,,643.29
+Horse,Horse,herbi,Lagomorpha,15.3,3.4,,8.7,,331.408
+Bat,Bat,herbi,Rodentia,12.5,2.7,,11.5,2.0225,412.949
+

@@ -22,3 +22,4 @@ comedy = movie_to_genres[movie_to_genres['genre'] == 'Comedy'].head(3)
 
 family_comedy = family.merge(comedy, on='movie_id', how='outer',suffixes=('_fam', '_com'))
 print(family_comedy)
+
