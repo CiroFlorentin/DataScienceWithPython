@@ -7,7 +7,7 @@ csv_path_summer = os.path.join(os.path.dirname(__file__), 'src', 'summer2016.csv
 summer2016 = pd.read_csv(csv_path_summer)
 
 sport = summer2016['Sport'].unique()
-
+print(sport)
 
 fig, ax = plt.subplots()
 
@@ -17,7 +17,6 @@ for sports in sport:
     
 ax.set_ylabel('Height (cm)')
 ax.set_title('Average Height by Sport')
-
-ax.set_xticklabels(sport, rotation=90)
-
-fig.savefig("sports_height.png")
+ax.set_xticks(range(len(sport)), labels=sport, rotation=90, ha='center')
+fig.savefig("04-Step-Matplotlib/src/sports_weights.svg")
+fig.savefig("04-Step-Matplotlib/src/sports_height.svg")
