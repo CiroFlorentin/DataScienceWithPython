@@ -55,6 +55,7 @@ sns.scatterplot(
     data=tips,
     hue='smoker',
     palette=tono,
+    size='total_bill'
     )
 
 # plt.show()
@@ -65,5 +66,13 @@ sns.countplot(
     data=tips,
     hue='sex'
     )
+# plt.show()
+plt.close()
+
+sns.jointplot(x='total_bill',y='tip',data=tips)
+# plt.show()
+plt.close()
+
+sns.swarmplot(x='day',y='total_bill',hue='smoker',data=tips)
 # plt.show()
 plt.close()
