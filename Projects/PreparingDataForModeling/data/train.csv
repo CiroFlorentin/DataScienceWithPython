@@ -1,0 +1,2202 @@
+student_id,city,city_development_index,gender,relevant_experience,enrolled_university,education_level,major_discipline,experience,company_size,company_type,last_new_job,training_hours,job_change
+699,city_103,0.92,,True,no_enrollment,Graduate,STEM,17,10000+,Pvt Ltd,>4,123,False
+25619,city_61,0.913,Male,True,no_enrollment,Graduate,STEM,>20,1000-4999,Pvt Ltd,3,23,False
+22293,city_103,0.92,Male,True,Part time course,Graduate,STEM,19,5000-9999,Pvt Ltd,>4,141,False
+26494,city_16,0.91,Male,True,no_enrollment,Graduate,Business Degree,12,5000-9999,Pvt Ltd,3,145,False
+2547,city_114,0.926,Female,True,Full time course,Masters,STEM,16,1000-4999,Public Sector,2,14,False
+25987,city_103,0.92,Other,True,no_enrollment,Graduate,STEM,19,10000+,Public Sector,4,52,True
+1180,city_16,0.91,Male,True,no_enrollment,Graduate,STEM,12,5000-9999,Pvt Ltd,1,52,False
+25349,city_16,0.91,Male,True,no_enrollment,Graduate,STEM,>20,1000-4999,Pvt Ltd,>4,28,False
+20576,city_97,0.925,Male,True,no_enrollment,Graduate,STEM,>20,1000-4999,Pvt Ltd,>4,19,False
+3921,city_36,0.893,,False,no_enrollment,Phd,STEM,>20,1000-4999,Public Sector,>4,4,False
+24796,city_103,0.92,Male,True,no_enrollment,Graduate,STEM,>20,5000-9999,Pvt Ltd,>4,15,False
+22718,city_157,0.769,,True,no_enrollment,Graduate,No Major,14,10000+,,>4,47,False
+12154,city_16,0.91,,True,no_enrollment,Masters,Arts,>20,1000-4999,NGO,>4,55,False
+28817,city_89,0.925,Male,True,Full time course,Graduate,STEM,14,5000-9999,Pvt Ltd,3,141,True
+7280,city_103,0.92,Male,True,no_enrollment,Graduate,STEM,13,10000+,Pvt Ltd,1,6,False
+16903,city_103,0.92,Male,True,no_enrollment,Graduate,No Major,17,5000-9999,Pvt Ltd,1,125,False
+32092,city_103,0.92,Female,True,no_enrollment,Masters,STEM,15,10000+,Pvt Ltd,>4,55,False
+29497,city_103,0.92,Male,True,no_enrollment,Masters,STEM,>20,10000+,Public Sector,>4,87,True
+3728,city_103,0.92,Male,True,no_enrollment,Masters,STEM,>20,5000-9999,Pvt Ltd,4,13,False
+26099,city_103,0.92,Male,True,no_enrollment,Graduate,STEM,12,10000+,Pvt Ltd,1,60,False
+31602,city_103,0.92,Male,True,no_enrollment,Masters,STEM,>20,10000+,Pvt Ltd,1,7,False
+16814,city_16,0.91,Male,True,no_enrollment,Graduate,STEM,>20,10000+,Pvt Ltd,>4,62,False
+20881,city_28,0.939,Male,True,no_enrollment,Masters,STEM,10,1000-4999,Pvt Ltd,1,114,False
+33050,city_165,0.903,,True,no_enrollment,Graduate,STEM,17,10000+,Pvt Ltd,2,12,False
+28838,city_103,0.92,Male,True,no_enrollment,Graduate,STEM,>20,1000-4999,NGO,>4,74,False
+16537,city_136,0.897,Male,True,no_enrollment,Masters,STEM,15,10000+,,>4,134,False
+4310,city_103,0.92,,True,no_enrollment,Graduate,STEM,14,1000-4999,Pvt Ltd,3,4,False
+31692,city_160,0.92,Male,True,Full time course,Graduate,STEM,>20,10000+,Pvt Ltd,1,40,False
+31401,city_103,0.92,Male,True,no_enrollment,Masters,STEM,18,10000+,Pvt Ltd,2,116,False
+24701,city_103,0.92,,True,no_enrollment,Graduate,STEM,15,10000+,Pvt Ltd,>4,16,False
+10102,city_103,0.92,Male,True,no_enrollment,Graduate,STEM,20,10000+,Pvt Ltd,never,107,False
+30331,city_103,0.92,,True,no_enrollment,Graduate,STEM,14,5000-9999,Pvt Ltd,>4,101,False
+2990,city_173,0.878,Male,True,no_enrollment,Masters,STEM,>20,1000-4999,Pvt Ltd,3,32,True
+8540,city_103,0.92,Male,True,no_enrollment,Graduate,STEM,>20,1000-4999,Public Sector,>4,52,False
+32699,city_103,0.92,,True,no_enrollment,High School,,18,10000+,Pvt Ltd,1,80,False
+10370,city_75,0.939,Male,True,no_enrollment,Masters,STEM,16,5000-9999,NGO,2,166,False
+5340,city_103,0.92,Male,True,no_enrollment,Graduate,Business Degree,>20,10000+,Pvt Ltd,never,109,False
+20743,city_50,0.896,Male,True,no_enrollment,Masters,STEM,15,10000+,Pvt Ltd,>4,23,True
+29217,city_75,0.939,Male,True,no_enrollment,Graduate,STEM,>20,5000-9999,Pvt Ltd,>4,67,False
+25969,city_16,0.91,Male,True,no_enrollment,Graduate,STEM,>20,10000+,Pvt Ltd,>4,38,False
+26925,city_158,0.766,Other,True,Full time course,Graduate,STEM,15,5000-9999,,never,30,True
+18620,city_40,0.776,Male,True,Full time course,Graduate,STEM,14,1000-4999,Pvt Ltd,never,52,False
+10017,city_114,0.926,Male,True,no_enrollment,Masters,STEM,>20,1000-4999,Pvt Ltd,>4,67,False
+20797,city_16,0.91,Male,True,no_enrollment,Phd,STEM,15,10000+,Pvt Ltd,1,58,False
+28468,city_28,0.939,Male,True,no_enrollment,Masters,STEM,>20,10000+,Pvt Ltd,>4,88,False
+4978,city_114,0.926,Male,True,Part time course,Masters,STEM,14,10000+,Pvt Ltd,2,16,False
+28641,city_104,0.924,Male,True,no_enrollment,Graduate,STEM,>20,1000-4999,Pvt Ltd,>4,95,False
+1396,city_75,0.939,Male,True,no_enrollment,Graduate,STEM,>20,10000+,Pvt Ltd,3,2,False
+3920,city_106,0.698,Male,True,no_enrollment,Graduate,STEM,18,10000+,Pvt Ltd,4,39,False
+26291,city_75,0.939,Male,True,no_enrollment,Graduate,STEM,11,1000-4999,Pvt Ltd,>4,72,False
+21878,city_103,0.92,,True,no_enrollment,Graduate,Other,20,10000+,Pvt Ltd,>4,56,False
+32925,city_16,0.91,Male,True,no_enrollment,Masters,STEM,>20,10000+,Pvt Ltd,2,78,False
+27494,city_136,0.897,,True,no_enrollment,Masters,STEM,14,1000-4999,Pvt Ltd,>4,84,False
+13597,city_36,0.893,Male,True,no_enrollment,Masters,STEM,12,10000+,Pvt Ltd,1,107,False
+428,city_103,0.92,Male,True,no_enrollment,Graduate,STEM,12,1000-4999,Pvt Ltd,>4,80,False
+1131,city_103,0.92,Male,True,no_enrollment,Graduate,STEM,11,10000+,Pvt Ltd,>4,34,False
+6389,city_103,0.92,Male,True,no_enrollment,Masters,Humanities,15,1000-4999,Pvt Ltd,4,11,False
+5417,city_10,0.895,Male,True,no_enrollment,Graduate,STEM,12,1000-4999,Pvt Ltd,>4,14,False
+24870,city_21,0.624,,True,no_enrollment,Masters,STEM,13,10000+,Pvt Ltd,2,22,False
+4475,city_90,0.698,Male,True,Full time course,Masters,STEM,>20,10000+,Public Sector,1,28,False
+4072,city_16,0.91,Male,True,no_enrollment,Graduate,Humanities,>20,10000+,Public Sector,1,20,False
+440,city_103,0.92,Male,True,no_enrollment,Masters,STEM,>20,10000+,Pvt Ltd,>4,42,False
+10792,city_102,0.804,,True,,Graduate,STEM,12,5000-9999,Pvt Ltd,1,182,False
+8311,city_114,0.926,Male,True,no_enrollment,Masters,STEM,12,1000-4999,Pvt Ltd,1,82,False
+1695,city_75,0.939,,True,no_enrollment,Graduate,STEM,12,1000-4999,Pvt Ltd,1,42,False
+21033,city_103,0.92,Male,True,no_enrollment,Masters,STEM,10,10000+,Pvt Ltd,1,21,False
+10930,city_67,0.855,Male,True,no_enrollment,,,>20,5000-9999,Public Sector,>4,17,False
+24355,city_114,0.926,,True,no_enrollment,Phd,STEM,18,1000-4999,Pvt Ltd,4,122,False
+18289,city_37,0.794,,False,Full time course,Masters,STEM,15,1000-4999,Pvt Ltd,1,33,False
+19215,city_160,0.92,Male,False,no_enrollment,Graduate,Humanities,10,10000+,Pvt Ltd,1,57,False
+6448,city_165,0.903,Male,True,Part time course,Graduate,STEM,>20,10000+,Pvt Ltd,>4,6,False
+30878,city_91,0.691,Male,False,no_enrollment,Graduate,STEM,10,10000+,Pvt Ltd,1,32,False
+3708,city_103,0.92,Male,True,no_enrollment,Graduate,STEM,14,10000+,Pvt Ltd,>4,290,False
+31798,city_16,0.91,Male,True,no_enrollment,Graduate,STEM,14,1000-4999,Pvt Ltd,1,8,False
+11292,city_103,0.92,Male,True,no_enrollment,Graduate,STEM,>20,10000+,Pvt Ltd,>4,156,True
+27490,city_71,0.884,Male,True,no_enrollment,Graduate,STEM,>20,1000-4999,Pvt Ltd,>4,70,False
+26674,city_103,0.92,Male,True,no_enrollment,Graduate,STEM,18,10000+,Pvt Ltd,2,6,False
+32720,city_145,0.555,Female,True,Part time course,Masters,STEM,>20,10000+,NGO,3,135,True
+33126,city_103,0.92,Male,True,no_enrollment,Graduate,STEM,>20,10000+,Pvt Ltd,>4,25,False
+24091,city_123,0.738,Male,True,no_enrollment,Masters,STEM,13,1000-4999,Public Sector,>4,66,True
+32958,city_160,0.92,Female,True,no_enrollment,Graduate,STEM,20,10000+,Pvt Ltd,1,7,False
+893,city_114,0.926,Male,True,no_enrollment,High School,,20,1000-4999,Pvt Ltd,>4,90,False
+10175,city_103,0.92,,True,no_enrollment,Graduate,STEM,>20,10000+,Pvt Ltd,4,20,False
+14496,city_114,0.926,Male,True,no_enrollment,Masters,STEM,>20,10000+,Pvt Ltd,>4,109,False
+22997,city_173,0.878,Male,True,no_enrollment,Masters,STEM,10,10000+,Pvt Ltd,3,9,False
+2991,city_23,0.899,Male,True,no_enrollment,Graduate,STEM,10,1000-4999,Pvt Ltd,never,48,False
+9485,city_104,0.924,,True,no_enrollment,Masters,STEM,>20,10000+,Pvt Ltd,3,35,False
+23609,city_103,0.92,Male,True,no_enrollment,Graduate,STEM,10,10000+,Pvt Ltd,3,18,False
+13864,city_102,0.804,Male,True,no_enrollment,Graduate,STEM,15,1000-4999,Pvt Ltd,1,51,False
+26682,city_89,0.925,Male,True,no_enrollment,Graduate,STEM,>20,10000+,Pvt Ltd,1,108,False
+13277,city_103,0.92,Male,True,no_enrollment,Graduate,STEM,>20,10000+,Pvt Ltd,>4,26,False
+31014,city_103,0.92,Male,True,no_enrollment,Graduate,STEM,12,5000-9999,Pvt Ltd,4,62,False
+16796,city_103,0.92,Male,True,no_enrollment,Graduate,STEM,16,1000-4999,Pvt Ltd,1,54,False
+6449,city_160,0.92,Male,True,no_enrollment,Graduate,STEM,>20,1000-4999,Public Sector,never,8,False
+18824,city_114,0.926,Male,False,no_enrollment,Masters,Other,>20,10000+,Pvt Ltd,never,52,False
+28453,city_16,0.91,Male,True,no_enrollment,Masters,STEM,10,10000+,Pvt Ltd,1,18,False
+6304,city_103,0.92,Male,True,Part time course,Graduate,STEM,19,1000-4999,Public Sector,>4,142,False
+31368,city_103,0.92,Male,True,no_enrollment,Graduate,STEM,10,1000-4999,Pvt Ltd,1,314,False
+21276,city_75,0.939,Male,True,no_enrollment,Graduate,STEM,>20,10000+,Pvt Ltd,4,94,False
+27419,city_21,0.624,,True,no_enrollment,Graduate,STEM,15,10000+,Pvt Ltd,never,17,False
+23981,city_160,0.92,,False,no_enrollment,Phd,Humanities,>20,1000-4999,Public Sector,>4,19,False
+13345,city_165,0.903,,False,no_enrollment,Phd,STEM,>20,1000-4999,Pvt Ltd,>4,92,False
+33128,city_173,0.878,Male,True,no_enrollment,Masters,STEM,>20,1000-4999,Pvt Ltd,>4,163,False
+10028,city_73,0.754,Male,True,no_enrollment,Graduate,STEM,15,1000-4999,Pvt Ltd,1,42,False
+10724,city_21,0.624,,True,no_enrollment,Graduate,STEM,11,10000+,Pvt Ltd,1,40,False
+32631,city_103,0.92,Male,True,no_enrollment,Phd,STEM,>20,1000-4999,Public Sector,>4,5,True
+24199,city_16,0.91,Male,False,no_enrollment,Graduate,STEM,20,1000-4999,Pvt Ltd,2,14,False
+16990,city_103,0.92,Male,True,no_enrollment,Graduate,STEM,>20,10000+,Pvt Ltd,>4,97,True
+10933,city_21,0.624,Male,True,no_enrollment,Masters,STEM,15,10000+,Pvt Ltd,1,75,False
+9052,city_21,0.624,Male,True,no_enrollment,Graduate,STEM,15,10000+,Pvt Ltd,>4,85,False
+7545,city_165,0.903,,True,no_enrollment,Graduate,Arts,17,1000-4999,,3,47,False
+28589,city_103,0.92,,True,no_enrollment,Masters,STEM,11,10000+,Pvt Ltd,2,16,False
+5710,city_50,0.896,Male,True,no_enrollment,Masters,STEM,13,5000-9999,Public Sector,2,88,False
+9930,city_103,0.92,Male,True,no_enrollment,Graduate,STEM,16,10000+,Pvt Ltd,2,121,False
+4046,city_103,0.92,Male,True,no_enrollment,Masters,STEM,>20,1000-4999,Pvt Ltd,>4,24,False
+15213,city_103,0.92,Male,True,no_enrollment,Graduate,STEM,13,10000+,Pvt Ltd,1,94,True
+32605,city_103,0.92,Male,True,no_enrollment,Graduate,STEM,17,10000+,Pvt Ltd,3,155,False
+32802,city_103,0.92,Male,True,no_enrollment,Masters,STEM,>20,10000+,Pvt Ltd,>4,38,False
+14793,city_116,0.743,Male,True,no_enrollment,Masters,STEM,>20,1000-4999,Pvt Ltd,3,178,False
+31862,city_104,0.924,Male,True,no_enrollment,Graduate,STEM,>20,1000-4999,NGO,4,50,False
+31370,city_136,0.897,Male,True,no_enrollment,Graduate,Humanities,>20,1000-4999,Pvt Ltd,4,6,False
+7739,city_136,0.897,Male,True,no_enrollment,Masters,STEM,10,1000-4999,Pvt Ltd,1,28,False
+7155,city_23,0.899,Male,True,no_enrollment,Graduate,STEM,15,1000-4999,Pvt Ltd,>4,20,False
+14107,city_28,0.939,Male,True,no_enrollment,Masters,STEM,>20,10000+,Pvt Ltd,2,15,False
+26261,city_73,0.754,Male,True,no_enrollment,Masters,STEM,15,1000-4999,Public Sector,>4,7,True
+21236,city_160,0.92,,False,no_enrollment,Masters,STEM,11,1000-4999,Public Sector,1,98,False
+15051,city_103,0.92,Male,True,no_enrollment,Graduate,STEM,>20,1000-4999,Pvt Ltd,>4,116,False
+29357,city_103,0.92,Male,True,no_enrollment,Graduate,Humanities,>20,1000-4999,NGO,>4,74,False
+29628,city_103,0.92,Male,True,no_enrollment,Graduate,STEM,>20,10000+,Pvt Ltd,>4,36,False
+27115,city_103,0.92,Male,True,no_enrollment,Graduate,STEM,>20,10000+,Pvt Ltd,4,94,False
+27462,city_103,0.92,Male,True,no_enrollment,Graduate,Business Degree,>20,10000+,Pvt Ltd,1,85,False
+19290,city_103,0.92,Male,True,no_enrollment,Graduate,STEM,>20,5000-9999,Pvt Ltd,>4,18,False
+26351,city_16,0.91,Male,True,no_enrollment,Graduate,STEM,14,5000-9999,Public Sector,>4,28,True
+10885,city_104,0.924,Male,True,no_enrollment,Masters,STEM,11,1000-4999,Pvt Ltd,4,31,False
+11347,city_75,0.939,Male,True,no_enrollment,Graduate,STEM,>20,10000+,Pvt Ltd,1,45,False
+12794,city_16,0.91,Male,True,no_enrollment,Masters,STEM,14,1000-4999,Pvt Ltd,>4,72,False
+17931,city_36,0.893,Male,True,no_enrollment,Graduate,STEM,>20,1000-4999,Pvt Ltd,>4,28,True
+6278,city_160,0.92,Male,True,no_enrollment,Graduate,No Major,>20,10000+,Public Sector,>4,69,False
+19737,city_16,0.91,Male,True,no_enrollment,Graduate,STEM,15,10000+,Pvt Ltd,>4,33,False
+3436,city_67,0.855,Male,True,no_enrollment,Masters,STEM,15,10000+,Pvt Ltd,>4,12,False
+10364,city_114,0.926,,True,no_enrollment,High School,,11,10000+,Other,>4,107,False
+5549,city_75,0.939,Male,True,no_enrollment,Graduate,Arts,>20,1000-4999,NGO,>4,172,False
+18908,city_114,0.926,Male,False,Full time course,Masters,STEM,10,1000-4999,Public Sector,2,37,False
+15178,city_103,0.92,Male,True,no_enrollment,Masters,Humanities,>20,10000+,Pvt Ltd,>4,80,False
+31595,city_103,0.92,Male,True,no_enrollment,Graduate,STEM,>20,1000-4999,Pvt Ltd,>4,58,False
+10186,city_61,0.913,Male,True,no_enrollment,Masters,STEM,17,1000-4999,Pvt Ltd,3,54,False
+12595,city_23,0.899,,True,no_enrollment,Graduate,STEM,>20,5000-9999,Pvt Ltd,,39,False
+24662,city_98,0.949,Male,True,no_enrollment,Graduate,STEM,12,5000-9999,Pvt Ltd,2,158,False
+31529,city_103,0.92,Male,True,no_enrollment,Graduate,STEM,15,10000+,Pvt Ltd,>4,50,False
+29811,city_103,0.92,Male,True,no_enrollment,Masters,STEM,18,1000-4999,Pvt Ltd,1,111,False
+3126,city_103,0.92,Male,True,no_enrollment,Graduate,STEM,19,1000-4999,Pvt Ltd,1,13,False
+27493,city_103,0.92,Male,True,no_enrollment,Graduate,STEM,12,1000-4999,NGO,2,5,False
+9973,city_103,0.92,Male,True,no_enrollment,Graduate,STEM,>20,10000+,Pvt Ltd,>4,156,False
+13824,city_16,0.91,Male,True,no_enrollment,High School,,17,10000+,Pvt Ltd,>4,22,False
+6355,city_152,0.698,Male,True,no_enrollment,Masters,STEM,12,1000-4999,Pvt Ltd,1,146,False
+21255,city_99,0.915,Male,True,no_enrollment,High School,,>20,1000-4999,Pvt Ltd,2,26,False
+12133,city_160,0.92,Male,True,no_enrollment,Graduate,STEM,18,10000+,Pvt Ltd,2,18,False
+14943,city_16,0.91,Male,True,no_enrollment,Masters,STEM,12,1000-4999,Pvt Ltd,>4,36,True
+17030,city_16,0.91,Male,True,no_enrollment,Masters,STEM,>20,1000-4999,Public Sector,>4,3,False
+2602,city_21,0.624,Male,True,no_enrollment,Graduate,STEM,10,10000+,Pvt Ltd,1,222,False
+7451,city_103,0.92,Male,True,no_enrollment,Masters,STEM,>20,10000+,Pvt Ltd,>4,33,True
+31553,city_98,0.949,Male,True,no_enrollment,Graduate,STEM,11,1000-4999,,2,64,False
+4016,city_103,0.92,,True,no_enrollment,Masters,STEM,>20,5000-9999,Public Sector,2,78,False
+26891,city_103,0.92,Male,True,no_enrollment,Graduate,STEM,>20,5000-9999,Pvt Ltd,4,68,False
+10615,city_123,0.738,Male,True,no_enrollment,Graduate,STEM,14,1000-4999,Pvt Ltd,2,29,True
+17093,city_103,0.92,Male,True,no_enrollment,Graduate,STEM,>20,10000+,Pvt Ltd,>4,53,False
+33380,city_83,0.923,Male,False,no_enrollment,Graduate,STEM,14,10000+,Pvt Ltd,2,168,False
+16969,city_160,0.92,Male,False,no_enrollment,Graduate,No Major,>20,5000-9999,Pvt Ltd,>4,12,False
+9203,city_102,0.804,Male,True,no_enrollment,Masters,STEM,>20,1000-4999,Pvt Ltd,1,43,False
+2572,city_104,0.924,Male,True,no_enrollment,Masters,STEM,10,10000+,Pvt Ltd,never,95,False
+4335,city_103,0.92,Female,True,no_enrollment,Graduate,STEM,16,1000-4999,Pvt Ltd,>4,142,False
+31612,city_73,0.754,Male,True,no_enrollment,Masters,STEM,14,10000+,Pvt Ltd,2,14,False
+15041,city_103,0.92,Other,False,no_enrollment,Graduate,STEM,13,10000+,Public Sector,>4,13,False
+4880,city_103,0.92,Male,True,no_enrollment,Masters,STEM,16,10000+,Pvt Ltd,>4,50,False
+9264,city_83,0.923,Male,True,no_enrollment,Masters,STEM,18,10000+,Pvt Ltd,4,17,False
+22662,city_67,0.855,Male,True,no_enrollment,Masters,STEM,>20,10000+,Pvt Ltd,1,107,False
+29164,city_103,0.92,Male,True,Part time course,Masters,Business Degree,11,10000+,Public Sector,3,60,False
+19711,city_67,0.855,Male,True,no_enrollment,Graduate,STEM,>20,10000+,Pvt Ltd,4,138,True
+29504,city_103,0.92,Male,True,no_enrollment,Masters,STEM,>20,1000-4999,Public Sector,>4,55,False
+24567,city_16,0.91,Male,False,no_enrollment,Masters,STEM,15,10000+,Pvt Ltd,>4,20,True
+27473,city_103,0.92,Male,True,no_enrollment,Graduate,STEM,>20,1000-4999,Pvt Ltd,>4,9,True
+15688,city_114,0.926,,True,no_enrollment,Graduate,STEM,11,1000-4999,Pvt Ltd,2,9,False
+5555,city_103,0.92,Other,True,no_enrollment,Graduate,STEM,20,10000+,Public Sector,1,14,False
+18895,city_103,0.92,Male,True,no_enrollment,Graduate,STEM,12,1000-4999,,2,18,False
+8661,city_103,0.92,Male,False,no_enrollment,Masters,STEM,10,10000+,Pvt Ltd,3,3,False
+22355,city_103,0.92,Male,True,no_enrollment,Graduate,STEM,11,10000+,Pvt Ltd,>4,17,False
+17076,city_103,0.92,,True,no_enrollment,Masters,STEM,11,10000+,Pvt Ltd,1,37,False
+7542,city_103,0.92,Male,True,no_enrollment,Masters,STEM,>20,1000-4999,Pvt Ltd,>4,58,False
+12107,city_114,0.926,Male,True,no_enrollment,Graduate,STEM,10,1000-4999,Pvt Ltd,never,16,False
+23481,city_103,0.92,Male,True,no_enrollment,Masters,STEM,>20,10000+,Pvt Ltd,>4,43,True
+364,city_16,0.91,Male,True,no_enrollment,Graduate,STEM,>20,1000-4999,Public Sector,>4,23,False
+24632,city_160,0.92,,False,no_enrollment,Phd,STEM,>20,5000-9999,Public Sector,>4,19,False
+31830,city_61,0.913,Male,True,no_enrollment,Graduate,Other,10,5000-9999,Public Sector,1,7,False
+28067,city_103,0.92,Male,True,no_enrollment,Masters,STEM,>20,1000-4999,Public Sector,>4,36,False
+18973,city_36,0.893,,True,no_enrollment,High School,,>20,10000+,Pvt Ltd,>4,35,False
+2713,city_16,0.91,,True,no_enrollment,Graduate,STEM,10,10000+,Pvt Ltd,1,9,False
+27986,city_45,0.89,Female,True,no_enrollment,High School,,16,1000-4999,Pvt Ltd,3,48,False
+19973,city_103,0.92,Male,True,no_enrollment,Graduate,STEM,16,10000+,Pvt Ltd,1,48,False
+27821,city_103,0.92,Male,True,no_enrollment,Graduate,STEM,>20,10000+,Pvt Ltd,>4,7,False
+11450,city_114,0.926,Male,False,no_enrollment,Masters,STEM,19,1000-4999,Public Sector,>4,48,False
+29675,city_103,0.92,Male,True,no_enrollment,Graduate,STEM,12,10000+,Pvt Ltd,4,138,False
+10087,city_103,0.92,Male,False,no_enrollment,Graduate,STEM,17,5000-9999,Pvt Ltd,>4,67,False
+20325,city_46,0.762,Male,True,no_enrollment,Masters,STEM,>20,5000-9999,Pvt Ltd,>4,15,False
+27137,city_21,0.624,Male,False,no_enrollment,Graduate,STEM,>20,10000+,Pvt Ltd,4,24,False
+20182,city_100,0.887,Male,False,no_enrollment,Phd,Business Degree,>20,10000+,Public Sector,,14,False
+25641,city_21,0.624,Male,True,Part time course,Graduate,STEM,13,10000+,Pvt Ltd,4,154,False
+29349,city_103,0.92,Male,True,no_enrollment,Masters,Other,>20,10000+,Pvt Ltd,1,22,False
+11160,city_67,0.855,Male,True,no_enrollment,Masters,STEM,16,1000-4999,Pvt Ltd,1,192,False
+17419,city_65,0.802,Female,True,Part time course,Graduate,STEM,11,1000-4999,Pvt Ltd,1,174,False
+26112,city_103,0.92,Male,True,no_enrollment,Graduate,STEM,>20,10000+,Pvt Ltd,>4,143,False
+2078,city_100,0.887,Male,True,no_enrollment,Graduate,STEM,15,1000-4999,Pvt Ltd,3,107,True
+14417,city_103,0.92,Male,True,no_enrollment,Graduate,Arts,>20,10000+,Pvt Ltd,4,72,False
+10937,city_103,0.92,Male,True,no_enrollment,Graduate,STEM,>20,1000-4999,Public Sector,>4,33,False
+31239,city_114,0.926,,True,Part time course,Graduate,STEM,19,10000+,Pvt Ltd,>4,41,False
+11911,city_103,0.92,,True,Part time course,Graduate,STEM,19,1000-4999,Pvt Ltd,1,68,False
+3538,city_103,0.92,Male,True,no_enrollment,Graduate,Humanities,>20,10000+,Pvt Ltd,>4,86,False
+3887,city_103,0.92,Female,True,no_enrollment,Phd,STEM,13,5000-9999,Pvt Ltd,1,11,False
+4179,city_103,0.92,,True,no_enrollment,Graduate,Arts,17,10000+,Pvt Ltd,4,59,False
+252,city_103,0.92,Male,True,no_enrollment,Graduate,STEM,11,1000-4999,Pvt Ltd,1,26,False
+4344,city_76,0.698,Male,True,no_enrollment,Graduate,STEM,16,1000-4999,Pvt Ltd,1,14,False
+30079,city_160,0.92,Male,True,no_enrollment,Graduate,STEM,15,5000-9999,Pvt Ltd,2,92,False
+13328,city_21,0.624,Male,True,,Graduate,STEM,14,10000+,Pvt Ltd,1,78,True
+10295,city_61,0.913,Male,True,no_enrollment,High School,,>20,1000-4999,Pvt Ltd,3,46,False
+3155,city_103,0.92,Male,True,no_enrollment,Masters,STEM,>20,1000-4999,Pvt Ltd,>4,126,False
+16929,city_103,0.92,,True,no_enrollment,Masters,Other,15,1000-4999,Pvt Ltd,4,43,False
+8067,city_45,0.89,Male,True,no_enrollment,Masters,STEM,14,1000-4999,Pvt Ltd,>4,27,False
+7687,city_89,0.925,Male,True,no_enrollment,Graduate,STEM,>20,1000-4999,Pvt Ltd,1,86,False
+29692,city_103,0.92,Male,True,no_enrollment,Masters,STEM,>20,1000-4999,Pvt Ltd,1,79,False
+5952,city_21,0.624,Male,True,no_enrollment,Masters,STEM,20,10000+,Pvt Ltd,>4,54,True
+24322,city_116,0.743,Male,True,no_enrollment,Masters,STEM,>20,5000-9999,Pvt Ltd,2,135,False
+25820,city_103,0.92,Male,True,no_enrollment,Graduate,Humanities,19,10000+,Pvt Ltd,1,145,True
+50,city_103,0.92,Male,True,no_enrollment,Phd,STEM,>20,10000+,Pvt Ltd,1,79,True
+7222,city_103,0.92,Male,True,no_enrollment,Graduate,STEM,16,1000-4999,Pvt Ltd,1,9,False
+29172,city_103,0.92,Male,True,Full time course,Graduate,STEM,15,1000-4999,Pvt Ltd,2,94,False
+19129,city_67,0.855,,False,no_enrollment,Masters,Business Degree,19,1000-4999,Pvt Ltd,2,15,False
+23841,city_144,0.84,,True,no_enrollment,Phd,STEM,>20,1000-4999,Pvt Ltd,1,210,True
+4379,city_103,0.92,Male,True,no_enrollment,Graduate,Arts,>20,5000-9999,NGO,>4,90,False
+29814,city_103,0.92,Male,False,no_enrollment,Masters,Other,16,10000+,Pvt Ltd,>4,43,False
+5565,city_21,0.624,Male,True,no_enrollment,Masters,STEM,17,1000-4999,Pvt Ltd,>4,168,True
+22197,city_61,0.913,,True,no_enrollment,,,19,1000-4999,Pvt Ltd,>4,23,True
+23633,city_150,0.698,Male,False,Full time course,Phd,STEM,>20,10000+,Public Sector,>4,3,False
+16762,city_103,0.92,Male,True,no_enrollment,Graduate,STEM,12,10000+,Pvt Ltd,>4,7,False
+28672,city_103,0.92,Male,False,no_enrollment,Masters,STEM,19,1000-4999,Pvt Ltd,1,90,False
+25954,city_103,0.92,,True,no_enrollment,Graduate,STEM,>20,1000-4999,Pvt Ltd,2,130,False
+5149,city_21,0.624,Male,True,no_enrollment,Graduate,STEM,10,10000+,Pvt Ltd,never,64,True
+2009,city_28,0.939,Male,True,no_enrollment,Masters,Humanities,15,1000-4999,Pvt Ltd,4,12,False
+28338,city_16,0.91,Male,True,no_enrollment,Graduate,STEM,>20,10000+,Public Sector,1,41,False
+31322,city_75,0.939,Male,True,no_enrollment,Masters,STEM,19,10000+,Pvt Ltd,1,332,False
+1710,city_103,0.92,Male,False,no_enrollment,Graduate,STEM,>20,1000-4999,Pvt Ltd,>4,47,False
+9376,city_28,0.939,,True,no_enrollment,Masters,STEM,14,10000+,Pvt Ltd,never,109,False
+6852,city_116,0.743,Male,True,no_enrollment,Graduate,STEM,10,1000-4999,Pvt Ltd,1,42,False
+27015,city_65,0.802,Male,True,no_enrollment,Graduate,STEM,16,5000-9999,Pvt Ltd,1,107,False
+1562,city_21,0.624,Male,False,no_enrollment,Graduate,STEM,17,10000+,Pvt Ltd,>4,23,True
+9583,city_21,0.624,Male,True,no_enrollment,Masters,STEM,17,5000-9999,Pvt Ltd,>4,67,True
+15600,city_50,0.896,Male,True,no_enrollment,Masters,STEM,15,5000-9999,Pvt Ltd,>4,43,False
+28097,city_103,0.92,Female,True,no_enrollment,Graduate,STEM,15,10000+,Pvt Ltd,2,320,False
+11507,city_114,0.926,Male,False,Full time course,High School,,10,5000-9999,Pvt Ltd,1,65,False
+25649,city_114,0.926,Male,True,no_enrollment,Phd,STEM,>20,10000+,Pvt Ltd,>4,58,False
+1761,city_103,0.92,Male,True,no_enrollment,Graduate,STEM,>20,10000+,Pvt Ltd,2,64,False
+1585,city_16,0.91,Male,True,no_enrollment,Masters,STEM,16,1000-4999,Pvt Ltd,2,104,False
+3247,city_100,0.887,,True,no_enrollment,Masters,STEM,19,1000-4999,Pvt Ltd,,104,True
+27741,city_103,0.92,,True,no_enrollment,Graduate,STEM,13,1000-4999,Pvt Ltd,1,70,False
+32175,city_103,0.92,Male,True,no_enrollment,Graduate,STEM,10,10000+,Pvt Ltd,1,38,False
+5537,city_83,0.923,Other,True,no_enrollment,Graduate,STEM,19,10000+,Pvt Ltd,4,30,False
+1535,city_103,0.92,Male,True,no_enrollment,Graduate,STEM,18,5000-9999,Pvt Ltd,4,160,False
+4020,city_103,0.92,Male,True,no_enrollment,Graduate,STEM,>20,10000+,Pvt Ltd,2,54,False
+19330,city_75,0.939,Male,True,no_enrollment,Graduate,STEM,>20,1000-4999,Pvt Ltd,>4,20,True
+2355,city_114,0.926,Male,True,no_enrollment,Graduate,STEM,10,5000-9999,NGO,4,4,False
+31394,city_103,0.92,Male,True,no_enrollment,Phd,STEM,>20,10000+,Public Sector,1,33,False
+26123,city_103,0.92,Male,True,no_enrollment,Graduate,STEM,>20,5000-9999,Pvt Ltd,2,25,False
+746,city_103,0.92,Male,True,no_enrollment,Masters,STEM,>20,10000+,Pvt Ltd,2,7,False
+2290,city_114,0.926,Male,True,no_enrollment,Masters,STEM,15,10000+,Pvt Ltd,2,5,False
+5682,city_114,0.926,Male,True,no_enrollment,Masters,STEM,>20,10000+,Pvt Ltd,>4,328,False
+21043,city_73,0.754,,True,no_enrollment,High School,,>20,10000+,Public Sector,2,116,False
+6623,city_114,0.926,,True,no_enrollment,Masters,STEM,16,1000-4999,Pvt Ltd,4,15,False
+2573,city_21,0.624,Male,True,no_enrollment,Graduate,STEM,10,10000+,Pvt Ltd,1,69,True
+31623,city_23,0.899,Male,True,Full time course,Graduate,STEM,12,10000+,Pvt Ltd,2,69,False
+23882,city_114,0.926,Male,False,no_enrollment,Graduate,STEM,10,10000+,Pvt Ltd,1,67,False
+10300,city_102,0.804,Male,False,no_enrollment,Masters,Business Degree,10,10000+,Public Sector,2,52,False
+13877,city_16,0.91,Male,True,no_enrollment,Graduate,STEM,20,5000-9999,Pvt Ltd,2,42,False
+30872,city_83,0.923,Male,False,no_enrollment,Graduate,STEM,10,10000+,Pvt Ltd,>4,17,False
+19387,city_75,0.939,Male,True,no_enrollment,Graduate,STEM,14,1000-4999,Pvt Ltd,1,34,False
+28471,city_103,0.92,Female,True,no_enrollment,Graduate,STEM,>20,10000+,Pvt Ltd,>4,36,False
+30723,city_103,0.92,Male,True,no_enrollment,Graduate,STEM,13,1000-4999,NGO,1,15,False
+27320,city_100,0.887,Male,True,no_enrollment,Graduate,STEM,>20,10000+,Pvt Ltd,>4,102,True
+23966,city_67,0.855,,True,no_enrollment,Masters,STEM,>20,10000+,Pvt Ltd,1,17,False
+6945,city_16,0.91,Male,True,no_enrollment,Graduate,STEM,>20,10000+,Public Sector,>4,94,False
+29985,city_103,0.92,Male,False,no_enrollment,Graduate,STEM,>20,1000-4999,Pvt Ltd,1,124,False
+20889,city_159,0.843,Male,True,no_enrollment,Graduate,STEM,>20,10000+,Pvt Ltd,>4,68,False
+13885,city_103,0.92,Male,True,no_enrollment,Masters,STEM,18,10000+,Pvt Ltd,1,22,False
+6318,city_67,0.855,Male,True,no_enrollment,Masters,STEM,14,10000+,Pvt Ltd,1,15,False
+30802,city_103,0.92,Male,True,no_enrollment,Graduate,STEM,>20,10000+,Pvt Ltd,4,88,False
+21694,city_71,0.884,Female,True,Part time course,Graduate,STEM,>20,10000+,Pvt Ltd,>4,99,False
+16891,city_23,0.899,Male,True,Part time course,Graduate,STEM,16,10000+,Pvt Ltd,3,9,False
+671,city_114,0.926,Male,True,no_enrollment,Masters,STEM,>20,10000+,Pvt Ltd,1,20,False
+9374,city_103,0.92,Male,True,no_enrollment,Graduate,STEM,>20,1000-4999,Pvt Ltd,>4,55,False
+6629,city_116,0.743,Male,True,Full time course,High School,,10,1000-4999,Pvt Ltd,1,50,False
+22470,city_136,0.897,Male,True,no_enrollment,Graduate,STEM,17,10000+,Pvt Ltd,>4,126,False
+31082,city_114,0.926,Male,False,Full time course,Masters,STEM,13,10000+,Public Sector,4,90,True
+18424,city_98,0.949,Male,False,no_enrollment,Masters,No Major,>20,5000-9999,Public Sector,3,22,False
+438,city_103,0.92,Male,True,no_enrollment,Graduate,STEM,>20,1000-4999,Public Sector,>4,77,False
+11306,city_103,0.92,Male,True,no_enrollment,Masters,STEM,16,10000+,Pvt Ltd,2,3,True
+20172,city_160,0.92,Male,True,no_enrollment,Graduate,STEM,11,1000-4999,Pvt Ltd,>4,52,False
+33090,city_71,0.884,Male,True,Part time course,Graduate,STEM,12,10000+,,1,77,False
+31084,city_103,0.92,Male,True,no_enrollment,Graduate,STEM,>20,10000+,Pvt Ltd,>4,24,False
+15514,city_71,0.884,Male,True,no_enrollment,Masters,STEM,15,1000-4999,Pvt Ltd,1,6,False
+10826,city_28,0.939,Male,True,no_enrollment,Masters,STEM,12,10000+,Public Sector,>4,83,False
+16108,city_23,0.899,Male,True,no_enrollment,Graduate,STEM,>20,10000+,Pvt Ltd,2,26,False
+29039,city_103,0.92,Male,False,no_enrollment,Graduate,STEM,>20,10000+,Pvt Ltd,>4,32,False
+21298,city_103,0.92,Male,False,Full time course,Masters,STEM,14,10000+,Public Sector,2,52,True
+14163,city_103,0.92,,True,no_enrollment,High School,,15,10000+,Pvt Ltd,>4,45,False
+27941,city_103,0.92,,False,no_enrollment,Graduate,STEM,11,10000+,Pvt Ltd,2,36,False
+18617,city_16,0.91,Other,True,no_enrollment,Graduate,STEM,11,5000-9999,Pvt Ltd,1,33,False
+19664,city_10,0.895,Male,True,no_enrollment,Masters,STEM,>20,10000+,Pvt Ltd,>4,30,False
+30594,city_160,0.92,Male,True,no_enrollment,Masters,STEM,>20,1000-4999,Other,>4,30,False
+27560,city_123,0.738,Male,True,no_enrollment,Masters,STEM,11,10000+,Pvt Ltd,1,53,False
+8508,city_116,0.743,Male,True,no_enrollment,Masters,STEM,13,1000-4999,Pvt Ltd,1,18,False
+4412,city_21,0.624,Male,True,no_enrollment,Graduate,STEM,>20,10000+,Pvt Ltd,never,74,False
+7847,city_19,0.682,Male,True,no_enrollment,Graduate,STEM,>20,10000+,Pvt Ltd,>4,24,False
+12877,city_103,0.92,Male,True,no_enrollment,Graduate,STEM,17,10000+,Pvt Ltd,>4,88,False
+28342,city_103,0.92,,True,Part time course,Masters,STEM,15,1000-4999,Pvt Ltd,2,17,False
+29087,city_160,0.92,Male,True,no_enrollment,Graduate,STEM,>20,10000+,Pvt Ltd,>4,16,False
+21915,city_16,0.91,,True,no_enrollment,Phd,STEM,11,10000+,Pvt Ltd,>4,23,False
+25795,city_103,0.92,Male,False,no_enrollment,Graduate,STEM,>20,1000-4999,NGO,4,75,False
+17757,city_21,0.624,,True,no_enrollment,Masters,STEM,11,10000+,,1,16,True
+3653,city_16,0.91,Female,True,no_enrollment,Masters,STEM,11,10000+,Pvt Ltd,>4,52,False
+29987,city_67,0.855,Male,True,no_enrollment,Masters,STEM,>20,10000+,Pvt Ltd,>4,70,False
+22871,city_131,0.68,Male,False,no_enrollment,Graduate,STEM,10,5000-9999,Pvt Ltd,2,32,False
+28611,city_103,0.92,Male,True,no_enrollment,Graduate,STEM,>20,1000-4999,Pvt Ltd,>4,61,True
+2701,city_16,0.91,Male,True,no_enrollment,Graduate,STEM,>20,10000+,Pvt Ltd,2,70,False
+24182,city_89,0.925,Female,True,no_enrollment,Masters,STEM,19,10000+,Pvt Ltd,never,24,False
+31755,city_16,0.91,Male,True,no_enrollment,Masters,STEM,11,10000+,Pvt Ltd,3,20,False
+28297,city_103,0.92,Male,True,no_enrollment,Graduate,STEM,>20,10000+,Pvt Ltd,1,77,False
+16949,city_103,0.92,Male,True,no_enrollment,Masters,Humanities,20,1000-4999,NGO,>4,69,False
+27705,city_114,0.926,,True,no_enrollment,Masters,STEM,>20,10000+,Pvt Ltd,never,57,False
+27696,city_103,0.92,Male,True,no_enrollment,Graduate,STEM,>20,10000+,Pvt Ltd,>4,56,False
+17946,city_136,0.897,Male,False,no_enrollment,Masters,STEM,11,1000-4999,Pvt Ltd,2,8,False
+29415,city_103,0.92,Male,True,no_enrollment,Graduate,STEM,15,10000+,Pvt Ltd,1,8,False
+27668,city_16,0.91,Male,True,no_enrollment,Graduate,STEM,14,10000+,Pvt Ltd,4,51,False
+49,city_103,0.92,Male,True,no_enrollment,Graduate,Arts,>20,10000+,Pvt Ltd,2,36,False
+8853,city_103,0.92,Female,False,Part time course,Masters,Humanities,>20,10000+,Pvt Ltd,>4,9,False
+32220,city_83,0.923,Male,True,no_enrollment,Masters,Other,18,10000+,,1,44,False
+16209,city_16,0.91,Male,True,no_enrollment,High School,,>20,10000+,Pvt Ltd,4,14,False
+24239,city_21,0.624,Male,True,no_enrollment,Graduate,STEM,11,10000+,Pvt Ltd,2,124,False
+17025,city_114,0.926,Male,True,no_enrollment,Masters,STEM,15,10000+,Pvt Ltd,1,3,False
+14846,city_67,0.855,,True,no_enrollment,Graduate,STEM,10,10000+,Pvt Ltd,2,35,False
+28352,city_131,0.68,Male,True,no_enrollment,Masters,STEM,12,1000-4999,Pvt Ltd,1,21,False
+16243,city_21,0.624,Male,True,Full time course,Graduate,STEM,11,1000-4999,Pvt Ltd,1,134,False
+27956,city_16,0.91,Male,True,no_enrollment,High School,,17,10000+,Pvt Ltd,1,12,False
+4874,city_73,0.754,Male,True,no_enrollment,Graduate,STEM,>20,1000-4999,Public Sector,>4,28,False
+30799,city_46,0.762,,True,no_enrollment,Masters,STEM,18,1000-4999,Other,4,51,False
+19891,city_114,0.926,Male,True,no_enrollment,Masters,STEM,>20,10000+,Pvt Ltd,>4,42,True
+18872,city_16,0.91,,True,Full time course,Graduate,STEM,10,10000+,Pvt Ltd,2,17,False
+2523,city_173,0.878,,False,no_enrollment,,,11,1000-4999,Pvt Ltd,>4,73,False
+3958,city_21,0.624,Male,True,no_enrollment,Graduate,STEM,10,10000+,Pvt Ltd,>4,166,True
+11175,city_12,0.64,Male,True,no_enrollment,Graduate,STEM,14,1000-4999,Pvt Ltd,1,148,False
+26884,city_1,0.847,Male,True,no_enrollment,Graduate,STEM,15,10000+,,3,35,False
+7166,city_103,0.92,,False,no_enrollment,Graduate,STEM,18,10000+,Pvt Ltd,>4,32,False
+18025,city_103,0.92,Male,True,no_enrollment,Graduate,STEM,>20,10000+,Pvt Ltd,>4,20,False
+21693,city_71,0.884,Male,True,no_enrollment,Masters,STEM,13,1000-4999,Pvt Ltd,>4,36,False
+33046,city_103,0.92,Male,True,no_enrollment,Graduate,STEM,>20,10000+,Pvt Ltd,>4,57,False
+4469,city_21,0.624,Male,True,no_enrollment,Graduate,STEM,10,1000-4999,Pvt Ltd,2,11,True
+32926,city_104,0.924,Female,False,Part time course,Graduate,STEM,19,10000+,Pvt Ltd,4,81,False
+25382,city_21,0.624,Male,True,no_enrollment,Graduate,Other,10,10000+,Pvt Ltd,4,45,True
+9631,city_114,0.926,,True,no_enrollment,Masters,STEM,14,10000+,Pvt Ltd,never,62,True
+28301,city_160,0.92,Male,True,no_enrollment,Masters,STEM,>20,10000+,Pvt Ltd,>4,161,False
+10666,city_114,0.926,Male,True,no_enrollment,Masters,No Major,19,10000+,Pvt Ltd,never,18,False
+8898,city_103,0.92,Male,True,no_enrollment,Masters,STEM,14,10000+,Pvt Ltd,4,31,False
+22735,city_126,0.479,,True,Full time course,Phd,STEM,>20,10000+,Pvt Ltd,>4,44,False
+32158,city_103,0.92,,True,no_enrollment,Graduate,STEM,16,10000+,Pvt Ltd,3,81,False
+16340,city_65,0.802,,True,no_enrollment,Graduate,STEM,12,1000-4999,Pvt Ltd,never,64,False
+2792,city_173,0.878,Male,True,no_enrollment,Masters,STEM,>20,5000-9999,Pvt Ltd,>4,44,False
+22347,city_103,0.92,,True,no_enrollment,Graduate,STEM,19,5000-9999,Pvt Ltd,1,44,False
+6960,city_103,0.92,Male,True,no_enrollment,Graduate,STEM,15,5000-9999,Pvt Ltd,>4,33,False
+25451,city_103,0.92,Male,True,no_enrollment,Masters,STEM,>20,1000-4999,Pvt Ltd,3,134,False
+5468,city_16,0.91,Female,False,no_enrollment,Graduate,STEM,>20,10000+,Pvt Ltd,1,47,False
+12679,city_16,0.91,Male,True,no_enrollment,Graduate,Business Degree,>20,10000+,Pvt Ltd,>4,57,False
+32707,city_103,0.92,Female,True,no_enrollment,Masters,STEM,>20,1000-4999,,1,28,False
+9293,city_165,0.903,,True,Full time course,Masters,STEM,15,10000+,Pvt Ltd,1,224,False
+10797,city_16,0.91,Male,True,no_enrollment,Graduate,STEM,>20,10000+,Pvt Ltd,3,82,False
+890,city_160,0.92,Male,True,no_enrollment,Graduate,STEM,10,10000+,Pvt Ltd,1,57,True
+25500,city_103,0.92,Male,True,no_enrollment,Masters,STEM,13,1000-4999,NGO,3,266,False
+29697,city_103,0.92,Male,False,no_enrollment,Graduate,Business Degree,>20,1000-4999,Pvt Ltd,1,48,False
+10018,city_103,0.92,Female,True,no_enrollment,Masters,STEM,12,10000+,Pvt Ltd,4,44,False
+28242,city_45,0.89,Male,True,no_enrollment,Graduate,STEM,>20,1000-4999,Pvt Ltd,1,31,False
+20839,city_23,0.899,Male,True,no_enrollment,Graduate,STEM,>20,10000+,Pvt Ltd,>4,50,False
+10085,city_40,0.776,Male,True,Full time course,Graduate,STEM,10,1000-4999,Pvt Ltd,1,104,False
+9307,city_21,0.624,,True,no_enrollment,Masters,STEM,11,1000-4999,Pvt Ltd,2,158,False
+14087,city_103,0.92,Male,True,no_enrollment,Masters,STEM,14,10000+,Pvt Ltd,1,204,False
+26641,city_103,0.92,Male,True,no_enrollment,Graduate,STEM,17,1000-4999,Pvt Ltd,4,192,True
+8577,city_173,0.878,,True,Part time course,Masters,STEM,17,1000-4999,Pvt Ltd,1,102,False
+26476,city_173,0.878,Male,True,no_enrollment,High School,,11,5000-9999,Pvt Ltd,3,178,False
+3572,city_41,0.827,Male,True,no_enrollment,Graduate,STEM,19,10000+,Pvt Ltd,never,10,False
+1099,city_138,0.836,Male,True,Part time course,Graduate,STEM,>20,1000-4999,Pvt Ltd,2,29,False
+32677,city_103,0.92,Male,True,no_enrollment,Graduate,STEM,17,5000-9999,NGO,>4,148,False
+12324,city_103,0.92,Female,True,no_enrollment,Graduate,STEM,11,5000-9999,Pvt Ltd,1,110,False
+11657,city_103,0.92,Male,True,no_enrollment,Graduate,STEM,>20,5000-9999,Pvt Ltd,>4,4,True
+3298,city_160,0.92,Male,True,no_enrollment,Graduate,STEM,19,10000+,Pvt Ltd,>4,184,False
+24896,city_103,0.92,Male,True,no_enrollment,Graduate,STEM,>20,10000+,Pvt Ltd,>4,22,False
+5721,city_61,0.913,,True,no_enrollment,Graduate,No Major,16,10000+,Public Sector,1,35,False
+1722,city_75,0.939,Male,True,no_enrollment,Graduate,STEM,14,5000-9999,Public Sector,1,44,False
+13063,city_114,0.926,Male,True,no_enrollment,Graduate,STEM,15,10000+,Pvt Ltd,1,23,False
+11215,city_46,0.762,Male,True,Full time course,High School,,10,10000+,Other,1,43,False
+25437,city_16,0.91,Male,True,no_enrollment,Graduate,STEM,16,1000-4999,Pvt Ltd,1,46,False
+6163,city_104,0.924,Male,True,no_enrollment,Masters,STEM,16,10000+,NGO,1,37,False
+10375,city_103,0.92,Female,True,no_enrollment,Graduate,Humanities,>20,5000-9999,Pvt Ltd,2,55,True
+7404,city_104,0.924,Male,False,Full time course,Graduate,STEM,10,1000-4999,Public Sector,1,11,False
+29932,city_103,0.92,Female,True,no_enrollment,Masters,STEM,17,10000+,NGO,3,304,False
+29167,city_103,0.92,Male,True,no_enrollment,Masters,Other,>20,10000+,Pvt Ltd,2,96,False
+10382,city_159,0.843,Male,True,Part time course,Graduate,STEM,18,10000+,Pvt Ltd,1,50,False
+9691,city_103,0.92,Male,True,no_enrollment,Graduate,STEM,17,10000+,Pvt Ltd,>4,94,False
+2440,city_116,0.743,Male,True,no_enrollment,Masters,STEM,17,10000+,Pvt Ltd,1,32,False
+23094,city_53,0.74,Male,True,Full time course,Graduate,STEM,11,10000+,Pvt Ltd,>4,32,False
+315,city_103,0.92,Male,False,no_enrollment,Masters,STEM,16,10000+,NGO,1,276,False
+29967,city_97,0.925,Female,True,no_enrollment,Graduate,STEM,19,1000-4999,,2,32,False
+33264,city_157,0.769,Male,True,no_enrollment,Masters,STEM,10,5000-9999,Pvt Ltd,2,28,False
+562,city_103,0.92,Male,True,no_enrollment,Graduate,STEM,16,5000-9999,Pvt Ltd,1,300,False
+10402,city_21,0.624,Male,True,no_enrollment,Graduate,STEM,12,10000+,Pvt Ltd,>4,134,True
+24175,city_141,0.763,,True,no_enrollment,Masters,STEM,>20,1000-4999,Pvt Ltd,4,36,False
+13111,city_103,0.92,Female,True,no_enrollment,Graduate,STEM,>20,1000-4999,Public Sector,2,180,False
+24333,city_21,0.624,Male,True,no_enrollment,Graduate,STEM,12,1000-4999,Pvt Ltd,>4,85,True
+31737,city_104,0.924,Male,True,no_enrollment,Graduate,STEM,>20,1000-4999,Pvt Ltd,>4,84,False
+18587,city_90,0.698,,True,,Masters,STEM,10,1000-4999,NGO,2,30,True
+11700,city_103,0.92,,True,no_enrollment,Masters,STEM,>20,1000-4999,Public Sector,>4,131,False
+18255,city_89,0.925,Male,False,no_enrollment,Masters,STEM,>20,10000+,Pvt Ltd,3,182,False
+173,city_16,0.91,Male,True,no_enrollment,Graduate,STEM,>20,1000-4999,Pvt Ltd,>4,45,False
+6589,city_83,0.923,Male,True,no_enrollment,Graduate,STEM,11,5000-9999,Pvt Ltd,1,40,False
+13469,city_16,0.91,Male,True,Part time course,Graduate,STEM,12,1000-4999,Pvt Ltd,1,167,False
+9538,city_103,0.92,Male,True,no_enrollment,Graduate,STEM,19,10000+,Pvt Ltd,>4,320,False
+13368,city_19,0.682,,True,,Graduate,STEM,>20,10000+,Pvt Ltd,1,86,False
+16275,city_76,0.698,Male,True,no_enrollment,Masters,STEM,10,1000-4999,Pvt Ltd,3,39,True
+19691,city_16,0.91,Male,True,no_enrollment,High School,,13,5000-9999,Public Sector,>4,52,True
+25428,city_104,0.924,,True,no_enrollment,Masters,STEM,15,1000-4999,Pvt Ltd,>4,4,False
+29028,city_103,0.92,Male,True,no_enrollment,Masters,STEM,>20,1000-4999,Pvt Ltd,2,98,False
+13653,city_21,0.624,,True,no_enrollment,Graduate,STEM,16,5000-9999,Pvt Ltd,4,92,False
+33138,city_103,0.92,Male,True,no_enrollment,Graduate,STEM,>20,10000+,Pvt Ltd,2,60,False
+25091,city_71,0.884,Male,True,no_enrollment,Masters,STEM,>20,5000-9999,Pvt Ltd,1,26,False
+26424,city_100,0.887,Male,False,no_enrollment,Masters,STEM,12,10000+,Pvt Ltd,4,23,True
+10747,city_100,0.887,Male,True,no_enrollment,Graduate,STEM,>20,1000-4999,Pvt Ltd,>4,18,False
+23821,city_133,0.742,Male,False,no_enrollment,Graduate,STEM,>20,10000+,NGO,>4,44,False
+24624,city_103,0.92,Male,True,no_enrollment,Masters,STEM,20,1000-4999,Pvt Ltd,1,212,False
+29788,city_103,0.92,Female,True,no_enrollment,Graduate,STEM,>20,1000-4999,Pvt Ltd,1,91,False
+16569,city_28,0.939,Male,False,Full time course,Graduate,STEM,14,10000+,Pvt Ltd,1,42,False
+28717,city_136,0.897,,True,no_enrollment,Graduate,STEM,11,5000-9999,Public Sector,2,12,False
+29094,city_104,0.924,Male,True,no_enrollment,Masters,STEM,>20,1000-4999,Pvt Ltd,1,30,False
+19859,city_100,0.887,Male,False,no_enrollment,Masters,STEM,>20,1000-4999,Public Sector,>4,3,True
+15866,city_50,0.896,,True,no_enrollment,Masters,STEM,14,10000+,Pvt Ltd,>4,96,False
+21354,city_114,0.926,Male,False,no_enrollment,Phd,STEM,>20,1000-4999,Pvt Ltd,2,9,False
+17770,city_19,0.682,,True,no_enrollment,Masters,STEM,15,1000-4999,Pvt Ltd,1,41,False
+6042,city_103,0.92,Male,True,no_enrollment,Graduate,No Major,>20,1000-4999,NGO,>4,83,False
+22862,city_65,0.802,Male,True,no_enrollment,Graduate,STEM,14,5000-9999,Pvt Ltd,>4,130,True
+28129,city_104,0.924,Female,True,no_enrollment,Masters,Other,18,1000-4999,Pvt Ltd,>4,150,False
+3285,city_102,0.804,Male,True,Full time course,High School,,10,5000-9999,,1,69,False
+13190,city_75,0.939,Female,True,no_enrollment,Masters,STEM,15,1000-4999,Pvt Ltd,3,84,False
+6228,city_41,0.827,Male,True,no_enrollment,Graduate,STEM,>20,10000+,Pvt Ltd,>4,188,False
+9721,city_103,0.92,Male,True,no_enrollment,Masters,Arts,>20,1000-4999,NGO,>4,50,True
+9555,city_102,0.804,Male,True,no_enrollment,Graduate,STEM,>20,10000+,,4,55,False
+19959,city_103,0.92,Male,True,no_enrollment,Graduate,STEM,14,5000-9999,Pvt Ltd,3,14,False
+28284,city_102,0.804,,True,no_enrollment,Graduate,STEM,11,5000-9999,Pvt Ltd,1,76,False
+15245,city_103,0.92,,True,no_enrollment,Phd,STEM,20,10000+,Pvt Ltd,1,22,False
+28273,city_114,0.926,Male,True,no_enrollment,High School,,14,10000+,Pvt Ltd,>4,25,False
+19824,city_114,0.926,Male,True,no_enrollment,Masters,STEM,10,1000-4999,Pvt Ltd,>4,21,False
+4051,city_40,0.776,Male,True,no_enrollment,Graduate,STEM,>20,1000-4999,Pvt Ltd,>4,20,False
+25083,city_136,0.897,,True,no_enrollment,Masters,STEM,15,10000+,Pvt Ltd,4,96,False
+503,city_67,0.855,Male,True,Part time course,High School,,14,10000+,Pvt Ltd,4,53,False
+19920,city_114,0.926,Male,True,no_enrollment,Masters,STEM,14,1000-4999,Pvt Ltd,1,38,False
+19085,city_114,0.926,Male,True,no_enrollment,Graduate,STEM,10,1000-4999,Pvt Ltd,1,9,False
+31058,city_103,0.92,Male,True,Full time course,Masters,STEM,15,1000-4999,Pvt Ltd,2,34,False
+24448,city_173,0.878,Male,True,no_enrollment,Masters,STEM,19,1000-4999,Pvt Ltd,>4,56,False
+6670,city_116,0.743,Male,True,Full time course,Masters,STEM,>20,1000-4999,Pvt Ltd,1,70,False
+21083,city_90,0.698,Male,True,no_enrollment,Graduate,STEM,>20,1000-4999,Pvt Ltd,2,42,False
+3136,city_83,0.923,Male,False,no_enrollment,Graduate,STEM,14,1000-4999,Pvt Ltd,>4,84,False
+5656,city_50,0.896,Male,True,no_enrollment,Masters,STEM,13,1000-4999,Public Sector,>4,224,False
+2878,city_100,0.887,Male,True,no_enrollment,Masters,STEM,10,1000-4999,Pvt Ltd,never,53,True
+29856,city_83,0.923,Male,True,no_enrollment,Masters,Humanities,13,1000-4999,Pvt Ltd,1,46,False
+2916,city_104,0.924,Male,True,no_enrollment,Graduate,STEM,16,1000-4999,Pvt Ltd,2,32,False
+9724,city_103,0.92,Male,True,no_enrollment,Graduate,STEM,>20,1000-4999,Pvt Ltd,1,54,False
+15764,city_103,0.92,Male,True,no_enrollment,Graduate,STEM,14,5000-9999,Pvt Ltd,>4,182,False
+21856,city_114,0.926,,True,no_enrollment,Masters,STEM,>20,5000-9999,Pvt Ltd,1,138,False
+25066,city_14,0.698,,True,no_enrollment,Graduate,STEM,16,5000-9999,Pvt Ltd,2,72,False
+9784,city_103,0.92,Male,True,no_enrollment,Graduate,STEM,>20,1000-4999,Pvt Ltd,>4,9,False
+32064,city_167,0.921,Male,False,Full time course,Graduate,STEM,10,1000-4999,Public Sector,1,48,False
+29865,city_136,0.897,Male,True,no_enrollment,Graduate,STEM,15,1000-4999,Pvt Ltd,>4,36,False
+27549,city_103,0.92,Male,True,no_enrollment,Graduate,STEM,15,5000-9999,Pvt Ltd,3,62,False
+16019,city_103,0.92,,True,no_enrollment,Graduate,STEM,13,10000+,Pvt Ltd,4,10,True
+31323,city_103,0.92,Male,True,no_enrollment,Masters,STEM,>20,1000-4999,Pvt Ltd,1,40,False
+4923,city_21,0.624,Male,True,no_enrollment,Graduate,STEM,10,10000+,Pvt Ltd,1,59,True
+31357,city_67,0.855,Male,True,no_enrollment,Masters,STEM,12,1000-4999,Pvt Ltd,>4,50,False
+26090,city_136,0.897,Male,True,Part time course,Masters,STEM,16,1000-4999,Pvt Ltd,1,19,False
+18772,city_136,0.897,Male,True,no_enrollment,Masters,STEM,>20,1000-4999,Pvt Ltd,>4,55,False
+1187,city_67,0.855,Male,True,no_enrollment,Masters,STEM,15,10000+,Pvt Ltd,>4,10,False
+6543,city_23,0.899,Male,True,no_enrollment,Graduate,No Major,>20,1000-4999,Pvt Ltd,>4,28,False
+3457,city_103,0.92,Male,True,no_enrollment,Graduate,STEM,>20,1000-4999,NGO,>4,50,False
+1282,city_103,0.92,Male,False,Part time course,Graduate,STEM,19,10000+,Pvt Ltd,>4,21,False
+18807,city_50,0.896,Male,True,no_enrollment,Masters,Humanities,18,5000-9999,NGO,3,65,False
+7870,city_104,0.924,,True,no_enrollment,Graduate,STEM,11,10000+,Pvt Ltd,2,19,False
+19379,city_75,0.939,Male,True,no_enrollment,Graduate,STEM,20,1000-4999,Pvt Ltd,>4,26,False
+10157,city_103,0.92,Male,True,no_enrollment,Phd,STEM,>20,10000+,Pvt Ltd,>4,74,False
+16159,city_16,0.91,Female,True,no_enrollment,Masters,STEM,15,1000-4999,Pvt Ltd,2,112,False
+31607,city_103,0.92,,True,no_enrollment,Graduate,STEM,15,1000-4999,NGO,2,11,False
+29001,city_21,0.624,Male,True,no_enrollment,Graduate,STEM,19,5000-9999,Pvt Ltd,1,117,False
+4864,city_41,0.827,Male,True,no_enrollment,Graduate,STEM,>20,1000-4999,Pvt Ltd,2,52,True
+109,city_103,0.92,Male,True,no_enrollment,Graduate,Other,14,1000-4999,Pvt Ltd,>4,80,False
+3820,city_103,0.92,Male,True,no_enrollment,Graduate,STEM,13,10000+,Pvt Ltd,3,190,False
+13122,city_16,0.91,Male,True,no_enrollment,Graduate,STEM,>20,1000-4999,Pvt Ltd,>4,68,True
+787,city_23,0.899,Male,True,no_enrollment,Graduate,STEM,16,1000-4999,Pvt Ltd,1,30,False
+19608,city_102,0.804,Male,True,no_enrollment,Graduate,STEM,10,5000-9999,Pvt Ltd,>4,85,False
+8624,city_103,0.92,Female,True,no_enrollment,Masters,STEM,15,1000-4999,,>4,106,False
+769,city_103,0.92,Male,True,no_enrollment,Graduate,STEM,>20,1000-4999,Pvt Ltd,1,34,False
+17347,city_16,0.91,Male,True,no_enrollment,Graduate,STEM,>20,5000-9999,Pvt Ltd,>4,7,False
+27901,city_103,0.92,Male,True,no_enrollment,Graduate,STEM,>20,5000-9999,Pvt Ltd,1,8,False
+14078,city_103,0.92,Male,True,no_enrollment,Phd,STEM,>20,10000+,Public Sector,2,80,False
+27649,city_114,0.926,Male,True,no_enrollment,Graduate,STEM,>20,10000+,Pvt Ltd,3,4,False
+24778,city_103,0.92,,True,no_enrollment,Graduate,STEM,>20,10000+,Public Sector,2,130,False
+22868,city_102,0.804,Male,True,no_enrollment,Graduate,STEM,13,1000-4999,Pvt Ltd,>4,72,False
+9363,city_102,0.804,Male,True,no_enrollment,Masters,Other,13,10000+,Public Sector,1,166,False
+14951,city_16,0.91,Male,True,no_enrollment,Graduate,STEM,16,1000-4999,Pvt Ltd,>4,24,False
+15104,city_103,0.92,,True,no_enrollment,Graduate,STEM,>20,10000+,Pvt Ltd,1,72,False
+23075,city_16,0.91,Male,True,no_enrollment,Graduate,,>20,1000-4999,Public Sector,>4,7,False
+24487,city_103,0.92,Male,True,no_enrollment,Graduate,STEM,>20,1000-4999,Pvt Ltd,>4,50,False
+130,city_160,0.92,Male,True,no_enrollment,Graduate,STEM,16,1000-4999,Public Sector,>4,54,False
+25532,city_103,0.92,Male,True,no_enrollment,Graduate,STEM,19,1000-4999,Pvt Ltd,1,25,False
+2154,city_50,0.896,Male,True,no_enrollment,Masters,STEM,17,10000+,Pvt Ltd,2,78,False
+15365,city_21,0.624,Male,True,no_enrollment,Masters,STEM,16,10000+,Pvt Ltd,>4,143,False
+27313,city_16,0.91,Male,True,no_enrollment,Graduate,STEM,20,1000-4999,Pvt Ltd,3,280,True
+3082,city_83,0.923,Male,True,no_enrollment,Masters,STEM,19,10000+,Pvt Ltd,1,37,False
+12229,city_28,0.939,,True,no_enrollment,Masters,STEM,17,1000-4999,Pvt Ltd,1,22,False
+6013,city_160,0.92,Male,True,no_enrollment,Masters,STEM,>20,10000+,Public Sector,3,55,False
+30581,city_61,0.913,Male,True,no_enrollment,Graduate,STEM,>20,1000-4999,Pvt Ltd,2,18,False
+1524,city_103,0.92,Male,True,no_enrollment,Graduate,STEM,10,1000-4999,Pvt Ltd,2,23,False
+26949,city_103,0.92,Male,True,no_enrollment,Graduate,STEM,>20,1000-4999,Pvt Ltd,>4,174,False
+20620,city_104,0.924,Male,True,no_enrollment,Masters,Business Degree,19,1000-4999,Pvt Ltd,2,70,False
+33180,city_16,0.91,Male,False,no_enrollment,High School,,>20,5000-9999,Pvt Ltd,>4,89,False
+13215,city_103,0.92,Female,True,no_enrollment,Graduate,STEM,10,10000+,Pvt Ltd,>4,20,True
+1815,city_27,0.848,Male,True,no_enrollment,Masters,STEM,18,10000+,Pvt Ltd,>4,17,True
+3907,city_103,0.92,Male,True,no_enrollment,Masters,STEM,16,5000-9999,NGO,>4,58,False
+26667,city_103,0.92,Male,True,no_enrollment,Graduate,STEM,16,10000+,Pvt Ltd,2,17,True
+24856,city_160,0.92,Female,True,Part time course,Graduate,STEM,14,1000-4999,Pvt Ltd,>4,39,False
+32407,city_103,0.92,Male,True,no_enrollment,Graduate,STEM,15,10000+,Pvt Ltd,>4,242,False
+8862,city_89,0.925,Female,True,no_enrollment,Graduate,STEM,10,1000-4999,Pvt Ltd,>4,162,True
+9720,city_103,0.92,,True,no_enrollment,Graduate,STEM,15,10000+,Pvt Ltd,4,96,False
+26319,city_73,0.754,Male,True,no_enrollment,Masters,STEM,10,1000-4999,Public Sector,1,47,False
+11921,city_103,0.92,,True,no_enrollment,Masters,STEM,15,1000-4999,Pvt Ltd,1,36,False
+2474,city_23,0.899,Male,True,no_enrollment,Graduate,STEM,>20,10000+,Pvt Ltd,2,81,False
+18784,city_16,0.91,Male,False,Full time course,Masters,STEM,11,5000-9999,NGO,>4,90,False
+17104,city_103,0.92,,True,no_enrollment,Phd,STEM,>20,1000-4999,Pvt Ltd,3,84,False
+764,city_16,0.91,Male,True,no_enrollment,Graduate,STEM,>20,10000+,Pvt Ltd,>4,56,False
+29411,city_103,0.92,Male,True,no_enrollment,Masters,STEM,>20,1000-4999,Pvt Ltd,1,36,False
+1160,city_103,0.92,Male,True,no_enrollment,Graduate,No Major,18,10000+,Pvt Ltd,>4,45,False
+12255,city_75,0.939,Male,True,no_enrollment,Graduate,STEM,20,1000-4999,Pvt Ltd,>4,40,False
+23158,city_103,0.92,Male,True,no_enrollment,Graduate,Arts,14,10000+,,2,94,False
+23067,city_103,0.92,Male,True,no_enrollment,Graduate,STEM,11,1000-4999,Pvt Ltd,2,41,False
+22223,city_103,0.92,Male,True,no_enrollment,Graduate,STEM,10,1000-4999,NGO,>4,12,False
+4860,city_57,0.866,Male,True,no_enrollment,Phd,STEM,20,10000+,Pvt Ltd,>4,61,False
+380,city_103,0.92,Male,True,no_enrollment,Graduate,STEM,20,5000-9999,Pvt Ltd,1,110,False
+10490,city_21,0.624,,True,no_enrollment,Graduate,STEM,>20,10000+,Pvt Ltd,>4,26,True
+14475,city_114,0.926,,True,no_enrollment,,,>20,1000-4999,Pvt Ltd,never,123,False
+10531,city_71,0.884,,True,Part time course,Graduate,STEM,17,10000+,Pvt Ltd,1,184,False
+10383,city_103,0.92,Male,True,no_enrollment,Graduate,STEM,14,1000-4999,Pvt Ltd,>4,66,False
+5215,city_115,0.789,Male,True,Full time course,Graduate,STEM,14,10000+,Pvt Ltd,1,130,False
+10405,city_103,0.92,Male,True,no_enrollment,Masters,STEM,>20,10000+,Pvt Ltd,4,35,False
+25798,city_103,0.92,Male,True,no_enrollment,Graduate,STEM,13,10000+,Pvt Ltd,3,12,False
+20316,city_149,0.689,Male,True,Full time course,Masters,STEM,10,5000-9999,Pvt Ltd,1,9,False
+10236,city_114,0.926,,False,no_enrollment,Masters,STEM,>20,10000+,Pvt Ltd,>4,5,False
+23720,city_65,0.802,Male,True,no_enrollment,Graduate,STEM,17,1000-4999,Pvt Ltd,2,90,False
+10094,city_103,0.92,Male,True,no_enrollment,Graduate,STEM,10,1000-4999,Public Sector,>4,24,False
+32500,city_21,0.624,,True,no_enrollment,Masters,STEM,18,5000-9999,NGO,4,80,True
+28110,city_103,0.92,Female,True,no_enrollment,Graduate,STEM,>20,10000+,Pvt Ltd,>4,57,False
+9951,city_103,0.92,,True,Part time course,Graduate,STEM,16,1000-4999,NGO,1,152,False
+169,city_98,0.949,,True,no_enrollment,Masters,STEM,>20,1000-4999,Pvt Ltd,,62,False
+26326,city_103,0.92,Female,True,Part time course,Graduate,STEM,15,10000+,Other,>4,65,True
+25667,city_16,0.91,Male,True,no_enrollment,Graduate,STEM,>20,1000-4999,Other,>4,28,False
+7660,city_103,0.92,Male,True,no_enrollment,Graduate,STEM,>20,1000-4999,Pvt Ltd,2,27,False
+6190,city_103,0.92,Male,True,no_enrollment,Graduate,STEM,>20,1000-4999,Pvt Ltd,>4,16,False
+27729,city_103,0.92,Male,True,no_enrollment,Graduate,STEM,10,5000-9999,Other,1,172,False
+26044,city_99,0.915,Male,True,Full time course,High School,,10,10000+,Pvt Ltd,1,89,False
+32069,city_16,0.91,Male,True,no_enrollment,Graduate,STEM,>20,1000-4999,Pvt Ltd,>4,102,False
+11244,city_36,0.893,Male,True,no_enrollment,Masters,STEM,20,5000-9999,Public Sector,2,15,False
+20972,city_103,0.92,Male,True,no_enrollment,Masters,STEM,>20,1000-4999,Pvt Ltd,>4,37,False
+1743,city_36,0.893,Male,True,no_enrollment,Masters,Business Degree,>20,1000-4999,Pvt Ltd,never,133,False
+32109,city_103,0.92,Male,True,no_enrollment,Graduate,STEM,>20,5000-9999,NGO,4,36,False
+7371,city_103,0.92,Male,False,no_enrollment,Phd,STEM,14,1000-4999,Pvt Ltd,1,15,False
+24907,city_76,0.698,Male,True,no_enrollment,Graduate,STEM,10,1000-4999,Pvt Ltd,4,66,False
+20311,city_75,0.939,Male,True,no_enrollment,Graduate,STEM,>20,1000-4999,Pvt Ltd,2,42,False
+1147,city_103,0.92,Other,False,Full time course,Graduate,STEM,11,5000-9999,Pvt Ltd,1,16,False
+10415,city_75,0.939,Female,True,no_enrollment,Masters,STEM,>20,1000-4999,,1,56,False
+2328,city_16,0.91,Male,True,no_enrollment,Graduate,STEM,13,1000-4999,Pvt Ltd,1,114,False
+6780,city_46,0.762,Male,True,no_enrollment,Graduate,STEM,14,1000-4999,Pvt Ltd,3,77,True
+2363,city_75,0.939,Male,True,no_enrollment,Graduate,STEM,>20,1000-4999,Pvt Ltd,1,302,True
+24750,city_102,0.804,,True,no_enrollment,Primary School,,>20,10000+,,1,55,False
+11747,city_103,0.92,Male,True,no_enrollment,Graduate,STEM,>20,1000-4999,Pvt Ltd,>4,88,False
+12822,city_16,0.91,Male,True,Part time course,Phd,STEM,>20,1000-4999,Public Sector,>4,29,False
+4143,city_103,0.92,Male,True,no_enrollment,Graduate,STEM,>20,1000-4999,Pvt Ltd,2,29,False
+16078,city_160,0.92,Male,True,no_enrollment,Graduate,STEM,20,10000+,Other,>4,45,False
+28558,city_19,0.682,Male,True,no_enrollment,Graduate,STEM,10,10000+,Pvt Ltd,never,54,True
+30217,city_16,0.91,Male,True,no_enrollment,Masters,STEM,15,10000+,Pvt Ltd,>4,6,False
+11122,city_50,0.896,Male,False,no_enrollment,Graduate,Other,15,5000-9999,Pvt Ltd,1,17,False
+2264,city_76,0.698,Male,True,no_enrollment,Graduate,STEM,11,10000+,Pvt Ltd,2,108,False
+24046,city_75,0.939,Male,True,no_enrollment,Graduate,STEM,>20,1000-4999,Pvt Ltd,2,22,False
+6542,city_36,0.893,Male,True,no_enrollment,Masters,STEM,17,1000-4999,NGO,1,13,False
+13558,city_67,0.855,,True,Full time course,Masters,STEM,10,10000+,Pvt Ltd,1,82,False
+6062,city_160,0.92,,True,no_enrollment,Masters,STEM,>20,5000-9999,Pvt Ltd,1,22,False
+12720,city_16,0.91,Male,True,no_enrollment,High School,,>20,1000-4999,Pvt Ltd,>4,200,True
+16686,city_16,0.91,,True,Full time course,Graduate,STEM,14,10000+,Pvt Ltd,never,9,False
+29169,city_103,0.92,,True,no_enrollment,Masters,STEM,10,10000+,Pvt Ltd,1,56,False
+28339,city_36,0.893,Male,True,Part time course,Graduate,STEM,12,5000-9999,Pvt Ltd,2,34,False
+18738,city_21,0.624,Male,True,no_enrollment,Graduate,STEM,15,5000-9999,Pvt Ltd,>4,20,False
+10786,city_103,0.92,Male,True,no_enrollment,Masters,Humanities,18,5000-9999,Other,>4,52,False
+18636,city_11,0.55,Male,True,no_enrollment,Masters,STEM,17,1000-4999,Public Sector,>4,107,False
+9931,city_103,0.92,,True,no_enrollment,Graduate,Humanities,>20,1000-4999,Public Sector,>4,234,False
+6248,city_53,0.74,,True,no_enrollment,Graduate,STEM,10,1000-4999,Pvt Ltd,>4,242,False
+28982,city_75,0.939,Male,True,no_enrollment,Graduate,STEM,16,10000+,Pvt Ltd,3,28,False
+17722,city_103,0.92,Male,True,no_enrollment,Graduate,STEM,19,1000-4999,Pvt Ltd,>4,57,False
+2202,city_24,0.698,Male,True,no_enrollment,Masters,STEM,14,1000-4999,Pvt Ltd,>4,29,True
+14188,city_7,0.647,Male,True,no_enrollment,Masters,STEM,11,10000+,Pvt Ltd,>4,110,False
+22111,city_16,0.91,Male,True,no_enrollment,Graduate,STEM,>20,10000+,Pvt Ltd,>4,130,False
+2121,city_36,0.893,Male,True,no_enrollment,Masters,STEM,12,10000+,Pvt Ltd,1,42,False
+26851,city_103,0.92,Male,True,no_enrollment,Masters,STEM,12,10000+,Pvt Ltd,2,36,False
+18467,city_40,0.776,Female,True,no_enrollment,Masters,STEM,15,1000-4999,Pvt Ltd,2,25,False
+28114,city_16,0.91,Male,True,no_enrollment,Graduate,STEM,10,5000-9999,Pvt Ltd,1,40,False
+28525,city_114,0.926,Male,True,no_enrollment,Graduate,STEM,17,5000-9999,Pvt Ltd,>4,3,False
+28154,city_103,0.92,Male,True,no_enrollment,Graduate,STEM,16,10000+,Public Sector,>4,17,False
+11303,city_114,0.926,Male,True,no_enrollment,Masters,STEM,20,1000-4999,Pvt Ltd,>4,54,False
+32361,city_41,0.827,Male,True,no_enrollment,Masters,STEM,15,1000-4999,,1,83,False
+4396,city_160,0.92,Male,True,no_enrollment,Masters,STEM,>20,10000+,Pvt Ltd,1,256,False
+32774,city_103,0.92,Other,True,no_enrollment,Graduate,STEM,13,5000-9999,Pvt Ltd,1,98,False
+25757,city_103,0.92,Male,True,no_enrollment,High School,,>20,1000-4999,Pvt Ltd,2,182,False
+4423,city_103,0.92,Male,True,no_enrollment,Graduate,Arts,18,5000-9999,Pvt Ltd,>4,109,False
+31641,city_103,0.92,Female,False,Full time course,Masters,STEM,>20,5000-9999,Public Sector,>4,4,False
+4149,city_136,0.897,Male,True,no_enrollment,Masters,STEM,14,10000+,Pvt Ltd,3,34,False
+431,city_103,0.92,,True,no_enrollment,Graduate,STEM,15,1000-4999,Pvt Ltd,never,166,False
+12863,city_114,0.926,Male,False,Full time course,Masters,STEM,>20,5000-9999,Other,4,108,True
+23256,city_103,0.92,Male,True,no_enrollment,Masters,STEM,15,10000+,Pvt Ltd,>4,64,False
+1917,city_114,0.926,Male,True,no_enrollment,Masters,STEM,>20,1000-4999,Pvt Ltd,2,182,False
+21665,city_104,0.924,Male,True,no_enrollment,Graduate,STEM,>20,10000+,Pvt Ltd,4,18,False
+9428,city_36,0.893,Male,False,no_enrollment,Masters,STEM,>20,1000-4999,Pvt Ltd,2,47,False
+24229,city_114,0.926,Male,True,Full time course,Masters,STEM,11,1000-4999,Public Sector,1,13,False
+31954,city_21,0.624,Male,True,no_enrollment,Graduate,STEM,10,1000-4999,Pvt Ltd,3,58,False
+17811,city_64,0.666,Male,True,Full time course,Graduate,STEM,14,10000+,Pvt Ltd,3,258,True
+11877,city_73,0.754,Male,False,Part time course,Masters,STEM,10,10000+,Public Sector,2,41,False
+6493,city_75,0.939,Male,True,no_enrollment,Graduate,STEM,>20,10000+,Pvt Ltd,2,68,False
+16795,city_136,0.897,,True,no_enrollment,Masters,STEM,>20,5000-9999,Pvt Ltd,>4,282,False
+4165,city_103,0.92,Male,False,no_enrollment,Phd,Humanities,>20,1000-4999,Public Sector,2,83,False
+31214,city_59,0.775,Male,True,Part time course,Graduate,STEM,10,1000-4999,Pvt Ltd,>4,14,True
+21828,city_16,0.91,Male,True,no_enrollment,Graduate,STEM,>20,1000-4999,Pvt Ltd,>4,46,False
+23937,city_73,0.754,Male,True,no_enrollment,Graduate,STEM,11,5000-9999,Pvt Ltd,1,90,False
+17798,city_23,0.899,Male,True,Part time course,Graduate,STEM,16,10000+,Pvt Ltd,1,82,False
+19588,city_21,0.624,Male,True,no_enrollment,Masters,STEM,13,10000+,Pvt Ltd,1,107,True
+23922,city_36,0.893,,True,no_enrollment,Phd,Humanities,>20,10000+,Pvt Ltd,>4,11,False
+1342,city_103,0.92,Male,True,no_enrollment,Graduate,STEM,10,10000+,Public Sector,>4,166,False
+3788,city_103,0.92,Female,True,no_enrollment,Masters,STEM,>20,5000-9999,Other,>4,46,False
+30691,city_160,0.92,Male,True,no_enrollment,Graduate,Business Degree,16,5000-9999,Pvt Ltd,never,194,False
+14872,city_114,0.926,Male,True,no_enrollment,Masters,STEM,16,10000+,Pvt Ltd,1,10,False
+3206,city_103,0.92,Male,True,no_enrollment,Graduate,STEM,15,1000-4999,Pvt Ltd,2,23,False
+11192,city_11,0.55,Male,True,no_enrollment,Graduate,STEM,15,1000-4999,Pvt Ltd,3,165,True
+24767,city_103,0.92,,True,no_enrollment,Graduate,STEM,>20,10000+,Pvt Ltd,>4,79,False
+22851,city_103,0.92,,True,no_enrollment,Masters,STEM,14,10000+,Pvt Ltd,1,56,False
+17054,city_103,0.92,Male,True,no_enrollment,Graduate,STEM,20,10000+,Pvt Ltd,>4,40,False
+11750,city_11,0.55,Male,True,no_enrollment,Graduate,STEM,17,1000-4999,Pvt Ltd,4,13,True
+32148,city_103,0.92,Male,True,no_enrollment,Masters,Arts,>20,1000-4999,Pvt Ltd,>4,51,False
+6164,city_136,0.897,Male,True,no_enrollment,Masters,No Major,>20,10000+,Pvt Ltd,3,112,False
+13521,city_152,0.698,Male,True,no_enrollment,Graduate,STEM,>20,10000+,Pvt Ltd,,149,False
+20138,city_67,0.855,Male,True,no_enrollment,Graduate,STEM,>20,5000-9999,Pvt Ltd,never,55,False
+1903,city_103,0.92,,True,no_enrollment,Masters,STEM,17,10000+,Pvt Ltd,>4,158,False
+1823,city_21,0.624,Male,True,no_enrollment,Graduate,STEM,11,10000+,Pvt Ltd,1,57,True
+29320,city_16,0.91,Male,False,no_enrollment,Graduate,STEM,15,10000+,Pvt Ltd,>4,147,False
+15003,city_103,0.92,Male,False,no_enrollment,Phd,STEM,11,1000-4999,Pvt Ltd,2,51,False
+2839,city_114,0.926,Male,True,Full time course,Masters,STEM,16,5000-9999,Public Sector,2,8,False
+23264,city_61,0.913,Male,False,no_enrollment,Phd,STEM,>20,1000-4999,Public Sector,4,78,False
+29170,city_103,0.92,Male,True,no_enrollment,,,16,1000-4999,Pvt Ltd,>4,22,False
+3199,city_103,0.92,Male,False,no_enrollment,Masters,Humanities,10,1000-4999,NGO,3,16,False
+422,city_134,0.698,,False,no_enrollment,Phd,STEM,>20,10000+,Pvt Ltd,>4,18,False
+20452,city_103,0.92,Male,True,no_enrollment,Graduate,STEM,16,1000-4999,Public Sector,4,10,False
+12519,city_16,0.91,Male,True,no_enrollment,Graduate,STEM,20,1000-4999,Pvt Ltd,1,44,False
+10674,city_100,0.887,Male,True,no_enrollment,Graduate,Arts,20,5000-9999,Pvt Ltd,1,26,False
+33183,city_16,0.91,Male,True,no_enrollment,Graduate,STEM,>20,1000-4999,Pvt Ltd,2,62,False
+13079,city_103,0.92,,False,no_enrollment,Masters,Humanities,>20,10000+,Public Sector,4,154,False
+21752,city_103,0.92,Male,True,no_enrollment,Graduate,STEM,>20,5000-9999,Pvt Ltd,>4,92,False
+24450,city_71,0.884,Male,True,no_enrollment,Graduate,No Major,14,1000-4999,Pvt Ltd,1,96,False
+25385,city_103,0.92,,True,no_enrollment,Masters,STEM,>20,10000+,Pvt Ltd,1,24,False
+15114,city_16,0.91,Male,True,no_enrollment,Graduate,STEM,10,5000-9999,Pvt Ltd,1,21,False
+11370,city_103,0.92,,True,no_enrollment,Graduate,Arts,>20,10000+,Pvt Ltd,1,10,True
+31638,city_16,0.91,Male,True,no_enrollment,Masters,STEM,>20,10000+,Pvt Ltd,>4,44,False
+21086,city_103,0.92,,True,no_enrollment,Masters,STEM,14,10000+,Public Sector,3,55,False
+27080,city_83,0.923,,True,no_enrollment,Graduate,STEM,16,10000+,Pvt Ltd,>4,104,False
+27224,city_173,0.878,Other,True,no_enrollment,Masters,STEM,>20,1000-4999,Pvt Ltd,2,9,False
+21274,city_103,0.92,,True,no_enrollment,Graduate,STEM,>20,10000+,Pvt Ltd,2,145,True
+1044,city_67,0.855,Male,True,no_enrollment,Masters,STEM,>20,10000+,Pvt Ltd,>4,42,False
+10492,city_71,0.884,,True,no_enrollment,Graduate,STEM,15,10000+,Pvt Ltd,>4,25,False
+10061,city_103,0.92,Male,True,no_enrollment,Masters,STEM,13,1000-4999,Pvt Ltd,>4,29,False
+32869,city_103,0.92,Male,True,no_enrollment,Graduate,STEM,11,1000-4999,Public Sector,>4,92,True
+26504,city_103,0.92,Male,True,no_enrollment,Graduate,STEM,>20,10000+,Pvt Ltd,2,11,False
+12382,city_21,0.624,,False,Full time course,Masters,STEM,15,1000-4999,Public Sector,3,174,False
+28207,city_103,0.92,Male,True,no_enrollment,Graduate,STEM,>20,1000-4999,Pvt Ltd,>4,32,False
+19875,city_21,0.624,Male,True,no_enrollment,Graduate,STEM,13,10000+,Pvt Ltd,>4,88,True
+29930,city_103,0.92,Male,True,no_enrollment,Graduate,STEM,>20,1000-4999,Pvt Ltd,>4,58,False
+2704,city_100,0.887,Male,True,no_enrollment,Graduate,STEM,11,1000-4999,Pvt Ltd,4,67,False
+1592,city_103,0.92,Male,True,no_enrollment,Phd,STEM,>20,5000-9999,NGO,>4,48,False
+11905,city_114,0.926,,True,no_enrollment,Masters,STEM,14,10000+,Pvt Ltd,4,40,False
+9873,city_103,0.92,Male,True,no_enrollment,Graduate,STEM,>20,1000-4999,Public Sector,4,180,False
+28410,city_103,0.92,,True,no_enrollment,Graduate,STEM,>20,5000-9999,Pvt Ltd,1,36,False
+5791,city_75,0.939,Male,False,no_enrollment,Graduate,STEM,>20,5000-9999,Pvt Ltd,1,30,False
+17691,city_114,0.926,Male,True,no_enrollment,Masters,STEM,>20,10000+,Pvt Ltd,>4,13,False
+11652,city_16,0.91,Male,True,no_enrollment,Phd,STEM,>20,10000+,Pvt Ltd,>4,56,False
+15405,city_16,0.91,Male,True,no_enrollment,Graduate,STEM,10,1000-4999,Pvt Ltd,2,51,False
+11284,city_114,0.926,Male,True,no_enrollment,Masters,STEM,16,10000+,Pvt Ltd,1,19,False
+32874,city_16,0.91,Male,True,no_enrollment,Graduate,STEM,19,10000+,Pvt Ltd,>4,86,False
+4303,city_103,0.92,Male,True,no_enrollment,Masters,STEM,>20,1000-4999,Pvt Ltd,>4,43,False
+13474,city_21,0.624,Male,True,,Masters,STEM,14,1000-4999,Pvt Ltd,4,56,True
+4733,city_103,0.92,Female,True,no_enrollment,Graduate,Humanities,>20,1000-4999,Pvt Ltd,4,96,False
+17640,city_71,0.884,Male,True,no_enrollment,Masters,STEM,19,5000-9999,Pvt Ltd,2,46,False
+25588,city_165,0.903,Male,False,no_enrollment,Phd,STEM,>20,1000-4999,Public Sector,>4,54,False
+2051,city_21,0.624,,True,no_enrollment,Graduate,STEM,11,10000+,Pvt Ltd,,41,True
+6646,city_136,0.897,Male,True,Part time course,Graduate,STEM,10,10000+,Pvt Ltd,1,26,False
+8830,city_103,0.92,,True,no_enrollment,Graduate,Humanities,>20,1000-4999,Pvt Ltd,1,30,False
+2874,city_41,0.827,,True,Part time course,Masters,,18,10000+,Pvt Ltd,>4,49,True
+17003,city_16,0.91,Male,True,no_enrollment,Graduate,STEM,20,10000+,Pvt Ltd,>4,78,False
+21180,city_99,0.915,Male,False,no_enrollment,Masters,STEM,15,1000-4999,Public Sector,never,28,False
+27092,city_114,0.926,Female,False,Full time course,Graduate,STEM,10,1000-4999,Public Sector,4,28,False
+25299,city_136,0.897,,True,no_enrollment,Masters,STEM,>20,10000+,Pvt Ltd,>4,64,False
+27197,city_16,0.91,Male,False,no_enrollment,Graduate,Humanities,>20,10000+,Pvt Ltd,>4,210,False
+25078,city_162,0.767,,True,Full time course,Graduate,STEM,10,1000-4999,Pvt Ltd,1,39,False
+1958,city_103,0.92,Male,True,no_enrollment,Graduate,STEM,12,10000+,Pvt Ltd,4,114,True
+9220,city_36,0.893,Male,False,no_enrollment,Graduate,Business Degree,19,1000-4999,Pvt Ltd,never,188,False
+2920,city_103,0.92,Male,True,no_enrollment,Graduate,STEM,14,10000+,Pvt Ltd,1,153,False
+16701,city_16,0.91,Male,True,no_enrollment,Graduate,STEM,10,10000+,Pvt Ltd,1,29,False
+1954,city_61,0.913,Male,True,no_enrollment,Graduate,STEM,14,1000-4999,Pvt Ltd,1,218,False
+27803,city_75,0.939,Male,True,no_enrollment,Graduate,STEM,16,1000-4999,NGO,1,40,False
+26027,city_75,0.939,Male,True,no_enrollment,Phd,STEM,>20,1000-4999,Pvt Ltd,2,27,False
+27020,city_103,0.92,Male,True,no_enrollment,Masters,Arts,17,10000+,Pvt Ltd,>4,43,False
+10849,city_71,0.884,Male,True,no_enrollment,Graduate,STEM,>20,10000+,Pvt Ltd,1,167,False
+17273,city_16,0.91,Male,True,no_enrollment,Graduate,STEM,12,10000+,Pvt Ltd,3,18,False
+9658,city_114,0.926,Male,True,no_enrollment,High School,,19,1000-4999,Pvt Ltd,>4,122,False
+28062,city_103,0.92,Male,True,no_enrollment,Graduate,STEM,>20,1000-4999,NGO,>4,20,False
+20908,city_61,0.913,,False,Full time course,Masters,STEM,13,5000-9999,Public Sector,2,6,False
+2414,city_21,0.624,Male,True,no_enrollment,Graduate,STEM,11,10000+,Pvt Ltd,never,45,True
+18943,city_104,0.924,Male,True,no_enrollment,Graduate,STEM,>20,5000-9999,Pvt Ltd,4,64,False
+13634,city_91,0.691,Male,False,no_enrollment,Masters,STEM,10,10000+,Pvt Ltd,2,86,False
+27408,city_103,0.92,Male,True,no_enrollment,Graduate,STEM,10,10000+,Pvt Ltd,2,43,False
+10684,city_149,0.689,Male,True,no_enrollment,Graduate,STEM,17,1000-4999,Pvt Ltd,,48,False
+13133,city_103,0.92,Male,True,no_enrollment,Graduate,STEM,19,10000+,Pvt Ltd,>4,90,False
+28527,city_103,0.92,Male,True,no_enrollment,Graduate,STEM,13,10000+,Pvt Ltd,1,46,False
+31091,city_71,0.884,Male,True,no_enrollment,Masters,STEM,12,10000+,Pvt Ltd,1,101,False
+2779,city_114,0.926,Male,True,no_enrollment,Masters,STEM,15,1000-4999,Pvt Ltd,4,53,False
+9767,city_103,0.92,Male,True,no_enrollment,Graduate,STEM,12,5000-9999,Pvt Ltd,1,106,False
+13638,city_102,0.804,Male,True,no_enrollment,Masters,STEM,13,1000-4999,Pvt Ltd,3,60,False
+84,city_103,0.92,Other,True,no_enrollment,Graduate,STEM,19,10000+,Pvt Ltd,>4,92,False
+30106,city_103,0.92,Male,True,no_enrollment,Graduate,STEM,13,5000-9999,Pvt Ltd,>4,12,False
+12652,city_104,0.924,Male,True,no_enrollment,Graduate,STEM,11,1000-4999,Pvt Ltd,never,33,False
+8716,city_103,0.92,Male,True,no_enrollment,Masters,STEM,12,10000+,Pvt Ltd,1,77,False
+26546,city_45,0.89,Male,True,,Graduate,STEM,>20,1000-4999,Pvt Ltd,3,34,False
+23417,city_114,0.926,,False,no_enrollment,Masters,STEM,14,1000-4999,Pvt Ltd,2,23,False
+5744,city_67,0.855,Male,True,Part time course,High School,,10,1000-4999,Public Sector,1,43,False
+14510,city_36,0.893,,True,Full time course,Masters,STEM,>20,1000-4999,,>4,50,False
+1181,city_75,0.939,,False,Full time course,Masters,STEM,18,10000+,Pvt Ltd,4,12,False
+18144,city_83,0.923,Male,False,no_enrollment,Masters,No Major,15,1000-4999,Pvt Ltd,>4,44,False
+491,city_104,0.924,Male,False,no_enrollment,Graduate,STEM,>20,10000+,Pvt Ltd,1,33,False
+2,city_103,0.92,Male,False,no_enrollment,Phd,STEM,15,10000+,NGO,3,128,True
+10918,city_103,0.92,Female,True,no_enrollment,Phd,Arts,15,1000-4999,,1,48,False
+20699,city_73,0.754,Male,True,no_enrollment,Graduate,STEM,16,5000-9999,Pvt Ltd,3,48,False
+5695,city_16,0.91,Male,True,no_enrollment,Masters,STEM,11,10000+,Pvt Ltd,1,152,False
+25956,city_103,0.92,Male,True,no_enrollment,Graduate,Business Degree,19,10000+,Pvt Ltd,2,91,False
+28658,city_21,0.624,Male,True,no_enrollment,Graduate,STEM,14,10000+,Pvt Ltd,never,83,False
+18826,city_16,0.91,Female,True,no_enrollment,Graduate,STEM,17,1000-4999,Pvt Ltd,1,3,False
+20397,city_114,0.926,,False,no_enrollment,Graduate,STEM,>20,10000+,,>4,62,False
+26205,city_103,0.92,Male,True,no_enrollment,Graduate,Humanities,12,10000+,Pvt Ltd,2,72,False
+14401,city_123,0.738,,True,no_enrollment,Masters,STEM,11,10000+,Pvt Ltd,3,37,False
+28438,city_162,0.767,Male,True,no_enrollment,Graduate,STEM,13,1000-4999,Pvt Ltd,>4,68,True
+555,city_160,0.92,Male,True,no_enrollment,Graduate,STEM,16,10000+,Pvt Ltd,4,32,False
+26212,city_61,0.913,Male,False,no_enrollment,Masters,STEM,>20,10000+,Pvt Ltd,>4,124,False
+12281,city_14,0.698,Male,True,no_enrollment,Masters,STEM,16,5000-9999,Pvt Ltd,3,135,False
+26272,city_75,0.939,Male,True,no_enrollment,Graduate,STEM,19,10000+,Pvt Ltd,1,33,False
+7724,city_103,0.92,Male,True,no_enrollment,Masters,STEM,>20,10000+,,1,38,False
+30998,city_103,0.92,,False,Part time course,Graduate,STEM,18,10000+,Pvt Ltd,2,55,False
+17813,city_136,0.897,Male,True,no_enrollment,Phd,STEM,>20,10000+,Pvt Ltd,>4,52,False
+32204,city_28,0.939,Male,True,no_enrollment,Graduate,STEM,17,10000+,Pvt Ltd,1,32,False
+9783,city_103,0.92,Male,True,no_enrollment,Graduate,STEM,14,1000-4999,Pvt Ltd,>4,33,False
+18508,city_28,0.939,Male,True,no_enrollment,Masters,STEM,15,10000+,Pvt Ltd,>4,7,True
+27601,city_114,0.926,Male,True,no_enrollment,Masters,STEM,18,1000-4999,Pvt Ltd,2,112,False
+15846,city_103,0.92,Male,True,no_enrollment,Masters,STEM,10,10000+,Pvt Ltd,1,29,False
+7261,city_73,0.754,Male,True,no_enrollment,Graduate,STEM,16,1000-4999,Pvt Ltd,>4,20,False
+26761,city_104,0.924,Male,True,no_enrollment,Graduate,STEM,>20,10000+,Pvt Ltd,1,65,False
+26295,city_61,0.913,Female,True,no_enrollment,Graduate,STEM,12,5000-9999,,1,86,True
+4535,city_116,0.743,Male,True,no_enrollment,Graduate,STEM,>20,1000-4999,Pvt Ltd,4,56,False
+4778,city_21,0.624,Male,True,no_enrollment,Graduate,STEM,10,10000+,Pvt Ltd,>4,85,False
+31216,city_114,0.926,Male,True,no_enrollment,Masters,STEM,11,1000-4999,Public Sector,1,22,True
+31531,city_16,0.91,Male,True,no_enrollment,Graduate,STEM,12,1000-4999,Pvt Ltd,4,108,False
+1221,city_40,0.776,Male,True,no_enrollment,Masters,STEM,10,1000-4999,Pvt Ltd,1,32,False
+1625,city_160,0.92,Male,True,no_enrollment,Masters,STEM,>20,10000+,Pvt Ltd,>4,32,True
+16930,city_114,0.926,Male,True,,Masters,STEM,19,10000+,Pvt Ltd,1,294,False
+7972,city_28,0.939,,False,,Graduate,STEM,10,1000-4999,,1,22,False
+2966,city_61,0.913,Male,True,no_enrollment,Masters,STEM,>20,10000+,Pvt Ltd,1,50,False
+4178,city_16,0.91,Male,True,no_enrollment,Graduate,STEM,>20,10000+,Pvt Ltd,4,22,False
+869,city_23,0.899,Male,True,no_enrollment,,,14,1000-4999,Pvt Ltd,2,51,False
+2017,city_165,0.903,Male,False,no_enrollment,Masters,Humanities,>20,1000-4999,Pvt Ltd,>4,6,False
+27655,city_114,0.926,Male,True,no_enrollment,Masters,STEM,>20,5000-9999,Pvt Ltd,1,116,True
+26155,city_103,0.92,Female,True,no_enrollment,Graduate,Humanities,17,1000-4999,Pvt Ltd,1,20,False
+30288,city_103,0.92,Male,True,no_enrollment,Graduate,STEM,18,1000-4999,Pvt Ltd,>4,8,False
+31067,city_103,0.92,Male,True,no_enrollment,Graduate,STEM,18,1000-4999,Pvt Ltd,4,22,False
+23729,city_150,0.698,Male,True,no_enrollment,Graduate,STEM,>20,10000+,,>4,35,False
+32461,city_103,0.92,Male,True,no_enrollment,Graduate,STEM,19,10000+,Pvt Ltd,>4,135,False
+27566,city_103,0.92,Male,True,no_enrollment,Masters,STEM,13,10000+,Pvt Ltd,1,14,False
+2997,city_103,0.92,Male,True,no_enrollment,Graduate,STEM,17,10000+,Public Sector,4,74,False
+19728,city_114,0.926,Male,False,no_enrollment,High School,,11,10000+,Pvt Ltd,4,52,False
+6756,city_136,0.897,Male,False,no_enrollment,Masters,STEM,16,10000+,Pvt Ltd,>4,156,False
+30786,city_103,0.92,Male,True,no_enrollment,Graduate,STEM,15,1000-4999,Public Sector,3,88,True
+33314,city_103,0.92,Male,True,no_enrollment,Graduate,STEM,>20,10000+,Pvt Ltd,>4,28,False
+21190,city_99,0.915,,True,no_enrollment,Graduate,STEM,12,1000-4999,Pvt Ltd,,20,False
+11505,city_16,0.91,,True,no_enrollment,Masters,STEM,>20,10000+,Pvt Ltd,2,80,False
+23179,city_103,0.92,Male,True,no_enrollment,Graduate,STEM,>20,1000-4999,Pvt Ltd,>4,32,False
+3796,city_28,0.939,Male,True,no_enrollment,Graduate,STEM,>20,10000+,Pvt Ltd,>4,91,False
+26990,city_21,0.624,Male,True,no_enrollment,Masters,STEM,17,1000-4999,Pvt Ltd,1,134,False
+26594,city_103,0.92,Male,False,no_enrollment,Phd,STEM,20,1000-4999,Public Sector,1,43,True
+587,city_61,0.913,Male,True,no_enrollment,Graduate,Humanities,10,10000+,Pvt Ltd,>4,32,False
+11438,city_103,0.92,Male,True,no_enrollment,Graduate,STEM,>20,10000+,Pvt Ltd,>4,12,False
+12287,city_103,0.92,Male,True,no_enrollment,Graduate,STEM,>20,1000-4999,Pvt Ltd,1,28,False
+5098,city_103,0.92,Female,True,no_enrollment,Masters,STEM,10,10000+,Pvt Ltd,1,21,False
+26341,city_160,0.92,Male,False,no_enrollment,Graduate,STEM,16,10000+,,1,24,False
+15733,city_160,0.92,Female,True,no_enrollment,Graduate,STEM,17,10000+,Pvt Ltd,>4,14,False
+2351,city_104,0.924,Male,True,no_enrollment,Graduate,STEM,12,10000+,Pvt Ltd,4,22,False
+1230,city_103,0.92,Male,True,no_enrollment,Masters,STEM,>20,10000+,Pvt Ltd,2,105,False
+12352,city_103,0.92,Male,True,no_enrollment,Graduate,Humanities,>20,10000+,Pvt Ltd,>4,127,False
+33205,city_100,0.887,,False,Full time course,Masters,STEM,>20,10000+,Public Sector,never,86,False
+30139,city_23,0.899,Male,True,no_enrollment,High School,,16,1000-4999,Pvt Ltd,1,52,False
+6551,city_57,0.866,Male,True,Full time course,Graduate,STEM,15,1000-4999,Pvt Ltd,1,24,False
+29992,city_103,0.92,Male,True,no_enrollment,Masters,STEM,>20,10000+,Pvt Ltd,1,35,False
+27823,city_16,0.91,Male,True,no_enrollment,Masters,STEM,>20,10000+,Pvt Ltd,2,25,False
+868,city_83,0.923,Male,True,no_enrollment,Graduate,STEM,14,1000-4999,Pvt Ltd,3,330,False
+30527,city_103,0.92,Male,True,no_enrollment,Graduate,STEM,>20,1000-4999,Public Sector,1,139,False
+24689,city_103,0.92,Male,True,no_enrollment,Masters,STEM,>20,10000+,Pvt Ltd,>4,46,False
+11717,city_114,0.926,Male,False,no_enrollment,Masters,STEM,19,10000+,Pvt Ltd,>4,44,False
+12659,city_103,0.92,,True,no_enrollment,Graduate,STEM,>20,1000-4999,Public Sector,>4,9,False
+26230,city_104,0.924,Male,True,no_enrollment,Phd,Other,>20,10000+,Pvt Ltd,>4,12,False
+6457,city_103,0.92,Male,True,no_enrollment,Graduate,STEM,>20,10000+,Pvt Ltd,2,49,True
+6234,city_46,0.762,Male,True,no_enrollment,Masters,STEM,14,1000-4999,,4,112,False
+29148,city_103,0.92,Female,True,no_enrollment,Masters,STEM,16,1000-4999,Public Sector,1,292,False
+761,city_114,0.926,Male,True,no_enrollment,Masters,STEM,>20,5000-9999,Pvt Ltd,1,61,False
+18262,city_103,0.92,Male,True,no_enrollment,Masters,STEM,>20,10000+,Pvt Ltd,2,72,False
+11198,city_103,0.92,Male,True,no_enrollment,Graduate,STEM,>20,10000+,Pvt Ltd,>4,41,False
+22604,city_50,0.896,Male,True,no_enrollment,High School,,13,1000-4999,Public Sector,2,59,False
+14994,city_136,0.897,,True,no_enrollment,Masters,Other,20,10000+,Pvt Ltd,1,70,False
+23556,city_136,0.897,Male,True,no_enrollment,Masters,STEM,>20,10000+,Other,4,37,False
+4501,city_67,0.855,Male,True,no_enrollment,Graduate,STEM,17,10000+,Pvt Ltd,2,42,False
+4459,city_103,0.92,Male,True,no_enrollment,High School,,17,1000-4999,Pvt Ltd,>4,162,False
+519,city_104,0.924,,True,no_enrollment,Graduate,STEM,>20,10000+,Pvt Ltd,2,90,False
+21067,city_160,0.92,Male,False,Full time course,Masters,Other,17,10000+,Public Sector,1,66,False
+11211,city_103,0.92,Female,True,no_enrollment,Phd,STEM,>20,1000-4999,Public Sector,2,24,False
+11030,city_83,0.923,Male,True,Part time course,Graduate,STEM,17,10000+,Pvt Ltd,4,200,True
+15715,city_16,0.91,Male,True,no_enrollment,Graduate,STEM,>20,10000+,Pvt Ltd,>4,69,False
+1252,city_103,0.92,,True,no_enrollment,Masters,STEM,>20,1000-4999,Pvt Ltd,>4,35,False
+10848,city_103,0.92,Male,True,no_enrollment,Graduate,Other,19,10000+,Pvt Ltd,>4,53,False
+17203,city_65,0.802,Male,True,no_enrollment,Masters,STEM,14,10000+,Pvt Ltd,4,63,False
+10188,city_16,0.91,Male,False,no_enrollment,Masters,STEM,15,10000+,Pvt Ltd,>4,18,False
+24573,city_28,0.939,Male,True,no_enrollment,Masters,STEM,>20,10000+,Pvt Ltd,1,42,False
+1635,city_103,0.92,Male,True,no_enrollment,Masters,STEM,>20,10000+,Pvt Ltd,1,15,False
+11763,city_103,0.92,,True,no_enrollment,Graduate,STEM,>20,1000-4999,Pvt Ltd,1,322,False
+10906,city_103,0.92,Male,True,no_enrollment,Graduate,STEM,13,1000-4999,Pvt Ltd,1,91,False
+5759,city_136,0.897,Male,True,no_enrollment,Masters,STEM,15,1000-4999,Pvt Ltd,1,15,False
+17613,city_103,0.92,Male,True,no_enrollment,Graduate,STEM,16,5000-9999,Pvt Ltd,>4,10,False
+25226,city_136,0.897,Male,True,Full time course,Masters,STEM,16,1000-4999,,1,174,False
+13361,city_136,0.897,,True,no_enrollment,Masters,STEM,14,1000-4999,Pvt Ltd,>4,123,False
+11550,city_136,0.897,Male,True,no_enrollment,Masters,STEM,10,1000-4999,,1,31,False
+23087,city_90,0.698,,True,no_enrollment,Graduate,STEM,20,1000-4999,Pvt Ltd,1,24,False
+1077,city_103,0.92,Male,True,no_enrollment,Masters,STEM,>20,1000-4999,Pvt Ltd,>4,153,False
+7611,city_103,0.92,,True,Part time course,Graduate,STEM,10,10000+,Pvt Ltd,2,13,False
+25923,city_72,0.795,Male,True,no_enrollment,Graduate,STEM,18,5000-9999,Pvt Ltd,>4,95,False
+1001,city_103,0.92,Male,True,no_enrollment,Masters,STEM,10,1000-4999,Public Sector,>4,36,False
+14194,city_103,0.92,Male,True,no_enrollment,Graduate,STEM,10,1000-4999,Pvt Ltd,>4,146,False
+5383,city_103,0.92,Male,True,no_enrollment,Graduate,STEM,>20,1000-4999,Pvt Ltd,1,22,False
+18918,city_16,0.91,,True,no_enrollment,Phd,STEM,>20,5000-9999,NGO,2,130,False
+19935,city_123,0.738,Male,True,no_enrollment,Graduate,STEM,10,1000-4999,Pvt Ltd,2,21,False
+31843,city_97,0.925,Male,True,no_enrollment,Graduate,STEM,15,1000-4999,Pvt Ltd,4,108,False
+11680,city_160,0.92,,True,no_enrollment,Masters,STEM,11,10000+,Pvt Ltd,2,38,False
+11127,city_103,0.92,Male,True,no_enrollment,Graduate,STEM,>20,1000-4999,Pvt Ltd,1,4,False
+16872,city_103,0.92,Female,False,no_enrollment,Masters,STEM,19,10000+,NGO,>4,11,False
+31558,city_103,0.92,Male,True,no_enrollment,Graduate,STEM,>20,1000-4999,Pvt Ltd,1,74,False
+17406,city_16,0.91,Male,True,no_enrollment,Graduate,STEM,>20,1000-4999,Pvt Ltd,2,27,False
+29368,city_71,0.884,Male,True,no_enrollment,Primary School,,11,1000-4999,Pvt Ltd,1,52,False
+3042,city_16,0.91,Male,True,no_enrollment,Graduate,STEM,>20,10000+,Pvt Ltd,>4,64,False
+29351,city_103,0.92,Male,True,no_enrollment,Masters,STEM,16,10000+,Pvt Ltd,>4,36,False
+14649,city_150,0.698,,True,no_enrollment,Graduate,STEM,14,1000-4999,Public Sector,1,35,False
+20780,city_16,0.91,Male,True,no_enrollment,Masters,STEM,15,10000+,Pvt Ltd,3,34,False
+29747,city_103,0.92,Male,True,no_enrollment,Graduate,STEM,>20,5000-9999,Public Sector,2,53,False
+28855,city_16,0.91,Male,True,no_enrollment,Graduate,,10,10000+,Pvt Ltd,3,14,False
+14862,city_50,0.896,,True,,Graduate,STEM,16,5000-9999,Public Sector,>4,50,False
+1313,city_160,0.92,Male,True,no_enrollment,Graduate,STEM,>20,10000+,Pvt Ltd,>4,6,False
+21787,city_136,0.897,Male,True,no_enrollment,Masters,STEM,>20,10000+,Pvt Ltd,>4,31,False
+1482,city_75,0.939,Male,False,no_enrollment,Masters,STEM,15,10000+,Pvt Ltd,>4,52,False
+24518,city_73,0.754,Other,True,Part time course,High School,,10,10000+,,1,22,False
+4411,city_103,0.92,Female,False,no_enrollment,Phd,STEM,>20,1000-4999,Pvt Ltd,1,26,False
+16031,city_114,0.926,Male,True,no_enrollment,Graduate,STEM,>20,10000+,Pvt Ltd,>4,42,False
+14442,city_75,0.939,,True,no_enrollment,Masters,STEM,>20,1000-4999,Pvt Ltd,>4,91,False
+11587,city_21,0.624,Male,True,no_enrollment,Masters,STEM,10,1000-4999,,2,14,False
+24207,city_114,0.926,Female,True,no_enrollment,Masters,STEM,11,1000-4999,Pvt Ltd,1,16,False
+32588,city_21,0.624,Male,True,no_enrollment,Graduate,STEM,10,1000-4999,Pvt Ltd,1,216,True
+29060,city_103,0.92,Male,True,no_enrollment,Graduate,STEM,17,10000+,Pvt Ltd,>4,163,False
+32253,city_103,0.92,Male,True,no_enrollment,Masters,STEM,10,10000+,Pvt Ltd,4,129,False
+891,city_103,0.92,Male,False,no_enrollment,Graduate,STEM,12,1000-4999,Pvt Ltd,never,26,False
+27273,city_103,0.92,Male,True,no_enrollment,Graduate,STEM,11,10000+,Pvt Ltd,1,104,False
+7003,city_144,0.84,,True,no_enrollment,Graduate,STEM,10,1000-4999,Public Sector,1,78,True
+7634,city_103,0.92,,True,no_enrollment,Graduate,STEM,>20,10000+,Pvt Ltd,1,145,False
+26293,city_21,0.624,Male,True,no_enrollment,Masters,STEM,16,5000-9999,Pvt Ltd,1,88,False
+16147,city_103,0.92,,True,no_enrollment,,,20,1000-4999,Pvt Ltd,>4,74,False
+10385,city_16,0.91,Male,True,no_enrollment,Graduate,STEM,>20,10000+,Pvt Ltd,>4,16,False
+11157,city_103,0.92,Male,True,no_enrollment,Graduate,STEM,>20,1000-4999,Pvt Ltd,3,110,False
+7083,city_116,0.743,Male,True,no_enrollment,Masters,STEM,>20,10000+,Pvt Ltd,3,157,False
+12518,city_138,0.836,Male,True,no_enrollment,Graduate,STEM,11,1000-4999,Pvt Ltd,1,81,False
+16235,city_75,0.939,Male,False,Part time course,Graduate,STEM,11,10000+,Public Sector,1,26,False
+4127,city_103,0.92,Male,True,no_enrollment,Masters,STEM,10,10000+,Pvt Ltd,2,101,False
+773,city_16,0.91,Male,True,Full time course,Graduate,STEM,15,1000-4999,Pvt Ltd,1,37,False
+7509,city_103,0.92,,True,no_enrollment,Graduate,STEM,>20,10000+,Pvt Ltd,>4,36,False
+19414,city_97,0.925,,True,no_enrollment,Graduate,STEM,14,10000+,Pvt Ltd,1,17,False
+13376,city_145,0.555,,True,no_enrollment,Masters,STEM,19,10000+,Pvt Ltd,2,57,True
+18641,city_114,0.926,,True,no_enrollment,Graduate,STEM,11,1000-4999,Other,2,26,False
+14313,city_103,0.92,Male,True,no_enrollment,Graduate,STEM,>20,10000+,Pvt Ltd,2,134,True
+2261,city_21,0.624,Male,True,no_enrollment,Graduate,STEM,12,1000-4999,Pvt Ltd,2,17,False
+23482,city_21,0.624,Male,True,no_enrollment,Graduate,STEM,15,1000-4999,Pvt Ltd,>4,56,False
+22397,city_103,0.92,,True,no_enrollment,Graduate,STEM,>20,10000+,Pvt Ltd,>4,70,False
+1128,city_100,0.887,,True,no_enrollment,Graduate,STEM,>20,10000+,Pvt Ltd,4,12,True
+23898,city_136,0.897,Male,True,no_enrollment,Graduate,STEM,14,10000+,Pvt Ltd,2,128,False
+6498,city_21,0.624,,True,no_enrollment,Masters,STEM,>20,10000+,Public Sector,>4,20,False
+18729,city_16,0.91,Male,True,no_enrollment,Graduate,STEM,13,10000+,Pvt Ltd,2,45,False
+27070,city_57,0.866,Male,True,no_enrollment,Masters,STEM,>20,1000-4999,Pvt Ltd,>4,15,False
+10520,city_16,0.91,Male,True,no_enrollment,Masters,STEM,>20,1000-4999,Pvt Ltd,1,61,False
+12222,city_16,0.91,,True,no_enrollment,Masters,STEM,>20,10000+,Pvt Ltd,2,43,False
+9946,city_103,0.92,Male,True,no_enrollment,Graduate,STEM,16,10000+,Pvt Ltd,>4,112,False
+19838,city_114,0.926,Male,False,no_enrollment,Graduate,STEM,>20,10000+,Pvt Ltd,>4,22,False
+5054,city_16,0.91,,True,no_enrollment,Masters,STEM,14,10000+,Pvt Ltd,>4,240,False
+1244,city_103,0.92,Male,True,no_enrollment,Graduate,STEM,19,1000-4999,Pvt Ltd,1,72,False
+26739,city_16,0.91,Male,True,no_enrollment,Graduate,STEM,>20,5000-9999,Public Sector,>4,157,False
+13661,city_41,0.827,Male,True,no_enrollment,High School,,11,5000-9999,Pvt Ltd,1,26,True
+12803,city_103,0.92,,True,no_enrollment,Graduate,STEM,16,1000-4999,Public Sector,2,146,True
+11402,city_46,0.762,,True,no_enrollment,Graduate,STEM,17,1000-4999,Pvt Ltd,2,11,False
+23753,city_64,0.666,Male,True,no_enrollment,Masters,STEM,>20,10000+,Pvt Ltd,1,52,False
+14097,city_103,0.92,,True,no_enrollment,Graduate,STEM,16,5000-9999,Pvt Ltd,1,51,False
+1760,city_103,0.92,Male,True,Full time course,Masters,STEM,10,10000+,Pvt Ltd,2,31,False
+9427,city_16,0.91,Male,True,no_enrollment,Graduate,Humanities,17,1000-4999,Pvt Ltd,>4,11,False
+19837,city_104,0.924,Male,True,no_enrollment,Graduate,STEM,>20,10000+,Pvt Ltd,>4,11,False
+22761,city_136,0.897,,False,no_enrollment,Phd,STEM,15,5000-9999,Public Sector,3,111,True
+6035,city_114,0.926,,True,no_enrollment,Masters,STEM,>20,5000-9999,Pvt Ltd,1,2,False
+28392,city_28,0.939,Female,True,no_enrollment,Masters,STEM,10,10000+,Pvt Ltd,>4,48,False
+3481,city_102,0.804,Male,True,no_enrollment,Graduate,STEM,11,5000-9999,Pvt Ltd,2,38,False
+10542,city_16,0.91,Male,True,no_enrollment,Phd,STEM,13,5000-9999,NGO,1,7,False
+30681,city_64,0.666,Male,True,no_enrollment,Graduate,STEM,17,5000-9999,Pvt Ltd,1,111,False
+30058,city_136,0.897,Male,True,no_enrollment,Graduate,STEM,>20,1000-4999,Pvt Ltd,>4,122,False
+28760,city_103,0.92,Male,True,no_enrollment,Graduate,STEM,20,5000-9999,Pvt Ltd,1,50,True
+17624,city_173,0.878,Male,True,no_enrollment,Graduate,STEM,16,10000+,Pvt Ltd,3,72,False
+6279,city_114,0.926,,True,no_enrollment,Masters,STEM,18,1000-4999,Public Sector,2,46,False
+26738,city_103,0.92,Male,True,no_enrollment,Graduate,STEM,13,10000+,Pvt Ltd,1,172,False
+26220,city_103,0.92,Male,True,no_enrollment,Graduate,STEM,>20,5000-9999,Pvt Ltd,3,26,False
+28756,city_134,0.698,,True,no_enrollment,Masters,STEM,>20,5000-9999,Pvt Ltd,>4,180,False
+285,city_103,0.92,Male,True,no_enrollment,Phd,STEM,>20,10000+,Pvt Ltd,2,17,False
+1649,city_103,0.92,Male,True,no_enrollment,Graduate,STEM,16,10000+,Pvt Ltd,>4,91,True
+30384,city_23,0.899,,False,Full time course,High School,,12,10000+,Pvt Ltd,2,99,True
+7571,city_103,0.92,,True,no_enrollment,Phd,STEM,>20,10000+,Pvt Ltd,4,80,False
+5218,city_103,0.92,Male,True,no_enrollment,Graduate,STEM,19,1000-4999,Pvt Ltd,1,96,False
+25392,city_103,0.92,,False,no_enrollment,Graduate,STEM,>20,1000-4999,Pvt Ltd,>4,102,False
+32782,city_21,0.624,Male,True,no_enrollment,Masters,STEM,17,10000+,Other,1,26,True
+13263,city_103,0.92,Male,True,no_enrollment,Graduate,Other,>20,1000-4999,Pvt Ltd,>4,11,False
+15996,city_103,0.92,Male,True,,Graduate,STEM,>20,1000-4999,Public Sector,3,9,False
+14877,city_23,0.899,Female,True,no_enrollment,Masters,STEM,16,10000+,Pvt Ltd,>4,50,False
+15475,city_61,0.913,Male,True,no_enrollment,Graduate,STEM,>20,10000+,Pvt Ltd,never,322,False
+32226,city_73,0.754,Male,True,no_enrollment,Masters,STEM,12,1000-4999,Pvt Ltd,2,47,False
+1656,city_99,0.915,,False,Full time course,High School,,10,10000+,Pvt Ltd,1,97,False
+15642,city_97,0.925,Male,True,no_enrollment,Masters,STEM,>20,1000-4999,Pvt Ltd,>4,124,False
+10962,city_136,0.897,,False,no_enrollment,Phd,STEM,>20,10000+,NGO,>4,11,False
+19757,city_173,0.878,Male,True,no_enrollment,Graduate,STEM,>20,10000+,Pvt Ltd,>4,42,False
+7307,city_16,0.91,Male,True,no_enrollment,Graduate,STEM,>20,5000-9999,Pvt Ltd,>4,51,False
+22916,city_103,0.92,Male,False,no_enrollment,Masters,STEM,>20,10000+,Pvt Ltd,3,27,False
+20531,city_136,0.897,Male,True,no_enrollment,Masters,STEM,18,5000-9999,Pvt Ltd,>4,41,False
+3178,city_114,0.926,Male,True,no_enrollment,Masters,STEM,11,10000+,Pvt Ltd,>4,78,False
+9589,city_116,0.743,Male,True,no_enrollment,Graduate,STEM,14,10000+,Pvt Ltd,>4,19,False
+2214,city_16,0.91,Male,True,no_enrollment,Graduate,STEM,>20,5000-9999,Pvt Ltd,3,89,False
+14154,city_103,0.92,,False,no_enrollment,Masters,STEM,14,5000-9999,Public Sector,>4,66,True
+10023,city_103,0.92,Male,True,no_enrollment,Masters,STEM,11,10000+,Pvt Ltd,3,6,False
+12602,city_136,0.897,Male,True,no_enrollment,Graduate,STEM,16,10000+,Pvt Ltd,2,68,False
+32621,city_103,0.92,Male,True,no_enrollment,Graduate,STEM,19,10000+,Pvt Ltd,1,44,False
+26701,city_77,0.83,Male,True,no_enrollment,Graduate,STEM,12,5000-9999,Pvt Ltd,>4,106,False
+11838,city_103,0.92,Male,True,no_enrollment,Graduate,STEM,10,10000+,Pvt Ltd,2,16,False
+689,city_103,0.92,Male,True,no_enrollment,Graduate,STEM,10,10000+,Pvt Ltd,>4,27,True
+27811,city_160,0.92,Male,True,no_enrollment,Masters,STEM,14,5000-9999,Pvt Ltd,>4,136,False
+1872,city_75,0.939,Male,True,no_enrollment,Masters,STEM,11,10000+,Pvt Ltd,1,46,False
+21317,city_75,0.939,Male,True,no_enrollment,Graduate,STEM,14,1000-4999,Public Sector,>4,41,False
+8691,city_99,0.915,Male,True,no_enrollment,Masters,STEM,>20,1000-4999,Pvt Ltd,>4,4,False
+15301,city_16,0.91,Male,True,no_enrollment,Masters,STEM,19,10000+,Pvt Ltd,2,192,False
+20604,city_16,0.91,Male,True,no_enrollment,Masters,Business Degree,>20,10000+,Pvt Ltd,>4,142,False
+28444,city_50,0.896,,True,no_enrollment,Masters,STEM,>20,1000-4999,Public Sector,>4,15,False
+2053,city_67,0.855,Female,False,no_enrollment,Masters,STEM,13,1000-4999,Pvt Ltd,>4,51,False
+11920,city_103,0.92,Female,True,Part time course,Graduate,STEM,13,10000+,Pvt Ltd,1,24,False
+26431,city_114,0.926,Male,True,no_enrollment,Masters,Business Degree,17,1000-4999,Pvt Ltd,>4,90,False
+11971,city_123,0.738,Male,True,Full time course,Graduate,STEM,12,1000-4999,Pvt Ltd,1,41,False
+2361,city_104,0.924,Male,True,no_enrollment,Phd,STEM,>20,10000+,Pvt Ltd,1,140,False
+27043,city_103,0.92,Male,True,no_enrollment,Graduate,STEM,>20,1000-4999,Public Sector,>4,33,False
+11382,city_103,0.92,Male,True,no_enrollment,Masters,Humanities,10,10000+,Pvt Ltd,2,7,False
+24457,city_16,0.91,Male,False,no_enrollment,Graduate,STEM,16,10000+,Public Sector,2,15,False
+978,city_103,0.92,Male,True,no_enrollment,Graduate,Other,>20,1000-4999,Pvt Ltd,>4,24,False
+6797,city_114,0.926,,True,no_enrollment,Graduate,STEM,10,1000-4999,Pvt Ltd,>4,98,False
+3062,city_104,0.924,Male,True,no_enrollment,Graduate,STEM,>20,1000-4999,Pvt Ltd,1,57,False
+18280,city_103,0.92,Male,True,no_enrollment,Graduate,No Major,>20,1000-4999,NGO,>4,11,False
+24399,city_102,0.804,,True,no_enrollment,Masters,STEM,13,1000-4999,Pvt Ltd,1,107,False
+21556,city_21,0.624,Female,True,no_enrollment,Graduate,STEM,11,10000+,Pvt Ltd,1,51,True
+45,city_103,0.92,Male,True,no_enrollment,Graduate,STEM,>20,1000-4999,Public Sector,>4,26,False
+22647,city_104,0.924,Male,False,no_enrollment,Graduate,STEM,14,10000+,Pvt Ltd,1,26,False
+191,city_103,0.92,Male,True,no_enrollment,Graduate,STEM,16,10000+,Pvt Ltd,>4,48,False
+19087,city_160,0.92,Male,True,no_enrollment,Graduate,STEM,10,5000-9999,,2,61,False
+4345,city_160,0.92,,False,no_enrollment,Masters,STEM,>20,10000+,Public Sector,2,11,True
+6205,city_103,0.92,Male,True,no_enrollment,Graduate,STEM,13,10000+,Pvt Ltd,>4,8,False
+30405,city_103,0.92,Male,True,no_enrollment,Graduate,STEM,>20,10000+,Pvt Ltd,>4,126,False
+10989,city_103,0.92,Male,True,no_enrollment,Masters,STEM,>20,10000+,NGO,>4,110,False
+1086,city_16,0.91,Male,True,no_enrollment,Graduate,STEM,12,5000-9999,Pvt Ltd,1,122,False
+22632,city_16,0.91,Male,True,no_enrollment,Graduate,STEM,>20,10000+,,>4,11,False
+4339,city_103,0.92,Male,True,no_enrollment,,,>20,5000-9999,Pvt Ltd,1,6,False
+7354,city_103,0.92,Male,True,no_enrollment,Graduate,STEM,>20,1000-4999,Pvt Ltd,4,8,False
+27198,city_103,0.92,Male,True,no_enrollment,Masters,STEM,15,10000+,Pvt Ltd,1,112,False
+27301,city_21,0.624,Male,False,no_enrollment,Graduate,STEM,10,5000-9999,Pvt Ltd,>4,49,True
+26659,city_65,0.802,Male,True,no_enrollment,Graduate,STEM,11,1000-4999,Pvt Ltd,2,70,False
+32469,city_103,0.92,Male,False,no_enrollment,Graduate,STEM,16,10000+,Pvt Ltd,3,30,False
+32349,city_160,0.92,Male,True,no_enrollment,Graduate,STEM,>20,1000-4999,Pvt Ltd,>4,61,False
+5327,city_16,0.91,Male,True,no_enrollment,Masters,STEM,18,10000+,Pvt Ltd,2,17,False
+9661,city_21,0.624,Male,True,no_enrollment,Masters,STEM,11,10000+,Pvt Ltd,1,51,False
+5423,city_102,0.804,Male,True,no_enrollment,Masters,STEM,>20,10000+,Pvt Ltd,1,25,True
+17462,city_103,0.92,Male,True,no_enrollment,Masters,STEM,>20,10000+,Public Sector,>4,20,False
+1383,city_16,0.91,Other,True,no_enrollment,Graduate,STEM,>20,10000+,Pvt Ltd,>4,96,False
+32814,city_102,0.804,Male,True,no_enrollment,Masters,STEM,15,1000-4999,Pvt Ltd,3,22,False
+16643,city_71,0.884,Male,True,no_enrollment,Graduate,STEM,15,1000-4999,Pvt Ltd,1,82,False
+28919,city_16,0.91,Male,True,no_enrollment,Graduate,No Major,>20,1000-4999,Pvt Ltd,4,66,False
+23195,city_103,0.92,Female,True,no_enrollment,Graduate,Humanities,10,10000+,Pvt Ltd,>4,124,False
+13134,city_160,0.92,Male,True,no_enrollment,Masters,STEM,>20,1000-4999,Public Sector,1,46,False
+20284,city_103,0.92,,True,no_enrollment,Masters,STEM,>20,10000+,Pvt Ltd,2,54,False
+15007,city_102,0.804,Male,True,no_enrollment,Graduate,STEM,>20,5000-9999,Pvt Ltd,>4,12,False
+17727,city_103,0.92,Male,True,no_enrollment,Graduate,STEM,>20,10000+,Pvt Ltd,>4,48,False
+21109,city_103,0.92,Male,True,no_enrollment,Graduate,STEM,11,10000+,Pvt Ltd,>4,152,False
+3321,city_16,0.91,Male,True,no_enrollment,Masters,STEM,>20,10000+,Pvt Ltd,>4,8,False
+30422,city_59,0.775,Male,True,Part time course,Graduate,STEM,>20,5000-9999,Public Sector,1,44,False
+6683,city_21,0.624,Male,True,no_enrollment,Masters,STEM,10,10000+,Pvt Ltd,>4,8,False
+4795,city_103,0.92,Female,True,no_enrollment,Masters,Humanities,>20,10000+,Pvt Ltd,1,52,False
+30097,city_114,0.926,Male,True,no_enrollment,Masters,STEM,>20,5000-9999,Pvt Ltd,>4,26,False
+1623,city_103,0.92,,False,no_enrollment,Graduate,STEM,10,1000-4999,Pvt Ltd,>4,204,False
+12103,city_116,0.743,Male,True,no_enrollment,Masters,STEM,18,1000-4999,Pvt Ltd,>4,25,False
+25335,city_103,0.92,Male,True,no_enrollment,Primary School,,>20,10000+,Pvt Ltd,1,102,False
+12911,city_173,0.878,Male,True,Full time course,High School,,14,1000-4999,Pvt Ltd,2,61,False
+26610,city_103,0.92,Male,True,no_enrollment,Graduate,STEM,>20,1000-4999,Pvt Ltd,4,104,False
+6565,city_21,0.624,Male,True,no_enrollment,Masters,STEM,>20,1000-4999,Pvt Ltd,2,56,True
+245,city_103,0.92,Male,True,no_enrollment,Graduate,STEM,14,10000+,Pvt Ltd,>4,18,False
+21306,city_103,0.92,Male,True,no_enrollment,Graduate,STEM,>20,10000+,Pvt Ltd,1,17,False
+25809,city_103,0.92,Male,True,no_enrollment,Graduate,STEM,18,1000-4999,Pvt Ltd,4,23,False
+11461,city_114,0.926,Male,True,no_enrollment,Masters,STEM,16,10000+,Pvt Ltd,>4,26,False
+6266,city_103,0.92,Male,True,no_enrollment,Graduate,STEM,14,10000+,Pvt Ltd,1,152,False
+5474,city_116,0.743,Male,False,no_enrollment,Masters,STEM,>20,10000+,Pvt Ltd,>4,192,False
+9856,city_138,0.836,Male,True,no_enrollment,Masters,STEM,>20,10000+,Pvt Ltd,>4,10,True
+14450,city_21,0.624,,True,Full time course,Masters,STEM,15,10000+,,2,96,True
+21053,city_103,0.92,Male,True,no_enrollment,Masters,STEM,>20,10000+,Pvt Ltd,2,11,False
+24824,city_99,0.915,Female,False,no_enrollment,Phd,Humanities,10,1000-4999,NGO,2,41,False
+20127,city_103,0.92,Male,False,no_enrollment,Graduate,STEM,20,10000+,NGO,>4,28,False
+27087,city_57,0.866,Male,True,no_enrollment,Masters,STEM,>20,5000-9999,Pvt Ltd,1,42,False
+29207,city_103,0.92,,True,no_enrollment,Graduate,STEM,11,1000-4999,Pvt Ltd,>4,51,False
+29362,city_103,0.92,Male,True,no_enrollment,Graduate,STEM,>20,10000+,Pvt Ltd,4,90,False
+459,city_114,0.926,Male,True,no_enrollment,Masters,STEM,11,1000-4999,Pvt Ltd,1,12,False
+73,city_46,0.762,Male,True,no_enrollment,Graduate,STEM,16,10000+,Pvt Ltd,2,53,False
+22172,city_61,0.913,Male,True,no_enrollment,Graduate,STEM,>20,1000-4999,Pvt Ltd,>4,12,False
+30307,city_16,0.91,Male,True,no_enrollment,Graduate,STEM,17,10000+,Pvt Ltd,>4,31,False
+26412,city_103,0.92,Male,True,no_enrollment,Masters,STEM,20,10000+,Pvt Ltd,>4,76,False
+18093,city_103,0.92,Male,True,no_enrollment,Graduate,STEM,10,10000+,Pvt Ltd,2,58,False
+24227,city_136,0.897,,True,no_enrollment,Masters,STEM,15,1000-4999,,3,45,True
+30984,city_103,0.92,,True,no_enrollment,Graduate,STEM,>20,10000+,Pvt Ltd,2,34,False
+1008,city_16,0.91,Male,True,no_enrollment,Graduate,STEM,15,10000+,Public Sector,1,7,False
+1561,city_103,0.92,Male,True,no_enrollment,Graduate,STEM,>20,10000+,Pvt Ltd,>4,79,True
+32135,city_136,0.897,,True,no_enrollment,Phd,STEM,>20,10000+,Pvt Ltd,>4,298,False
+29958,city_165,0.903,Male,True,,Graduate,STEM,>20,1000-4999,Pvt Ltd,2,86,False
+28790,city_16,0.91,Male,True,no_enrollment,Masters,Humanities,14,10000+,Pvt Ltd,1,158,False
+11943,city_21,0.624,Male,True,no_enrollment,Graduate,STEM,10,1000-4999,Pvt Ltd,2,18,True
+10768,city_104,0.924,Male,True,no_enrollment,High School,,>20,1000-4999,Pvt Ltd,1,44,False
+25759,city_103,0.92,Male,True,no_enrollment,Masters,STEM,>20,10000+,Pvt Ltd,>4,40,False
+27845,city_114,0.926,Male,True,no_enrollment,Masters,STEM,>20,10000+,Pvt Ltd,1,66,False
+13229,city_103,0.92,Male,True,no_enrollment,Graduate,STEM,>20,10000+,Pvt Ltd,>4,72,False
+5903,city_21,0.624,Male,True,no_enrollment,Graduate,STEM,15,5000-9999,Pvt Ltd,3,67,True
+16186,city_114,0.926,Male,True,no_enrollment,Masters,STEM,10,10000+,Pvt Ltd,2,50,False
+22667,city_16,0.91,Male,True,no_enrollment,Graduate,STEM,>20,1000-4999,Pvt Ltd,>4,64,False
+8604,city_103,0.92,Male,True,Part time course,Graduate,STEM,14,10000+,Pvt Ltd,>4,43,False
+26204,city_61,0.913,Male,True,no_enrollment,Graduate,STEM,19,5000-9999,Public Sector,>4,9,False
+11656,city_21,0.624,Female,False,no_enrollment,Masters,STEM,13,1000-4999,Pvt Ltd,>4,56,True
+31605,city_103,0.92,Male,True,no_enrollment,Graduate,STEM,>20,5000-9999,Pvt Ltd,>4,31,False
+3608,city_160,0.92,Female,True,no_enrollment,Graduate,STEM,>20,5000-9999,Pvt Ltd,>4,40,False
+31695,city_103,0.92,Male,True,no_enrollment,Graduate,STEM,>20,10000+,Pvt Ltd,>4,81,False
+11863,city_103,0.92,Male,True,Part time course,Graduate,STEM,16,1000-4999,Pvt Ltd,1,30,False
+18687,city_16,0.91,Male,True,no_enrollment,Masters,Other,13,1000-4999,NGO,>4,182,False
+15044,city_103,0.92,Male,True,no_enrollment,Graduate,STEM,13,1000-4999,Pvt Ltd,2,14,False
+3705,city_157,0.769,Male,True,no_enrollment,Masters,STEM,14,5000-9999,Public Sector,2,36,False
+6887,city_21,0.624,Male,True,no_enrollment,Graduate,STEM,10,10000+,Pvt Ltd,1,24,False
+23323,city_103,0.92,Male,True,no_enrollment,Graduate,STEM,>20,10000+,Pvt Ltd,>4,37,False
+26507,city_103,0.92,Male,True,no_enrollment,Graduate,STEM,>20,1000-4999,Pvt Ltd,4,6,False
+13950,city_103,0.92,Male,True,no_enrollment,Graduate,STEM,>20,1000-4999,Pvt Ltd,>4,30,True
+8025,city_45,0.89,,True,no_enrollment,Masters,STEM,12,1000-4999,Pvt Ltd,1,46,False
+12861,city_136,0.897,,True,no_enrollment,Masters,STEM,11,1000-4999,,2,31,False
+31610,city_103,0.92,Male,True,no_enrollment,Graduate,STEM,>20,5000-9999,Pvt Ltd,>4,78,False
+5297,city_36,0.893,Male,True,Part time course,Graduate,Humanities,>20,1000-4999,Pvt Ltd,1,96,False
+11690,city_114,0.926,Male,True,no_enrollment,Masters,STEM,16,1000-4999,Pvt Ltd,1,13,False
+17,city_21,0.624,,True,no_enrollment,Graduate,STEM,13,5000-9999,Pvt Ltd,4,38,False
+20025,city_103,0.92,Male,True,no_enrollment,Masters,STEM,10,10000+,Pvt Ltd,>4,23,True
+1432,city_103,0.92,Male,True,no_enrollment,Phd,STEM,14,10000+,Pvt Ltd,1,54,False
+337,city_103,0.92,Male,False,no_enrollment,Masters,Business Degree,>20,1000-4999,Pvt Ltd,3,16,False
+3355,city_159,0.843,Male,True,no_enrollment,Graduate,STEM,>20,10000+,Public Sector,>4,12,False
+1301,city_103,0.92,Male,True,no_enrollment,Graduate,STEM,>20,1000-4999,NGO,1,117,False
+22389,city_103,0.92,Female,True,Full time course,Masters,STEM,10,1000-4999,Public Sector,1,20,True
+8296,city_103,0.92,Male,True,no_enrollment,Masters,STEM,10,10000+,Pvt Ltd,2,99,False
+31346,city_103,0.92,Female,False,no_enrollment,Phd,Humanities,>20,1000-4999,NGO,4,214,True
+25087,city_114,0.926,,True,no_enrollment,Graduate,STEM,16,1000-4999,,2,60,False
+1472,city_75,0.939,Male,True,no_enrollment,Graduate,STEM,>20,10000+,Pvt Ltd,>4,102,False
+11341,city_173,0.878,Male,True,no_enrollment,Masters,STEM,13,10000+,Pvt Ltd,3,28,False
+6210,city_16,0.91,Male,True,no_enrollment,High School,,11,10000+,Pvt Ltd,>4,42,False
+5957,city_23,0.899,Male,True,Full time course,Graduate,STEM,15,10000+,Pvt Ltd,2,6,False
+28091,city_103,0.92,Male,True,no_enrollment,Graduate,STEM,>20,10000+,Pvt Ltd,4,57,False
+31341,city_23,0.899,,True,no_enrollment,Graduate,STEM,>20,1000-4999,Pvt Ltd,>4,94,False
+736,city_23,0.899,Male,True,no_enrollment,Graduate,STEM,>20,10000+,Pvt Ltd,>4,7,True
+7429,city_103,0.92,Male,True,no_enrollment,Masters,STEM,>20,1000-4999,Pvt Ltd,3,86,False
+24832,city_103,0.92,,True,no_enrollment,,,>20,10000+,Pvt Ltd,>4,50,False
+16672,city_16,0.91,,True,no_enrollment,Masters,STEM,14,1000-4999,,,47,False
+19600,city_159,0.843,Male,True,no_enrollment,Masters,STEM,18,10000+,Pvt Ltd,4,7,False
+30431,city_103,0.92,Male,True,Full time course,Graduate,STEM,10,10000+,Pvt Ltd,>4,39,False
+25441,city_103,0.92,Male,True,Part time course,Graduate,STEM,16,10000+,Pvt Ltd,>4,90,False
+10312,city_103,0.92,Male,True,Part time course,Graduate,STEM,10,10000+,Pvt Ltd,1,55,False
+19105,city_114,0.926,Male,True,no_enrollment,Masters,STEM,>20,1000-4999,Pvt Ltd,2,59,False
+13212,city_103,0.92,Male,True,no_enrollment,Graduate,STEM,16,10000+,Pvt Ltd,3,12,False
+13948,city_114,0.926,Male,False,no_enrollment,Phd,STEM,>20,10000+,Pvt Ltd,1,18,False
+22514,city_36,0.893,Male,True,no_enrollment,Masters,STEM,10,1000-4999,Pvt Ltd,>4,222,False
+27469,city_103,0.92,Male,True,no_enrollment,Graduate,STEM,10,10000+,Pvt Ltd,3,33,False
+20539,city_173,0.878,Male,False,Part time course,High School,,>20,1000-4999,Pvt Ltd,>4,196,False
+17227,city_80,0.847,Male,False,no_enrollment,Graduate,STEM,20,10000+,Pvt Ltd,never,9,False
+13647,city_114,0.926,Female,True,no_enrollment,Masters,STEM,>20,10000+,Pvt Ltd,1,140,False
+10832,city_73,0.754,Male,False,no_enrollment,Phd,STEM,>20,10000+,Public Sector,>4,26,False
+8104,city_13,0.827,Male,True,no_enrollment,Masters,STEM,13,1000-4999,Pvt Ltd,never,15,False
+16749,city_114,0.926,Male,False,Part time course,Masters,STEM,16,1000-4999,NGO,>4,101,False
+4351,city_103,0.92,Male,True,no_enrollment,Graduate,STEM,15,10000+,Pvt Ltd,>4,37,False
+28169,city_103,0.92,Male,True,no_enrollment,Graduate,STEM,>20,1000-4999,Pvt Ltd,4,69,False
+20966,city_73,0.754,,True,no_enrollment,Graduate,STEM,11,1000-4999,Pvt Ltd,,156,False
+29090,city_21,0.624,Male,True,no_enrollment,Graduate,STEM,10,1000-4999,Pvt Ltd,1,7,False
+28923,city_103,0.92,Male,True,no_enrollment,Graduate,STEM,17,10000+,Pvt Ltd,1,48,False
+24828,city_103,0.92,Male,False,no_enrollment,Graduate,STEM,>20,5000-9999,Public Sector,>4,6,False
+7843,city_75,0.939,Male,True,no_enrollment,Graduate,STEM,13,10000+,Pvt Ltd,1,54,True
+31032,city_114,0.926,Male,True,Part time course,Masters,Business Degree,>20,1000-4999,Pvt Ltd,3,1,False
+10484,city_103,0.92,Female,True,no_enrollment,Graduate,STEM,>20,5000-9999,Pvt Ltd,1,15,False
+7538,city_46,0.762,Male,False,no_enrollment,Masters,STEM,10,5000-9999,Public Sector,1,122,False
+31670,city_103,0.92,Male,True,no_enrollment,Graduate,Humanities,>20,10000+,Pvt Ltd,1,20,False
+18592,city_114,0.926,Male,True,Part time course,Graduate,STEM,10,10000+,Pvt Ltd,never,44,False
+22583,city_21,0.624,Male,True,no_enrollment,Graduate,STEM,10,10000+,Pvt Ltd,2,9,True
+28704,city_136,0.897,Male,True,no_enrollment,Masters,STEM,13,10000+,Pvt Ltd,never,73,False
+24001,city_76,0.698,Male,True,no_enrollment,Graduate,STEM,>20,1000-4999,Pvt Ltd,>4,54,False
+28196,city_114,0.926,Male,False,Full time course,Masters,STEM,13,10000+,Pvt Ltd,1,51,False
+19212,city_103,0.92,Male,True,no_enrollment,Graduate,STEM,10,5000-9999,Pvt Ltd,1,118,False
+11772,city_102,0.804,Male,True,no_enrollment,Masters,STEM,11,1000-4999,Pvt Ltd,1,15,True
+15495,city_114,0.926,Male,True,no_enrollment,Masters,STEM,10,1000-4999,Pvt Ltd,1,62,False
+32011,city_103,0.92,Male,True,no_enrollment,Graduate,STEM,13,10000+,Pvt Ltd,2,84,False
+3988,city_103,0.92,Male,True,no_enrollment,Graduate,STEM,>20,1000-4999,Pvt Ltd,1,72,False
+11455,city_21,0.624,Male,True,no_enrollment,Graduate,STEM,13,10000+,Pvt Ltd,3,53,True
+2407,city_16,0.91,Male,True,no_enrollment,Graduate,STEM,10,10000+,Pvt Ltd,1,20,False
+26316,city_21,0.624,Male,True,no_enrollment,Masters,STEM,14,5000-9999,Pvt Ltd,1,87,True
+8704,city_103,0.92,Male,True,no_enrollment,Graduate,STEM,>20,10000+,Pvt Ltd,3,54,False
+3724,city_103,0.92,Male,True,no_enrollment,Graduate,STEM,>20,1000-4999,Pvt Ltd,>4,70,False
+19506,city_114,0.926,Male,True,Full time course,Masters,STEM,11,5000-9999,Public Sector,1,22,False
+1766,city_103,0.92,Male,True,no_enrollment,Graduate,STEM,19,10000+,Pvt Ltd,>4,294,False
+18624,city_21,0.624,Male,True,Full time course,Graduate,STEM,10,5000-9999,Pvt Ltd,1,286,True
+11074,city_103,0.92,,True,no_enrollment,Phd,STEM,>20,10000+,Public Sector,3,36,False
+11989,city_136,0.897,Male,True,no_enrollment,Masters,STEM,>20,5000-9999,Pvt Ltd,>4,43,False
+31350,city_16,0.91,Male,True,no_enrollment,Graduate,No Major,>20,10000+,Pvt Ltd,1,77,False
+10972,city_103,0.92,Male,True,no_enrollment,Masters,STEM,18,10000+,Pvt Ltd,3,57,False
+17473,city_21,0.624,Male,True,no_enrollment,Graduate,STEM,16,1000-4999,Pvt Ltd,2,96,False
+9452,city_103,0.92,Male,True,no_enrollment,Graduate,STEM,17,10000+,Pvt Ltd,2,28,False
+8227,city_103,0.92,Male,True,no_enrollment,Masters,STEM,10,1000-4999,Pvt Ltd,1,57,False
+27954,city_16,0.91,Male,True,Full time course,Graduate,STEM,13,1000-4999,Pvt Ltd,1,178,False
+29286,city_97,0.925,,True,no_enrollment,Masters,STEM,13,1000-4999,,1,39,False
+5385,city_103,0.92,Male,True,no_enrollment,Graduate,STEM,>20,10000+,Pvt Ltd,>4,10,False
+31120,city_21,0.624,Male,True,Full time course,Masters,STEM,>20,1000-4999,Pvt Ltd,>4,4,False
+3946,city_103,0.92,,True,no_enrollment,Graduate,STEM,18,10000+,Pvt Ltd,1,2,False
+7586,city_103,0.92,Male,True,no_enrollment,Graduate,STEM,14,1000-4999,Pvt Ltd,4,150,False
+18380,city_21,0.624,,True,no_enrollment,Graduate,STEM,14,10000+,Pvt Ltd,>4,28,False
+33220,city_73,0.754,Male,True,Part time course,Masters,STEM,14,10000+,Public Sector,2,288,False
+21521,city_114,0.926,Male,True,no_enrollment,High School,,>20,1000-4999,Pvt Ltd,never,59,False
+9779,city_50,0.896,Male,True,no_enrollment,Masters,Humanities,>20,5000-9999,NGO,>4,18,False
+5657,city_13,0.827,Male,True,no_enrollment,Graduate,STEM,>20,5000-9999,Pvt Ltd,>4,16,False
+29407,city_65,0.802,Male,True,,,,>20,1000-4999,Pvt Ltd,,6,False
+23975,city_75,0.939,Male,True,no_enrollment,Masters,STEM,13,5000-9999,Public Sector,1,161,False
+28402,city_16,0.91,Other,True,no_enrollment,Graduate,STEM,15,10000+,Pvt Ltd,1,53,False
+19254,city_103,0.92,Male,True,no_enrollment,Masters,STEM,20,10000+,Pvt Ltd,>4,22,False
+20937,city_104,0.924,Male,False,no_enrollment,Masters,STEM,14,10000+,Pvt Ltd,1,53,False
+5776,city_28,0.939,,True,no_enrollment,Masters,STEM,14,1000-4999,Pvt Ltd,2,12,False
+30172,city_28,0.939,Male,True,Full time course,Graduate,STEM,10,5000-9999,Public Sector,2,11,False
+12964,city_21,0.624,,True,no_enrollment,Masters,STEM,17,10000+,Pvt Ltd,3,134,True
+5360,city_114,0.926,Male,True,no_enrollment,Masters,STEM,12,5000-9999,Pvt Ltd,2,13,False
+33079,city_83,0.923,Male,True,Full time course,Graduate,STEM,11,1000-4999,Pvt Ltd,1,44,False
+27907,city_103,0.92,Male,True,no_enrollment,Graduate,STEM,10,5000-9999,Pvt Ltd,1,20,False
+19675,city_21,0.624,,True,no_enrollment,Masters,STEM,11,10000+,Pvt Ltd,1,17,True
+20655,city_21,0.624,,True,no_enrollment,Graduate,STEM,10,1000-4999,Pvt Ltd,never,51,True
+22252,city_104,0.924,Male,True,no_enrollment,Masters,STEM,16,10000+,Pvt Ltd,never,74,False
+29380,city_103,0.92,Male,True,no_enrollment,Graduate,STEM,>20,5000-9999,Pvt Ltd,3,7,False
+9432,city_98,0.949,Male,False,no_enrollment,Masters,Business Degree,>20,1000-4999,Pvt Ltd,>4,165,False
+15643,city_16,0.91,Male,True,Full time course,Graduate,STEM,17,10000+,Pvt Ltd,4,61,False
+24877,city_103,0.92,Male,True,no_enrollment,Graduate,STEM,>20,10000+,Pvt Ltd,>4,53,False
+10545,city_28,0.939,Male,True,no_enrollment,Graduate,STEM,14,1000-4999,Pvt Ltd,>4,112,False
+12984,city_114,0.926,Male,True,no_enrollment,Masters,STEM,>20,10000+,Pvt Ltd,>4,154,False
+17014,city_67,0.855,Male,True,Full time course,Masters,STEM,10,10000+,Pvt Ltd,3,14,False
+2265,city_21,0.624,Male,True,no_enrollment,Graduate,STEM,15,10000+,Pvt Ltd,>4,5,False
+8490,city_41,0.827,Male,True,no_enrollment,Graduate,STEM,>20,1000-4999,Pvt Ltd,>4,70,False
+16693,city_103,0.92,,False,no_enrollment,Graduate,Arts,15,10000+,Pvt Ltd,>4,33,False
+2710,city_16,0.91,Male,True,no_enrollment,Graduate,STEM,10,10000+,Pvt Ltd,2,12,False
+20293,city_16,0.91,,True,no_enrollment,Phd,STEM,>20,10000+,Pvt Ltd,>4,35,True
+22309,city_103,0.92,Male,True,no_enrollment,Graduate,Humanities,>20,10000+,Pvt Ltd,4,40,False
+9100,city_61,0.913,,True,no_enrollment,Masters,STEM,13,1000-4999,Pvt Ltd,1,108,False
+19852,city_104,0.924,Male,False,no_enrollment,Masters,STEM,>20,10000+,Pvt Ltd,>4,63,False
+317,city_103,0.92,Male,True,no_enrollment,Graduate,STEM,>20,10000+,Pvt Ltd,1,105,False
+23622,city_114,0.926,Male,True,no_enrollment,Phd,STEM,>20,10000+,Pvt Ltd,4,25,True
+6396,city_103,0.92,,True,no_enrollment,Masters,STEM,>20,1000-4999,Pvt Ltd,1,51,False
+10534,city_67,0.855,Male,True,no_enrollment,Masters,STEM,17,10000+,Pvt Ltd,1,316,False
+7397,city_103,0.92,Male,True,no_enrollment,Graduate,STEM,19,1000-4999,Pvt Ltd,>4,101,False
+1122,city_46,0.762,Male,True,no_enrollment,Graduate,STEM,17,5000-9999,Pvt Ltd,2,27,False
+12390,city_21,0.624,,True,no_enrollment,Graduate,No Major,10,10000+,Pvt Ltd,2,4,True
+20733,city_16,0.91,Male,True,no_enrollment,Masters,STEM,10,10000+,Pvt Ltd,>4,47,False
+31997,city_102,0.804,Male,True,no_enrollment,Masters,STEM,13,1000-4999,Pvt Ltd,1,41,False
+6781,city_150,0.698,,True,no_enrollment,Graduate,STEM,>20,5000-9999,Public Sector,>4,10,False
+27519,city_53,0.74,Female,True,no_enrollment,Masters,STEM,10,5000-9999,Pvt Ltd,4,126,False
+2563,city_162,0.767,Male,True,no_enrollment,Graduate,STEM,20,1000-4999,Pvt Ltd,1,48,False
+6015,city_103,0.92,Female,True,no_enrollment,Masters,STEM,>20,1000-4999,Pvt Ltd,1,54,False
+2544,city_67,0.855,Other,False,no_enrollment,Graduate,Business Degree,18,1000-4999,Pvt Ltd,>4,48,False
+22067,city_103,0.92,Male,True,no_enrollment,Graduate,STEM,19,10000+,Pvt Ltd,>4,107,False
+23206,city_103,0.92,Male,True,no_enrollment,Masters,STEM,20,5000-9999,Pvt Ltd,>4,11,False
+29157,city_103,0.92,Male,True,no_enrollment,Graduate,STEM,>20,10000+,Pvt Ltd,2,102,False
+20292,city_103,0.92,,False,no_enrollment,Masters,Arts,15,10000+,Pvt Ltd,2,64,False
+26041,city_103,0.92,,True,no_enrollment,Graduate,STEM,10,10000+,Pvt Ltd,1,28,False
+5164,city_114,0.926,Male,True,Full time course,Graduate,STEM,>20,1000-4999,NGO,>4,28,False
+11969,city_21,0.624,Male,True,no_enrollment,Graduate,STEM,13,10000+,Pvt Ltd,>4,40,False
+2590,city_114,0.926,Male,True,no_enrollment,Graduate,STEM,15,1000-4999,Pvt Ltd,>4,75,False
+26072,city_114,0.926,Male,True,no_enrollment,High School,,11,1000-4999,Pvt Ltd,1,14,False
+19738,city_61,0.913,Male,True,no_enrollment,Graduate,STEM,>20,1000-4999,Pvt Ltd,>4,64,False
+418,city_173,0.878,,True,no_enrollment,Masters,STEM,16,5000-9999,Pvt Ltd,2,35,False
+26672,city_103,0.92,,True,no_enrollment,Graduate,STEM,17,1000-4999,Pvt Ltd,3,17,False
+18927,city_160,0.92,Male,True,no_enrollment,Graduate,STEM,16,10000+,Pvt Ltd,>4,47,False
+13404,city_104,0.924,Male,True,no_enrollment,Masters,STEM,>20,10000+,Pvt Ltd,4,242,False
+29677,city_75,0.939,Male,True,no_enrollment,High School,,18,1000-4999,Pvt Ltd,1,196,False
+22823,city_71,0.884,,False,no_enrollment,Phd,STEM,11,5000-9999,Pvt Ltd,1,23,True
+14517,city_104,0.924,Male,True,no_enrollment,Phd,STEM,10,10000+,Pvt Ltd,1,74,False
+17159,city_21,0.624,Male,True,no_enrollment,Graduate,STEM,16,10000+,Pvt Ltd,>4,11,False
+31941,city_16,0.91,Male,False,no_enrollment,Graduate,STEM,>20,10000+,Pvt Ltd,4,18,False
+29373,city_103,0.92,Male,False,Part time course,Graduate,STEM,14,10000+,NGO,>4,65,False
+20273,city_103,0.92,Male,True,no_enrollment,Graduate,STEM,>20,10000+,Pvt Ltd,>4,22,False
+10521,city_97,0.925,Male,True,no_enrollment,Masters,STEM,>20,1000-4999,Pvt Ltd,>4,31,False
+19919,city_103,0.92,Male,True,no_enrollment,Graduate,Business Degree,>20,5000-9999,Pvt Ltd,3,42,False
+33276,city_103,0.92,Female,True,no_enrollment,Masters,Humanities,>20,1000-4999,NGO,4,15,False
+17182,city_103,0.92,,True,no_enrollment,Graduate,No Major,>20,1000-4999,Pvt Ltd,>4,44,False
+3566,city_23,0.899,Male,True,no_enrollment,Graduate,STEM,16,10000+,Pvt Ltd,1,27,False
+12648,city_16,0.91,Male,True,no_enrollment,Graduate,STEM,19,10000+,Public Sector,1,18,False
+14827,city_16,0.91,Male,True,no_enrollment,Phd,STEM,12,1000-4999,Pvt Ltd,1,21,False
+20582,city_136,0.897,Male,True,no_enrollment,Graduate,STEM,17,10000+,Pvt Ltd,1,26,False
+2100,city_114,0.926,Male,True,Full time course,Masters,STEM,14,1000-4999,Pvt Ltd,1,12,False
+12749,city_114,0.926,Male,True,no_enrollment,Masters,STEM,11,10000+,Pvt Ltd,2,98,False
+896,city_114,0.926,Male,True,no_enrollment,Phd,STEM,>20,10000+,Pvt Ltd,2,96,False
+25261,city_103,0.92,Male,True,no_enrollment,Graduate,STEM,15,10000+,Pvt Ltd,4,112,False
+19958,city_114,0.926,Male,False,no_enrollment,Masters,Humanities,>20,10000+,Pvt Ltd,>4,45,False
+28039,city_94,0.698,Male,True,no_enrollment,Graduate,STEM,>20,10000+,Pvt Ltd,>4,81,False
+13515,city_76,0.698,Male,True,Full time course,Graduate,STEM,>20,10000+,Pvt Ltd,>4,6,False
+12513,city_114,0.926,Female,True,no_enrollment,Graduate,STEM,10,1000-4999,Pvt Ltd,1,37,False
+3456,city_21,0.624,Male,True,no_enrollment,Masters,STEM,14,1000-4999,Pvt Ltd,2,21,True
+13758,city_173,0.878,Male,False,no_enrollment,Masters,Humanities,>20,1000-4999,Public Sector,3,51,False
+15656,city_64,0.666,,True,Full time course,Graduate,STEM,>20,10000+,Pvt Ltd,1,8,False
+3099,city_23,0.899,Male,True,no_enrollment,Masters,STEM,18,10000+,Pvt Ltd,>4,14,False
+14973,city_83,0.923,Male,True,no_enrollment,Graduate,STEM,13,10000+,Pvt Ltd,2,35,False
+24962,city_21,0.624,Male,True,no_enrollment,Graduate,STEM,19,10000+,Pvt Ltd,>4,128,False
+2241,city_21,0.624,Male,True,no_enrollment,Graduate,STEM,18,10000+,Pvt Ltd,never,56,False
+5582,city_102,0.804,Male,True,no_enrollment,Phd,STEM,>20,10000+,Pvt Ltd,>4,100,False
+33077,city_102,0.804,Female,True,Full time course,Masters,STEM,10,1000-4999,Pvt Ltd,>4,62,True
+21269,city_75,0.939,Female,True,no_enrollment,Masters,STEM,11,1000-4999,Pvt Ltd,>4,250,False
+10006,city_103,0.92,Male,False,Full time course,Graduate,STEM,10,1000-4999,Pvt Ltd,1,97,True
+22290,city_103,0.92,Male,True,no_enrollment,Graduate,STEM,>20,1000-4999,Pvt Ltd,>4,6,False
+30252,city_103,0.92,Male,True,no_enrollment,Graduate,STEM,>20,1000-4999,,2,60,False
+32244,city_61,0.913,Male,False,no_enrollment,Masters,STEM,>20,10000+,Pvt Ltd,2,9,False
+17322,city_16,0.91,Male,True,no_enrollment,Graduate,STEM,10,10000+,Pvt Ltd,4,176,False
+653,city_103,0.92,Male,True,no_enrollment,Graduate,STEM,>20,10000+,Pvt Ltd,3,157,False
+15735,city_103,0.92,Female,False,no_enrollment,Masters,STEM,11,1000-4999,Public Sector,>4,50,False
+19869,city_67,0.855,Male,True,no_enrollment,Masters,STEM,16,10000+,Pvt Ltd,4,63,False
+19476,city_97,0.925,Male,True,no_enrollment,Masters,Humanities,>20,10000+,Pvt Ltd,1,40,False
+19693,city_67,0.855,,True,Full time course,Phd,STEM,10,1000-4999,Public Sector,3,141,False
+19411,city_162,0.767,,True,Part time course,Masters,Humanities,15,1000-4999,Pvt Ltd,1,124,True
+20018,city_16,0.91,Male,True,no_enrollment,Graduate,STEM,15,1000-4999,Pvt Ltd,>4,24,False
+23074,city_103,0.92,Female,True,no_enrollment,Graduate,Business Degree,>20,1000-4999,Pvt Ltd,4,256,False
+28800,city_150,0.698,,False,no_enrollment,Graduate,STEM,14,1000-4999,Public Sector,1,80,False
+3426,city_136,0.897,Male,True,no_enrollment,Masters,STEM,11,1000-4999,Pvt Ltd,>4,12,False
+981,city_103,0.92,Male,True,no_enrollment,Graduate,STEM,12,10000+,Pvt Ltd,2,54,False
+1030,city_28,0.939,Male,True,no_enrollment,Phd,STEM,>20,10000+,Pvt Ltd,>4,164,False
+11256,city_175,0.776,Male,True,no_enrollment,Graduate,STEM,19,1000-4999,Pvt Ltd,>4,81,False
+17038,city_160,0.92,Female,True,no_enrollment,Masters,STEM,20,5000-9999,Pvt Ltd,1,25,False
+26959,city_67,0.855,Male,True,no_enrollment,Graduate,STEM,12,10000+,Pvt Ltd,2,266,False
+7441,city_16,0.91,Male,True,no_enrollment,Masters,STEM,>20,5000-9999,Pvt Ltd,4,51,False
+29138,city_103,0.92,Male,True,no_enrollment,Graduate,STEM,>20,10000+,Pvt Ltd,1,48,False
+23932,city_103,0.92,Female,True,no_enrollment,Graduate,STEM,12,1000-4999,Pvt Ltd,2,100,False
+18122,city_28,0.939,Male,True,no_enrollment,Masters,STEM,>20,10000+,Pvt Ltd,>4,9,False
+15694,city_114,0.926,,True,no_enrollment,Masters,STEM,>20,1000-4999,Pvt Ltd,1,16,True
+14597,city_102,0.804,,True,Full time course,Graduate,STEM,>20,1000-4999,Pvt Ltd,1,68,False
+2499,city_57,0.866,Male,True,Part time course,Masters,STEM,11,1000-4999,Pvt Ltd,1,214,False
+5651,city_104,0.924,Male,True,no_enrollment,Graduate,Business Degree,17,5000-9999,Pvt Ltd,>4,41,False
+26228,city_107,0.518,,False,Full time course,Phd,Other,>20,10000+,Pvt Ltd,>4,56,False
+3612,city_104,0.924,Male,True,no_enrollment,Masters,STEM,>20,1000-4999,Pvt Ltd,1,11,False
+22828,city_136,0.897,,True,no_enrollment,Masters,STEM,10,10000+,,2,17,False
+4183,city_103,0.92,Male,False,no_enrollment,Phd,STEM,10,10000+,Pvt Ltd,1,55,False
+4085,city_41,0.827,Male,True,no_enrollment,Graduate,STEM,>20,1000-4999,Pvt Ltd,>4,9,False
+23180,city_103,0.92,,True,no_enrollment,Graduate,STEM,12,10000+,Pvt Ltd,3,224,False
+20470,city_114,0.926,,False,no_enrollment,Phd,STEM,>20,10000+,Pvt Ltd,>4,18,True
+3978,city_103,0.92,Female,True,no_enrollment,Graduate,STEM,>20,1000-4999,Pvt Ltd,>4,110,False
+11429,city_21,0.624,Male,True,no_enrollment,Graduate,STEM,17,10000+,Pvt Ltd,>4,29,False
+4155,city_105,0.794,Male,True,no_enrollment,Masters,STEM,>20,1000-4999,Pvt Ltd,>4,72,False
+1241,city_114,0.926,Male,True,no_enrollment,Graduate,STEM,>20,10000+,Pvt Ltd,>4,78,False
+23914,city_173,0.878,Male,True,no_enrollment,Masters,STEM,13,10000+,Pvt Ltd,>4,25,False
+4940,city_67,0.855,Female,True,Part time course,Graduate,STEM,10,10000+,Pvt Ltd,1,218,True
+21778,city_103,0.92,Other,True,no_enrollment,Graduate,STEM,>20,10000+,Pvt Ltd,>4,15,True
+20033,city_103,0.92,Other,True,no_enrollment,Graduate,STEM,13,1000-4999,Pvt Ltd,1,25,True
+32544,city_103,0.92,Male,True,no_enrollment,Graduate,STEM,>20,10000+,Pvt Ltd,>4,96,False
+15999,city_103,0.92,,True,no_enrollment,Graduate,STEM,19,1000-4999,Pvt Ltd,4,50,False
+11216,city_103,0.92,Male,True,Full time course,Phd,Other,13,5000-9999,Pvt Ltd,>4,28,False
+4139,city_83,0.923,Male,True,no_enrollment,Masters,STEM,14,1000-4999,Pvt Ltd,4,11,True
+22878,city_160,0.92,Female,True,no_enrollment,Graduate,STEM,10,10000+,Public Sector,>4,29,False
+8510,city_16,0.91,Male,True,no_enrollment,Graduate,STEM,10,1000-4999,Public Sector,never,50,False
+7273,city_118,0.722,,True,Part time course,Masters,STEM,10,1000-4999,Pvt Ltd,3,19,True
+10441,city_99,0.915,Female,True,no_enrollment,Phd,STEM,>20,1000-4999,Public Sector,never,110,False
+22137,city_103,0.92,Female,True,no_enrollment,Graduate,STEM,10,10000+,NGO,3,84,False
+2217,city_28,0.939,Male,True,no_enrollment,Masters,STEM,10,1000-4999,Pvt Ltd,1,6,False
+30338,city_114,0.926,,True,,Graduate,STEM,>20,1000-4999,Pvt Ltd,2,12,False
+5332,city_83,0.923,Male,True,no_enrollment,Masters,STEM,12,1000-4999,Pvt Ltd,2,18,False
+7668,city_10,0.895,Male,True,no_enrollment,Graduate,STEM,11,5000-9999,Pvt Ltd,2,136,False
+5103,city_136,0.897,Male,True,no_enrollment,Graduate,STEM,>20,10000+,Public Sector,1,108,False
+17926,city_103,0.92,Female,True,no_enrollment,Graduate,STEM,13,10000+,Pvt Ltd,2,168,False
+24696,city_103,0.92,Male,True,no_enrollment,Graduate,STEM,>20,10000+,Pvt Ltd,3,228,False
+19905,city_103,0.92,Male,True,no_enrollment,Graduate,STEM,19,1000-4999,Pvt Ltd,>4,62,False
+15220,city_103,0.92,Male,True,no_enrollment,Masters,STEM,>20,1000-4999,Public Sector,>4,92,False
+4168,city_16,0.91,,True,no_enrollment,Masters,Business Degree,15,1000-4999,Pvt Ltd,2,1,False
+33164,city_71,0.884,Male,True,no_enrollment,Graduate,STEM,>20,10000+,Pvt Ltd,>4,80,False
+1845,city_103,0.92,Male,True,no_enrollment,Graduate,STEM,>20,10000+,Pvt Ltd,>4,21,False
+6679,city_21,0.624,Male,True,no_enrollment,Graduate,STEM,10,1000-4999,Pvt Ltd,1,35,True
+33214,city_103,0.92,,True,no_enrollment,Graduate,Other,13,10000+,Pvt Ltd,1,34,False
+24798,city_103,0.92,Male,True,no_enrollment,Graduate,STEM,>20,10000+,Pvt Ltd,>4,23,False
+29535,city_16,0.91,Male,True,no_enrollment,Masters,STEM,>20,5000-9999,Pvt Ltd,2,36,False
+16269,city_103,0.92,Male,True,no_enrollment,Masters,STEM,17,10000+,Pvt Ltd,2,15,False
+11573,city_67,0.855,Male,True,no_enrollment,Phd,STEM,>20,10000+,Pvt Ltd,2,153,False
+5701,city_23,0.899,Female,True,no_enrollment,Graduate,STEM,15,1000-4999,Pvt Ltd,never,12,False
+1455,city_103,0.92,Male,True,no_enrollment,Graduate,STEM,>20,1000-4999,Pvt Ltd,2,5,False
+10886,city_103,0.92,Female,True,no_enrollment,Graduate,STEM,12,5000-9999,Pvt Ltd,4,54,False
+14910,city_114,0.926,Male,True,Part time course,Graduate,STEM,14,10000+,Pvt Ltd,>4,98,False
+5982,city_16,0.91,Male,True,no_enrollment,Masters,STEM,>20,1000-4999,Pvt Ltd,>4,98,False
+1512,city_103,0.92,,False,no_enrollment,Graduate,Humanities,>20,10000+,Pvt Ltd,2,156,False
+18337,city_75,0.939,Female,True,no_enrollment,Masters,Other,10,1000-4999,Pvt Ltd,1,40,False
+27899,city_16,0.91,Male,False,no_enrollment,Masters,Humanities,16,10000+,Pvt Ltd,4,18,False
+17009,city_103,0.92,,True,no_enrollment,Masters,STEM,>20,10000+,Pvt Ltd,3,43,False
+2382,city_77,0.83,Male,True,no_enrollment,Masters,STEM,14,1000-4999,Pvt Ltd,1,48,False
+3633,city_103,0.92,Male,True,Part time course,Graduate,STEM,11,10000+,Pvt Ltd,2,174,False
+12254,city_75,0.939,,True,no_enrollment,High School,,10,10000+,Pvt Ltd,2,33,False
+3623,city_16,0.91,Male,True,no_enrollment,Graduate,STEM,>20,1000-4999,Pvt Ltd,1,56,False
+33299,city_104,0.924,Male,True,no_enrollment,Masters,STEM,>20,1000-4999,Pvt Ltd,1,149,False
+22884,city_61,0.913,Male,True,no_enrollment,Graduate,STEM,11,10000+,Pvt Ltd,1,64,False
+26244,city_103,0.92,Male,True,no_enrollment,Graduate,STEM,>20,10000+,Pvt Ltd,>4,49,False
+30125,city_114,0.926,Male,False,Part time course,Masters,STEM,>20,1000-4999,NGO,1,20,False
+9877,city_103,0.92,Male,True,no_enrollment,Graduate,Business Degree,>20,10000+,Pvt Ltd,>4,51,False
+29403,city_16,0.91,Male,True,no_enrollment,Masters,STEM,>20,1000-4999,NGO,>4,73,False
+28538,city_103,0.92,Female,True,no_enrollment,Graduate,STEM,>20,5000-9999,Pvt Ltd,>4,51,True
+21200,city_103,0.92,,True,no_enrollment,Graduate,STEM,>20,1000-4999,Pvt Ltd,>4,8,False
+10134,city_103,0.92,Male,False,no_enrollment,Graduate,STEM,15,1000-4999,Pvt Ltd,1,16,False
+18947,city_103,0.92,Male,True,no_enrollment,Graduate,STEM,>20,5000-9999,Pvt Ltd,1,8,False
+26101,city_103,0.92,Male,True,no_enrollment,High School,,18,10000+,Pvt Ltd,2,25,False
+31789,city_103,0.92,Male,True,no_enrollment,Graduate,STEM,13,5000-9999,Pvt Ltd,>4,11,False
+26923,city_16,0.91,Male,True,no_enrollment,Graduate,STEM,11,10000+,Pvt Ltd,>4,51,True
+12920,city_103,0.92,Male,True,no_enrollment,Masters,Other,>20,10000+,Pvt Ltd,>4,70,False
+29896,city_103,0.92,Female,False,no_enrollment,Phd,STEM,14,1000-4999,NGO,1,55,False
+18510,city_21,0.624,,True,no_enrollment,Masters,STEM,10,10000+,Pvt Ltd,1,135,True
+11868,city_173,0.878,Male,True,no_enrollment,Masters,STEM,17,10000+,Pvt Ltd,3,12,False
+16131,city_103,0.92,Male,True,no_enrollment,Graduate,STEM,>20,10000+,Pvt Ltd,>4,90,False
+30997,city_103,0.92,Male,True,no_enrollment,Graduate,STEM,11,5000-9999,,>4,80,False
+9729,city_103,0.92,Male,True,no_enrollment,Graduate,STEM,>20,10000+,Pvt Ltd,4,18,False
+388,city_103,0.92,Male,True,no_enrollment,Graduate,STEM,>20,10000+,Pvt Ltd,>4,101,False
+27406,city_103,0.92,Female,False,no_enrollment,Masters,STEM,12,10000+,Pvt Ltd,1,50,False
+33099,city_36,0.893,Other,True,no_enrollment,Graduate,STEM,13,1000-4999,Pvt Ltd,4,11,False
+15188,city_103,0.92,Male,True,Part time course,Masters,Humanities,12,5000-9999,NGO,1,30,False
+26752,city_103,0.92,Male,True,no_enrollment,Masters,STEM,13,10000+,Pvt Ltd,4,17,False
+1890,city_21,0.624,Male,True,no_enrollment,Graduate,STEM,14,5000-9999,Pvt Ltd,>4,33,False
+23086,city_160,0.92,Male,False,no_enrollment,Phd,STEM,19,5000-9999,Public Sector,3,250,False
+3294,city_103,0.92,Male,True,no_enrollment,Graduate,STEM,>20,1000-4999,Pvt Ltd,>4,109,False
+7983,city_45,0.89,Male,True,Part time course,High School,,15,1000-4999,Pvt Ltd,>4,15,False
+10734,city_160,0.92,Male,True,no_enrollment,Graduate,STEM,17,1000-4999,Pvt Ltd,>4,22,False
+19432,city_21,0.624,,True,no_enrollment,Masters,STEM,16,10000+,Pvt Ltd,>4,21,True
+6290,city_73,0.754,,True,Part time course,Graduate,STEM,14,10000+,Pvt Ltd,>4,23,False
+33055,city_165,0.903,Male,True,no_enrollment,Graduate,STEM,14,10000+,Pvt Ltd,3,40,True
+15741,city_69,0.856,,True,no_enrollment,Graduate,No Major,12,1000-4999,Pvt Ltd,2,314,False
+29064,city_21,0.624,Male,True,no_enrollment,Graduate,STEM,15,1000-4999,Pvt Ltd,1,14,True
+31900,city_103,0.92,Male,True,no_enrollment,Phd,STEM,>20,10000+,Pvt Ltd,2,13,False
+4877,city_103,0.92,Male,True,no_enrollment,Masters,STEM,>20,10000+,Pvt Ltd,>4,10,False
+15903,city_103,0.92,Female,True,no_enrollment,Masters,STEM,11,10000+,Pvt Ltd,1,61,False
+31294,city_103,0.92,Male,True,no_enrollment,Masters,STEM,18,10000+,Pvt Ltd,1,9,False
+4845,city_21,0.624,,True,no_enrollment,Masters,STEM,19,10000+,Public Sector,1,124,True
+4852,city_21,0.624,,True,Full time course,Graduate,STEM,11,10000+,Pvt Ltd,>4,2,True
+410,city_114,0.926,Male,True,no_enrollment,Masters,STEM,14,10000+,Pvt Ltd,2,80,False
+9216,city_138,0.836,Male,True,no_enrollment,Graduate,STEM,>20,1000-4999,Pvt Ltd,1,114,False
+4970,city_67,0.855,Male,True,no_enrollment,Masters,STEM,17,10000+,Pvt Ltd,2,21,False
+19205,city_103,0.92,Male,True,no_enrollment,Graduate,STEM,18,10000+,Pvt Ltd,1,6,False
+29004,city_61,0.913,Male,False,no_enrollment,Masters,STEM,>20,10000+,Pvt Ltd,2,90,False
+17010,city_103,0.92,Female,True,Part time course,Graduate,STEM,10,1000-4999,,2,37,False
+26758,city_21,0.624,Male,True,no_enrollment,Graduate,STEM,13,10000+,Pvt Ltd,3,21,True
+8568,city_103,0.92,Male,True,no_enrollment,Masters,STEM,>20,5000-9999,Pvt Ltd,>4,26,False
+31990,city_103,0.92,Male,True,no_enrollment,Graduate,STEM,20,1000-4999,Public Sector,>4,50,False
+9751,city_97,0.925,,True,no_enrollment,Graduate,STEM,19,1000-4999,Pvt Ltd,,42,False
+8018,city_24,0.698,Male,False,Full time course,Graduate,STEM,12,10000+,Public Sector,2,67,True
+1510,city_103,0.92,Male,False,no_enrollment,Graduate,No Major,>20,5000-9999,Pvt Ltd,>4,4,False
+31548,city_103,0.92,Male,True,no_enrollment,Graduate,STEM,10,5000-9999,Pvt Ltd,2,174,False
+8745,city_53,0.74,Male,True,no_enrollment,Graduate,STEM,16,1000-4999,Pvt Ltd,>4,49,False
+19671,city_73,0.754,Male,True,Full time course,Graduate,STEM,16,1000-4999,Pvt Ltd,never,29,True
+31407,city_103,0.92,Male,True,no_enrollment,Graduate,STEM,>20,10000+,Pvt Ltd,1,141,False
+10982,city_103,0.92,Male,True,no_enrollment,Masters,STEM,13,10000+,Pvt Ltd,2,70,False
+23961,city_103,0.92,Male,True,no_enrollment,Graduate,STEM,14,10000+,Pvt Ltd,1,46,False
+28100,city_103,0.92,Male,True,no_enrollment,Masters,Humanities,18,10000+,Pvt Ltd,2,6,False
+26644,city_103,0.92,Male,True,no_enrollment,Graduate,STEM,20,1000-4999,Pvt Ltd,1,202,False
+27985,city_103,0.92,,True,no_enrollment,Graduate,STEM,>20,10000+,Public Sector,2,12,False
+17553,city_103,0.92,Male,True,no_enrollment,Graduate,STEM,15,10000+,Pvt Ltd,2,102,False
+19688,city_100,0.887,,True,no_enrollment,Graduate,STEM,13,10000+,Public Sector,2,34,False
+15722,city_16,0.91,Male,True,no_enrollment,Masters,STEM,>20,10000+,Pvt Ltd,2,178,False
+24799,city_103,0.92,Male,True,Full time course,Masters,STEM,>20,10000+,Pvt Ltd,>4,278,False
+15819,city_73,0.754,Male,True,Part time course,Graduate,STEM,>20,10000+,Pvt Ltd,3,222,False
+24311,city_23,0.899,,False,no_enrollment,Graduate,STEM,>20,1000-4999,,1,57,True
+3952,city_136,0.897,Male,True,no_enrollment,Phd,STEM,>20,1000-4999,Public Sector,never,29,False
+996,city_67,0.855,Female,True,no_enrollment,Graduate,STEM,11,1000-4999,Pvt Ltd,>4,52,False
+26929,city_138,0.836,Male,True,no_enrollment,High School,,15,10000+,Pvt Ltd,2,146,False
+27981,city_103,0.92,Male,True,no_enrollment,Graduate,STEM,14,1000-4999,Pvt Ltd,>4,15,False
+28234,city_114,0.926,Female,True,no_enrollment,Masters,STEM,>20,10000+,Pvt Ltd,>4,27,False
+31741,city_75,0.939,Male,True,no_enrollment,Masters,STEM,10,1000-4999,Pvt Ltd,2,42,False
+20877,city_136,0.897,,True,no_enrollment,Graduate,STEM,11,1000-4999,,1,3,False
+27123,city_103,0.92,Male,True,no_enrollment,Graduate,STEM,>20,10000+,Pvt Ltd,>4,14,False
+30999,city_103,0.92,Male,True,no_enrollment,Masters,STEM,14,5000-9999,Pvt Ltd,3,55,True
+19982,city_16,0.91,Male,True,no_enrollment,Graduate,STEM,>20,10000+,Pvt Ltd,>4,76,False
+23146,city_103,0.92,Male,True,no_enrollment,Masters,STEM,18,10000+,Pvt Ltd,1,45,False
+32089,city_16,0.91,Male,True,no_enrollment,Graduate,STEM,19,5000-9999,Pvt Ltd,2,20,False
+3497,city_61,0.913,Male,False,no_enrollment,Graduate,STEM,>20,1000-4999,Pvt Ltd,>4,23,False
+8985,city_103,0.92,,True,no_enrollment,Graduate,STEM,>20,10000+,Pvt Ltd,>4,222,False
+8414,city_160,0.92,Female,True,no_enrollment,Masters,STEM,11,10000+,Pvt Ltd,2,24,False
+20519,city_65,0.802,Male,True,no_enrollment,Graduate,STEM,13,5000-9999,Pvt Ltd,3,42,False
+16344,city_114,0.926,Male,False,no_enrollment,Phd,STEM,>20,10000+,Pvt Ltd,4,43,False
+16220,city_103,0.92,Male,True,no_enrollment,High School,,>20,5000-9999,Pvt Ltd,2,18,False
+22610,city_75,0.939,Male,False,no_enrollment,Graduate,STEM,>20,1000-4999,Public Sector,never,51,True
+26968,city_103,0.92,Other,True,no_enrollment,Graduate,STEM,10,10000+,Pvt Ltd,1,306,False
+3415,city_103,0.92,Male,True,no_enrollment,Graduate,STEM,>20,5000-9999,Pvt Ltd,>4,48,False
+21438,city_16,0.91,Male,True,no_enrollment,Graduate,STEM,>20,10000+,Pvt Ltd,2,9,True
+8328,city_114,0.926,Male,True,no_enrollment,Masters,STEM,15,10000+,Pvt Ltd,>4,9,True
+11660,city_160,0.92,Male,False,no_enrollment,Graduate,STEM,>20,1000-4999,Pvt Ltd,1,298,True
+23830,city_103,0.92,Female,True,no_enrollment,Masters,STEM,17,1000-4999,Pvt Ltd,>4,24,True
+22374,city_21,0.624,,True,no_enrollment,Masters,STEM,11,1000-4999,Pvt Ltd,2,10,True
+30539,city_103,0.92,,True,no_enrollment,Masters,STEM,>20,1000-4999,Public Sector,1,22,False
+18248,city_103,0.92,,True,no_enrollment,Graduate,STEM,>20,1000-4999,Pvt Ltd,>4,121,False
+17463,city_16,0.91,,True,no_enrollment,Masters,STEM,10,10000+,Pvt Ltd,1,18,False
+26988,city_75,0.939,Male,True,no_enrollment,Graduate,STEM,17,10000+,Public Sector,>4,57,True
+32803,city_16,0.91,Male,True,Part time course,Graduate,STEM,10,10000+,NGO,>4,17,False
+20112,city_103,0.92,Female,True,no_enrollment,Phd,STEM,>20,5000-9999,NGO,1,104,True
+22736,city_23,0.899,Male,False,no_enrollment,Graduate,STEM,16,10000+,Pvt Ltd,>4,13,False
+8718,city_103,0.92,Male,True,no_enrollment,Masters,STEM,15,1000-4999,Pvt Ltd,2,53,False
+25378,city_136,0.897,Male,True,no_enrollment,Graduate,Other,>20,1000-4999,Pvt Ltd,never,99,False
+31910,city_103,0.92,Male,True,no_enrollment,Graduate,Humanities,18,10000+,Pvt Ltd,>4,20,False
+22535,city_114,0.926,Male,True,no_enrollment,Masters,STEM,>20,1000-4999,Pvt Ltd,>4,37,False
+8393,city_98,0.949,Male,True,no_enrollment,Masters,STEM,>20,1000-4999,Pvt Ltd,1,39,False
+30446,city_16,0.91,Male,True,no_enrollment,Masters,Business Degree,>20,10000+,Pvt Ltd,1,53,False
+8460,city_103,0.92,Male,True,no_enrollment,Graduate,STEM,17,1000-4999,Pvt Ltd,1,74,False
+30151,city_123,0.738,Male,True,no_enrollment,Graduate,STEM,17,10000+,Pvt Ltd,1,94,False
+20421,city_10,0.895,,True,no_enrollment,Masters,STEM,>20,10000+,Pvt Ltd,4,16,True
+3513,city_83,0.923,Male,True,no_enrollment,Masters,STEM,>20,1000-4999,Pvt Ltd,1,14,False
+2672,city_65,0.802,,True,no_enrollment,Masters,STEM,12,10000+,Pvt Ltd,1,62,False
+24886,city_21,0.624,Male,True,no_enrollment,Graduate,STEM,12,10000+,Pvt Ltd,1,102,True
+827,city_97,0.925,Male,False,no_enrollment,Phd,STEM,13,10000+,Public Sector,>4,128,False
+21689,city_114,0.926,Male,True,no_enrollment,Graduate,STEM,15,5000-9999,Pvt Ltd,>4,51,False
+11885,city_61,0.913,Male,True,no_enrollment,Graduate,STEM,>20,10000+,Pvt Ltd,>4,59,False
+6161,city_103,0.92,Male,True,no_enrollment,Graduate,STEM,>20,10000+,Pvt Ltd,>4,30,False
+12226,city_23,0.899,Male,True,no_enrollment,Graduate,STEM,16,5000-9999,Pvt Ltd,>4,99,False
+18885,city_67,0.855,Male,True,no_enrollment,Graduate,STEM,>20,10000+,,1,39,True
+30070,city_103,0.92,Male,True,no_enrollment,Graduate,STEM,15,10000+,Pvt Ltd,>4,44,False
+3211,city_67,0.855,,True,no_enrollment,Graduate,STEM,11,1000-4999,Pvt Ltd,2,81,True
+31872,city_103,0.92,Male,True,no_enrollment,Graduate,STEM,>20,5000-9999,Pvt Ltd,4,94,False
+28125,city_75,0.939,Male,True,no_enrollment,Graduate,STEM,>20,1000-4999,Pvt Ltd,>4,42,False
+9676,city_97,0.925,Male,True,no_enrollment,Graduate,STEM,>20,1000-4999,Pvt Ltd,>4,85,False
+7684,city_21,0.624,Male,True,no_enrollment,Masters,STEM,16,10000+,Pvt Ltd,4,25,True
+30687,city_114,0.926,Male,True,no_enrollment,Masters,STEM,16,5000-9999,Pvt Ltd,3,160,False
+31061,city_103,0.92,Male,True,no_enrollment,Masters,STEM,>20,10000+,Public Sector,>4,67,False
+5339,city_97,0.925,Male,True,no_enrollment,Masters,STEM,16,10000+,Pvt Ltd,>4,108,True
+1788,city_103,0.92,Male,True,no_enrollment,Masters,STEM,>20,10000+,Pvt Ltd,2,7,False
+11779,city_71,0.884,Male,False,no_enrollment,Masters,STEM,11,5000-9999,Pvt Ltd,>4,51,False
+8793,city_73,0.754,,False,Part time course,Graduate,STEM,12,1000-4999,Public Sector,>4,114,False
+24639,city_103,0.92,Male,True,no_enrollment,Graduate,No Major,>20,1000-4999,Pvt Ltd,>4,14,False
+2493,city_136,0.897,Male,True,no_enrollment,Masters,,10,1000-4999,Pvt Ltd,2,52,False
+2857,city_103,0.92,Male,True,no_enrollment,Graduate,STEM,13,5000-9999,Pvt Ltd,2,89,False
+31637,city_103,0.92,Male,True,no_enrollment,Masters,STEM,>20,10000+,Pvt Ltd,>4,3,False
+20146,city_103,0.92,Female,True,no_enrollment,Masters,STEM,>20,1000-4999,NGO,4,40,False
+13072,city_83,0.923,Female,True,no_enrollment,Phd,STEM,11,5000-9999,Pvt Ltd,1,54,False
+19810,city_114,0.926,Male,True,Part time course,Masters,STEM,13,10000+,Pvt Ltd,2,42,False
+28261,city_143,0.74,Male,True,no_enrollment,Graduate,No Major,>20,1000-4999,Other,>4,47,False
+2423,city_21,0.624,Female,True,no_enrollment,Graduate,STEM,10,1000-4999,Pvt Ltd,1,80,True
+2911,city_39,0.898,Male,True,no_enrollment,Masters,STEM,>20,5000-9999,Public Sector,1,3,False
+31644,city_21,0.624,Male,True,no_enrollment,Graduate,STEM,17,10000+,Pvt Ltd,3,42,False
+31979,city_103,0.92,Male,True,no_enrollment,Masters,STEM,>20,10000+,Pvt Ltd,>4,330,False
+25786,city_21,0.624,,True,no_enrollment,Graduate,STEM,10,5000-9999,Pvt Ltd,1,67,True
+22132,city_134,0.698,,True,,Graduate,STEM,14,1000-4999,Pvt Ltd,>4,88,False
+15011,city_103,0.92,Female,True,no_enrollment,Graduate,STEM,12,10000+,Public Sector,>4,10,False
+8582,city_160,0.92,,False,no_enrollment,,,17,10000+,Pvt Ltd,>4,12,False
+1955,city_21,0.624,Male,True,no_enrollment,Graduate,STEM,10,10000+,Pvt Ltd,1,156,False
+15226,city_103,0.92,,False,no_enrollment,Masters,STEM,>20,10000+,Pvt Ltd,>4,91,False
+17582,city_16,0.91,Male,False,no_enrollment,Graduate,STEM,>20,10000+,Pvt Ltd,never,18,False
+9131,city_136,0.897,,True,no_enrollment,Masters,STEM,>20,10000+,Public Sector,3,200,False
+5973,city_21,0.624,Male,True,no_enrollment,Graduate,STEM,>20,10000+,Pvt Ltd,>4,62,False
+7286,city_69,0.856,,True,Part time course,Graduate,STEM,13,1000-4999,Pvt Ltd,1,17,False
+12545,city_16,0.91,Male,True,no_enrollment,Graduate,STEM,>20,1000-4999,Pvt Ltd,2,19,False
+9064,city_105,0.794,,True,no_enrollment,Masters,Humanities,>20,10000+,Pvt Ltd,>4,17,False
+32954,city_114,0.926,Male,False,no_enrollment,Graduate,STEM,15,1000-4999,Pvt Ltd,>4,20,False
+2521,city_114,0.926,Male,False,Full time course,Graduate,STEM,>20,1000-4999,Pvt Ltd,1,114,True
+29625,city_16,0.91,Male,False,no_enrollment,Masters,STEM,>20,10000+,,2,15,False
+25429,city_103,0.92,Male,True,no_enrollment,Graduate,STEM,>20,10000+,Pvt Ltd,>4,33,False
+27894,city_41,0.827,Male,True,Part time course,Masters,STEM,>20,1000-4999,Public Sector,>4,46,False
+21220,city_103,0.92,Male,True,no_enrollment,Masters,STEM,>20,10000+,Pvt Ltd,>4,28,False
+25660,city_21,0.624,Male,True,no_enrollment,Masters,STEM,16,10000+,Pvt Ltd,4,10,False
+33337,city_89,0.925,Male,True,no_enrollment,Graduate,STEM,>20,10000+,Pvt Ltd,1,4,False
+16856,city_103,0.92,Male,True,no_enrollment,Phd,STEM,>20,1000-4999,Public Sector,>4,62,False
+5972,city_97,0.925,Male,True,no_enrollment,Masters,STEM,16,1000-4999,Pvt Ltd,2,8,False
+2761,city_16,0.91,Male,True,Full time course,Masters,STEM,10,10000+,Pvt Ltd,2,24,False
+5856,city_50,0.896,Male,True,no_enrollment,Graduate,STEM,12,1000-4999,NGO,>4,36,False
+32119,city_103,0.92,Male,True,no_enrollment,Graduate,STEM,>20,10000+,Pvt Ltd,>4,130,False
+27638,city_102,0.804,Male,True,no_enrollment,Graduate,STEM,10,1000-4999,Pvt Ltd,4,52,False
+13447,city_61,0.913,Male,True,no_enrollment,Graduate,STEM,10,10000+,Pvt Ltd,3,56,False
+11039,city_103,0.92,Male,True,no_enrollment,Graduate,STEM,18,10000+,Pvt Ltd,>4,56,False
+20254,city_103,0.92,Female,True,no_enrollment,Masters,STEM,18,10000+,Pvt Ltd,4,3,False
+10840,city_103,0.92,Male,True,no_enrollment,Graduate,STEM,>20,1000-4999,Pvt Ltd,2,26,False
+8687,city_104,0.924,Female,True,no_enrollment,Graduate,Humanities,11,1000-4999,Pvt Ltd,4,26,False
+17297,city_150,0.698,Male,True,Part time course,Graduate,STEM,12,10000+,Pvt Ltd,>4,27,False
+8958,city_103,0.92,Male,True,no_enrollment,Phd,STEM,>20,10000+,Pvt Ltd,>4,63,False
+11364,city_103,0.92,Male,False,no_enrollment,Graduate,STEM,>20,10000+,Pvt Ltd,>4,63,False
+8868,city_19,0.682,Male,True,no_enrollment,Graduate,STEM,18,5000-9999,Pvt Ltd,>4,9,False
+11540,city_114,0.926,Male,True,no_enrollment,Masters,STEM,>20,1000-4999,NGO,>4,118,False
+5891,city_114,0.926,Male,False,Part time course,High School,,10,10000+,Pvt Ltd,2,42,False
+4084,city_103,0.92,Male,True,no_enrollment,Masters,STEM,16,1000-4999,Pvt Ltd,4,15,False
+23349,city_50,0.896,Male,True,no_enrollment,Masters,,>20,1000-4999,Public Sector,1,308,True
+20950,city_61,0.913,Male,True,no_enrollment,High School,,19,1000-4999,Pvt Ltd,2,19,False
+19023,city_21,0.624,Male,True,no_enrollment,Graduate,STEM,10,10000+,Pvt Ltd,1,25,True
+6632,city_28,0.939,Male,True,no_enrollment,Graduate,STEM,15,5000-9999,Public Sector,>4,105,False
+23618,city_98,0.949,Male,True,no_enrollment,Graduate,STEM,>20,5000-9999,Public Sector,never,134,False
+1927,city_103,0.92,Male,True,no_enrollment,High School,,19,10000+,Pvt Ltd,3,14,False
+7388,city_142,0.727,Male,True,no_enrollment,Masters,STEM,12,1000-4999,Pvt Ltd,>4,17,False
+3731,city_103,0.92,Male,True,no_enrollment,Graduate,No Major,18,10000+,Pvt Ltd,4,100,False
+14383,city_89,0.925,,True,no_enrollment,Graduate,Business Degree,13,10000+,Pvt Ltd,,26,False
+5140,city_21,0.624,,True,no_enrollment,Graduate,STEM,10,10000+,Pvt Ltd,never,104,False
+655,city_65,0.802,,True,no_enrollment,Graduate,STEM,18,1000-4999,Pvt Ltd,>4,20,False
+248,city_28,0.939,Male,True,no_enrollment,Primary School,,10,10000+,Pvt Ltd,never,9,False
+7839,city_16,0.91,Male,True,no_enrollment,High School,,10,10000+,Pvt Ltd,2,72,False
+826,city_16,0.91,,True,no_enrollment,Graduate,STEM,>20,1000-4999,Other,1,182,False
+28082,city_103,0.92,Male,False,no_enrollment,Graduate,STEM,10,10000+,Pvt Ltd,3,129,False
+6722,city_104,0.924,,True,no_enrollment,Graduate,STEM,15,10000+,Pvt Ltd,1,48,False
+2459,city_7,0.647,Male,True,no_enrollment,Graduate,STEM,13,1000-4999,Pvt Ltd,1,41,False
+33161,city_16,0.91,Female,True,no_enrollment,Graduate,STEM,>20,10000+,Other,1,43,False
+14607,city_104,0.924,Male,True,no_enrollment,Graduate,STEM,>20,10000+,Pvt Ltd,2,64,False
+24422,city_136,0.897,Male,True,no_enrollment,Masters,STEM,>20,1000-4999,Pvt Ltd,>4,98,False
+5908,city_103,0.92,Male,True,no_enrollment,Graduate,STEM,>20,5000-9999,Pvt Ltd,>4,165,False
+17877,city_16,0.91,Male,True,no_enrollment,Graduate,STEM,>20,10000+,Pvt Ltd,>4,57,True
+25636,city_21,0.624,Male,True,no_enrollment,Graduate,STEM,13,10000+,Pvt Ltd,4,40,False
+3691,city_16,0.91,,True,no_enrollment,Masters,STEM,>20,5000-9999,Pvt Ltd,>4,11,False
+21174,city_103,0.92,Female,True,no_enrollment,Masters,STEM,>20,5000-9999,Pvt Ltd,>4,63,False
+21360,city_21,0.624,Male,True,no_enrollment,Graduate,STEM,11,1000-4999,Pvt Ltd,3,22,True
+4416,city_24,0.698,Male,True,no_enrollment,Masters,STEM,11,10000+,Pvt Ltd,1,83,False
+14682,city_136,0.897,Male,True,no_enrollment,Masters,STEM,14,10000+,Pvt Ltd,>4,16,False
+2465,city_45,0.89,Male,True,no_enrollment,Masters,Business Degree,16,1000-4999,Pvt Ltd,1,50,False
+33321,city_41,0.827,Female,True,no_enrollment,Graduate,Arts,11,5000-9999,Pvt Ltd,1,83,False
+8139,city_102,0.804,Male,True,no_enrollment,Masters,STEM,15,1000-4999,Pvt Ltd,4,152,False
+15292,city_103,0.92,,True,no_enrollment,Graduate,STEM,>20,10000+,Pvt Ltd,4,66,False
+30709,city_103,0.92,Male,True,no_enrollment,Graduate,STEM,>20,1000-4999,Pvt Ltd,1,180,False
+30898,city_114,0.926,Male,True,no_enrollment,Masters,STEM,>20,10000+,Pvt Ltd,1,134,False
+2141,city_21,0.624,Male,True,no_enrollment,Graduate,STEM,12,10000+,Pvt Ltd,>4,14,True
+21847,city_21,0.624,Male,True,no_enrollment,Graduate,STEM,16,10000+,Pvt Ltd,>4,7,False
+1861,city_160,0.92,Male,True,no_enrollment,Graduate,STEM,15,10000+,Public Sector,>4,8,False
+6760,city_136,0.897,,True,no_enrollment,Masters,STEM,16,10000+,Pvt Ltd,>4,7,False
+4805,city_16,0.91,Male,True,no_enrollment,Masters,STEM,>20,1000-4999,Public Sector,1,96,False
+28595,city_67,0.855,Male,True,no_enrollment,Masters,STEM,11,10000+,Pvt Ltd,1,36,False
+32757,city_160,0.92,Male,True,no_enrollment,Graduate,STEM,>20,1000-4999,Pvt Ltd,4,28,True
+461,city_103,0.92,Male,True,no_enrollment,Graduate,STEM,11,10000+,Pvt Ltd,2,51,False
+10661,city_10,0.895,Male,True,no_enrollment,Phd,STEM,18,10000+,Pvt Ltd,2,6,True
+32718,city_103,0.92,Male,True,no_enrollment,Graduate,STEM,10,1000-4999,Pvt Ltd,>4,166,False
+19089,city_103,0.92,Male,True,no_enrollment,Masters,STEM,>20,1000-4999,Public Sector,>4,17,False
+9265,city_73,0.754,Male,True,Part time course,High School,,13,5000-9999,Pvt Ltd,4,90,False
+10890,city_16,0.91,,True,no_enrollment,Phd,STEM,>20,10000+,Pvt Ltd,1,58,False
+9809,city_103,0.92,Male,True,no_enrollment,Graduate,STEM,>20,5000-9999,Pvt Ltd,2,29,False
+24816,city_103,0.92,Male,False,Full time course,Masters,STEM,13,1000-4999,Public Sector,2,62,False
+658,city_16,0.91,Male,True,no_enrollment,Graduate,STEM,14,1000-4999,Pvt Ltd,2,19,False
+9459,city_114,0.926,Male,True,no_enrollment,Phd,STEM,>20,10000+,Pvt Ltd,2,16,False
+1309,city_160,0.92,Male,False,no_enrollment,Graduate,STEM,13,10000+,Pvt Ltd,>4,30,False
+29097,city_28,0.939,Male,True,no_enrollment,Masters,STEM,>20,10000+,Pvt Ltd,>4,22,False
+29797,city_103,0.92,,True,no_enrollment,Graduate,STEM,>20,1000-4999,Public Sector,>4,91,False
+16558,city_104,0.924,,True,no_enrollment,Graduate,STEM,11,10000+,Pvt Ltd,1,43,False
+31659,city_67,0.855,Male,True,Full time course,High School,,16,10000+,Pvt Ltd,>4,14,False
+26568,city_103,0.92,Male,True,no_enrollment,Graduate,STEM,10,10000+,Pvt Ltd,>4,27,False
+23299,city_103,0.92,Male,True,no_enrollment,Graduate,STEM,>20,1000-4999,Pvt Ltd,>4,23,True
+19282,city_99,0.915,Female,True,no_enrollment,Phd,STEM,>20,5000-9999,Public Sector,>4,4,False
+14211,city_16,0.91,Male,True,no_enrollment,Graduate,STEM,15,10000+,Pvt Ltd,>4,49,False
+7319,city_21,0.624,,True,no_enrollment,Graduate,STEM,12,1000-4999,Pvt Ltd,2,8,False
+25282,city_114,0.926,Male,True,no_enrollment,Masters,STEM,>20,10000+,Pvt Ltd,1,5,False
+12585,city_21,0.624,Male,False,no_enrollment,Masters,STEM,13,10000+,Pvt Ltd,1,52,True
+27597,city_114,0.926,Male,True,no_enrollment,Graduate,Other,15,1000-4999,Pvt Ltd,1,145,False
+26718,city_103,0.92,Male,True,Part time course,Graduate,STEM,11,1000-4999,NGO,1,160,False
+4076,city_114,0.926,Male,True,Part time course,Graduate,STEM,18,1000-4999,Pvt Ltd,never,128,False
+9861,city_160,0.92,Male,True,no_enrollment,Graduate,Other,17,10000+,Public Sector,>4,94,False
+28963,city_61,0.913,Male,True,no_enrollment,High School,,>20,1000-4999,Pvt Ltd,2,216,False
+32010,city_103,0.92,Male,True,Part time course,Graduate,STEM,11,10000+,Pvt Ltd,4,36,True
+32976,city_75,0.939,Male,False,no_enrollment,Graduate,STEM,14,5000-9999,Public Sector,1,26,False
+25701,city_114,0.926,Male,True,no_enrollment,High School,,15,10000+,Pvt Ltd,1,39,False
+124,city_103,0.92,Male,True,no_enrollment,Masters,STEM,>20,10000+,Pvt Ltd,2,34,True
+31380,city_103,0.92,Male,True,no_enrollment,Graduate,STEM,16,10000+,Pvt Ltd,1,17,False
+32527,city_103,0.92,Male,True,no_enrollment,Graduate,STEM,>20,10000+,Pvt Ltd,3,58,False
+23374,city_50,0.896,Male,True,no_enrollment,High School,,16,5000-9999,Pvt Ltd,2,106,False
+8075,city_103,0.92,,True,no_enrollment,Masters,STEM,13,10000+,Pvt Ltd,,90,False
+1253,city_103,0.92,Male,True,no_enrollment,Masters,STEM,>20,10000+,Pvt Ltd,>4,42,False
+1675,city_103,0.92,Male,True,no_enrollment,Graduate,STEM,10,5000-9999,NGO,4,12,False
+31685,city_114,0.926,Male,True,no_enrollment,Graduate,STEM,15,1000-4999,Pvt Ltd,2,43,False
+28824,city_19,0.682,Male,False,Part time course,Graduate,STEM,>20,5000-9999,Pvt Ltd,>4,35,False
+10288,city_103,0.92,,True,no_enrollment,Graduate,STEM,15,10000+,,1,111,True
+19826,city_16,0.91,Male,True,no_enrollment,Masters,STEM,18,1000-4999,Pvt Ltd,1,21,False
+11754,city_36,0.893,Male,True,no_enrollment,Graduate,STEM,15,1000-4999,Pvt Ltd,>4,60,False
+9629,city_103,0.92,Male,True,no_enrollment,Masters,STEM,14,10000+,Pvt Ltd,4,166,True
+12721,city_65,0.802,Female,True,no_enrollment,Masters,STEM,15,10000+,Pvt Ltd,3,25,False
+16564,city_16,0.91,Other,True,no_enrollment,Graduate,STEM,11,10000+,Pvt Ltd,1,17,False
+18178,city_20,0.796,Female,True,no_enrollment,Graduate,STEM,>20,10000+,Pvt Ltd,2,79,False
+27608,city_100,0.887,Male,True,no_enrollment,Graduate,STEM,>20,1000-4999,Pvt Ltd,>4,38,False
+19233,city_103,0.92,Male,True,no_enrollment,Graduate,STEM,>20,1000-4999,Pvt Ltd,>4,56,False
+14754,city_23,0.899,,False,no_enrollment,Graduate,STEM,>20,1000-4999,Public Sector,1,34,False
+29701,city_45,0.89,Male,True,no_enrollment,Graduate,STEM,11,10000+,Pvt Ltd,4,38,False
+535,city_160,0.92,Male,True,no_enrollment,Graduate,STEM,>20,5000-9999,Pvt Ltd,>4,73,False
+20401,city_160,0.92,,True,no_enrollment,Masters,STEM,>20,10000+,Public Sector,>4,40,False
+19901,city_160,0.92,Female,True,no_enrollment,Graduate,STEM,19,5000-9999,Pvt Ltd,>4,37,False
+4100,city_28,0.939,Male,True,no_enrollment,Masters,STEM,20,10000+,Pvt Ltd,1,58,False
+28127,city_21,0.624,Female,True,no_enrollment,Graduate,STEM,15,10000+,Pvt Ltd,1,5,True
+11490,city_89,0.925,Male,True,no_enrollment,Graduate,STEM,10,1000-4999,Pvt Ltd,never,56,False
+7484,city_103,0.92,Male,False,no_enrollment,High School,,>20,5000-9999,Pvt Ltd,>4,26,False
+15342,city_160,0.92,Male,True,no_enrollment,Graduate,STEM,10,10000+,,1,56,False
+23728,city_104,0.924,Male,True,Part time course,Graduate,STEM,>20,5000-9999,Pvt Ltd,1,77,False
+27937,city_103,0.92,Other,False,no_enrollment,Graduate,STEM,16,10000+,NGO,>4,6,False
+27279,city_103,0.92,Male,True,no_enrollment,Graduate,No Major,17,5000-9999,Pvt Ltd,>4,45,False
+30819,city_103,0.92,Male,True,no_enrollment,Graduate,STEM,14,10000+,Pvt Ltd,>4,8,False
+6351,city_103,0.92,Male,True,no_enrollment,Phd,STEM,11,10000+,Pvt Ltd,1,23,False
+28941,city_103,0.92,Male,False,no_enrollment,Graduate,STEM,15,10000+,Pvt Ltd,2,19,False
+15208,city_16,0.91,Male,True,no_enrollment,Graduate,STEM,15,1000-4999,Pvt Ltd,>4,66,True
+6731,city_16,0.91,Male,True,no_enrollment,Masters,STEM,20,1000-4999,Pvt Ltd,>4,11,False
+7557,city_103,0.92,Male,True,no_enrollment,Graduate,STEM,15,5000-9999,Pvt Ltd,3,12,False
+7657,city_160,0.92,Male,True,no_enrollment,Masters,STEM,>20,5000-9999,Pvt Ltd,4,26,False
+16805,city_16,0.91,,False,no_enrollment,Phd,STEM,>20,5000-9999,NGO,>4,45,False
+4372,city_103,0.92,,True,Full time course,Graduate,STEM,14,10000+,Pvt Ltd,1,37,True
+26280,city_159,0.843,Male,False,no_enrollment,Phd,STEM,>20,5000-9999,Public Sector,>4,42,False
+31886,city_103,0.92,Male,False,no_enrollment,Graduate,Humanities,15,1000-4999,Pvt Ltd,>4,51,True
+27984,city_103,0.92,Male,True,no_enrollment,Graduate,STEM,>20,10000+,Pvt Ltd,>4,98,False
+9372,city_16,0.91,Male,True,no_enrollment,Masters,STEM,>20,10000+,Pvt Ltd,2,39,False
+16425,city_67,0.855,Male,True,no_enrollment,Graduate,STEM,14,10000+,,4,16,False
+16242,city_103,0.92,Male,True,no_enrollment,Graduate,STEM,10,1000-4999,Pvt Ltd,4,50,False
+23192,city_142,0.727,,False,Part time course,Masters,STEM,12,5000-9999,Public Sector,1,91,False
+27068,city_75,0.939,Male,True,Full time course,Graduate,STEM,>20,1000-4999,Pvt Ltd,1,35,False
+17407,city_103,0.92,Female,False,no_enrollment,Phd,Humanities,>20,10000+,Public Sector,>4,17,False
+13145,city_103,0.92,Male,True,no_enrollment,Graduate,STEM,10,5000-9999,Pvt Ltd,3,33,False
+8655,city_16,0.91,Male,True,no_enrollment,Graduate,STEM,13,10000+,Pvt Ltd,>4,80,True
+10032,city_98,0.949,Male,False,no_enrollment,Masters,Business Degree,16,10000+,Pvt Ltd,>4,23,True
+25523,city_103,0.92,Male,True,no_enrollment,Graduate,STEM,15,10000+,Pvt Ltd,4,56,True
+21505,city_114,0.926,,True,Full time course,Graduate,STEM,18,1000-4999,Pvt Ltd,3,34,True
+27929,city_103,0.92,Male,False,no_enrollment,Graduate,STEM,15,10000+,Pvt Ltd,2,16,True
+31793,city_103,0.92,Male,True,Full time course,Graduate,STEM,14,10000+,Pvt Ltd,1,11,False
+9315,city_21,0.624,Male,True,no_enrollment,Masters,STEM,19,1000-4999,Pvt Ltd,>4,11,True
+13399,city_21,0.624,Male,True,no_enrollment,Masters,Business Degree,19,10000+,Pvt Ltd,>4,174,True
+13641,city_103,0.92,,True,no_enrollment,Graduate,Humanities,12,10000+,Public Sector,1,140,False
+27401,city_103,0.92,Male,True,no_enrollment,Graduate,STEM,15,10000+,Pvt Ltd,2,30,False
+1857,city_123,0.738,Male,True,Full time course,Graduate,STEM,10,10000+,Pvt Ltd,1,144,False
+23310,city_21,0.624,Male,True,no_enrollment,Masters,STEM,17,10000+,Pvt Ltd,3,90,True
+480,city_103,0.92,Male,True,no_enrollment,Graduate,STEM,15,10000+,Pvt Ltd,2,34,False
+950,city_160,0.92,Male,True,no_enrollment,Graduate,STEM,>20,10000+,Pvt Ltd,never,15,False
+19898,city_114,0.926,Male,False,Full time course,Masters,STEM,17,1000-4999,NGO,1,62,False
+1888,city_104,0.924,Male,True,no_enrollment,Graduate,STEM,13,5000-9999,Pvt Ltd,>4,31,True
+31512,city_114,0.926,Male,True,no_enrollment,Graduate,STEM,12,10000+,Pvt Ltd,2,23,False
+17312,city_16,0.91,Male,True,no_enrollment,Masters,STEM,16,10000+,Pvt Ltd,2,44,False
+25581,city_103,0.92,Male,True,no_enrollment,Graduate,STEM,>20,1000-4999,Pvt Ltd,>4,192,False
+29533,city_136,0.897,Male,True,no_enrollment,Masters,STEM,>20,1000-4999,Pvt Ltd,>4,17,False
+2738,city_21,0.624,Male,True,no_enrollment,Graduate,STEM,12,5000-9999,,1,87,True
+17695,city_103,0.92,Female,True,no_enrollment,Phd,STEM,>20,10000+,Public Sector,4,31,False
+12956,city_114,0.926,Male,True,no_enrollment,Graduate,STEM,12,1000-4999,Pvt Ltd,4,42,False
+17775,city_23,0.899,Female,True,no_enrollment,Graduate,Humanities,>20,5000-9999,NGO,>4,34,False
+1908,city_21,0.624,Male,True,no_enrollment,Masters,STEM,12,10000+,Pvt Ltd,1,184,True
+24986,city_138,0.836,Male,True,Part time course,Masters,STEM,17,10000+,Pvt Ltd,1,19,False
+883,city_103,0.92,Male,True,no_enrollment,Phd,STEM,13,10000+,Public Sector,>4,12,False
+13844,city_114,0.926,,False,Full time course,Graduate,STEM,15,10000+,Pvt Ltd,>4,156,False
+21755,city_21,0.624,,True,no_enrollment,Graduate,STEM,15,10000+,Pvt Ltd,1,63,False
+951,city_61,0.913,Male,True,no_enrollment,Graduate,STEM,>20,10000+,Pvt Ltd,>4,13,False
+1085,city_16,0.91,Male,True,no_enrollment,Graduate,STEM,>20,5000-9999,Pvt Ltd,1,166,False
+28260,city_143,0.74,Male,True,no_enrollment,Graduate,STEM,>20,10000+,Pvt Ltd,1,40,False
+8182,city_45,0.89,Male,True,no_enrollment,Graduate,STEM,15,1000-4999,Pvt Ltd,>4,16,False
+12318,city_103,0.92,Male,False,Full time course,Graduate,STEM,12,10000+,Public Sector,>4,128,False
+27683,city_136,0.897,Male,True,no_enrollment,Masters,STEM,19,1000-4999,Pvt Ltd,>4,48,False
+74,city_21,0.624,Male,True,no_enrollment,Graduate,STEM,12,1000-4999,Pvt Ltd,1,50,False
+5079,city_16,0.91,Male,False,no_enrollment,Graduate,Business Degree,>20,10000+,Pvt Ltd,3,86,False
+33185,city_136,0.897,Male,True,no_enrollment,Masters,STEM,10,1000-4999,Pvt Ltd,2,92,False
+32477,city_103,0.92,Male,True,no_enrollment,Graduate,STEM,14,1000-4999,Pvt Ltd,1,11,False
+17521,city_103,0.92,Male,False,no_enrollment,Masters,Business Degree,11,10000+,Pvt Ltd,>4,12,False
+20276,city_103,0.92,Male,False,no_enrollment,Graduate,STEM,10,10000+,Pvt Ltd,>4,308,False
+32015,city_103,0.92,Male,True,no_enrollment,Graduate,STEM,>20,10000+,Pvt Ltd,>4,77,False
+31636,city_103,0.92,,True,no_enrollment,Graduate,STEM,>20,10000+,Pvt Ltd,>4,24,False
+24521,city_21,0.624,Male,True,no_enrollment,Graduate,STEM,10,10000+,Pvt Ltd,2,108,False
+948,city_16,0.91,Male,True,no_enrollment,Graduate,STEM,14,1000-4999,NGO,4,272,False
+32077,city_102,0.804,Male,True,no_enrollment,Masters,STEM,12,5000-9999,Pvt Ltd,2,67,False
+29180,city_23,0.899,Male,True,no_enrollment,Graduate,STEM,17,1000-4999,Pvt Ltd,2,130,False
+4528,city_152,0.698,Male,True,Full time course,Graduate,STEM,16,1000-4999,Pvt Ltd,2,16,False
+3089,city_21,0.624,,True,no_enrollment,Graduate,STEM,10,1000-4999,Pvt Ltd,1,32,True
+6080,city_103,0.92,Male,True,no_enrollment,Graduate,Humanities,>20,1000-4999,Pvt Ltd,>4,192,False
+24102,city_114,0.926,Male,True,no_enrollment,Masters,STEM,>20,10000+,Pvt Ltd,3,2,False
+28925,city_160,0.92,Male,True,no_enrollment,Graduate,STEM,19,1000-4999,NGO,>4,70,False
+30244,city_16,0.91,Male,True,no_enrollment,Graduate,STEM,19,1000-4999,Pvt Ltd,2,26,False
+15487,city_28,0.939,,True,no_enrollment,Graduate,STEM,>20,1000-4999,Pvt Ltd,1,89,False
+22996,city_103,0.92,Female,True,no_enrollment,Graduate,Other,>20,1000-4999,Pvt Ltd,2,35,False
+9623,city_103,0.92,Female,False,no_enrollment,Phd,STEM,>20,10000+,Pvt Ltd,>4,79,False
+10310,city_103,0.92,Female,True,no_enrollment,Masters,STEM,15,1000-4999,Pvt Ltd,3,39,False
+605,city_16,0.91,Male,True,no_enrollment,Graduate,STEM,11,5000-9999,Pvt Ltd,>4,4,False
+5854,city_71,0.884,Male,False,no_enrollment,Phd,STEM,>20,1000-4999,NGO,>4,322,False
+8935,city_123,0.738,Male,True,no_enrollment,Graduate,STEM,17,5000-9999,Pvt Ltd,3,2,False
+32711,city_46,0.762,Male,True,no_enrollment,Graduate,STEM,13,10000+,Pvt Ltd,>4,11,True
+27266,city_103,0.92,Male,True,no_enrollment,Graduate,Business Degree,>20,1000-4999,Pvt Ltd,2,34,False
+25375,city_136,0.897,,True,no_enrollment,High School,,>20,1000-4999,Pvt Ltd,>4,102,False
+790,city_103,0.92,Male,True,no_enrollment,Graduate,STEM,>20,10000+,Pvt Ltd,3,71,False
+22047,city_103,0.92,Male,True,no_enrollment,Masters,STEM,15,5000-9999,Pvt Ltd,2,64,False
+16550,city_114,0.926,Male,True,no_enrollment,Masters,STEM,20,10000+,Pvt Ltd,>4,64,False
+31148,city_103,0.92,Male,True,no_enrollment,Graduate,STEM,15,10000+,Pvt Ltd,1,86,False
+16978,city_16,0.91,,True,no_enrollment,,,11,1000-4999,Pvt Ltd,2,74,False
+5436,city_104,0.924,Male,True,no_enrollment,Masters,STEM,>20,1000-4999,Pvt Ltd,>4,162,False
+18614,city_16,0.91,Male,True,no_enrollment,Masters,STEM,>20,1000-4999,Pvt Ltd,1,29,False
+8863,city_103,0.92,Female,True,no_enrollment,Graduate,STEM,16,10000+,Pvt Ltd,2,7,False
+9911,city_61,0.913,Male,False,no_enrollment,Masters,STEM,>20,10000+,Pvt Ltd,>4,80,False
+1083,city_103,0.92,Male,True,no_enrollment,Graduate,STEM,15,1000-4999,Pvt Ltd,1,68,False
+12799,city_103,0.92,Female,True,no_enrollment,Masters,STEM,>20,10000+,Public Sector,>4,33,False
+23121,city_160,0.92,,True,no_enrollment,Graduate,Business Degree,15,1000-4999,Pvt Ltd,>4,98,False
+24371,city_103,0.92,Female,False,no_enrollment,Graduate,STEM,19,10000+,Pvt Ltd,>4,86,False
+4131,city_103,0.92,Male,False,no_enrollment,Phd,STEM,>20,5000-9999,NGO,>4,7,False
+20162,city_160,0.92,Male,True,no_enrollment,Graduate,STEM,14,10000+,Pvt Ltd,>4,40,False
+16307,city_21,0.624,Male,True,no_enrollment,Graduate,STEM,10,10000+,Pvt Ltd,never,37,False
+14791,city_1,0.847,Male,True,Full time course,Graduate,STEM,10,5000-9999,Pvt Ltd,1,9,False
+27602,city_21,0.624,Male,False,no_enrollment,Graduate,STEM,11,10000+,Pvt Ltd,3,34,False
+19760,city_93,0.865,Male,True,no_enrollment,Masters,STEM,18,10000+,Pvt Ltd,3,14,False
+10782,city_104,0.924,Other,True,no_enrollment,Graduate,STEM,10,1000-4999,Pvt Ltd,1,80,False
+25124,city_67,0.855,Male,True,no_enrollment,Graduate,STEM,11,5000-9999,Pvt Ltd,2,76,True
+27342,city_98,0.949,Male,True,no_enrollment,,,16,1000-4999,Pvt Ltd,3,58,False
+10392,city_103,0.92,Male,True,no_enrollment,Graduate,STEM,15,5000-9999,Other,>4,53,False
+26700,city_103,0.92,Male,True,no_enrollment,Masters,Humanities,>20,5000-9999,NGO,>4,40,False
+29538,city_21,0.624,Male,True,Full time course,Graduate,STEM,10,10000+,Pvt Ltd,1,53,False
+18318,city_21,0.624,Male,True,no_enrollment,Masters,STEM,>20,10000+,Pvt Ltd,>4,11,True
+2133,city_103,0.92,Male,True,no_enrollment,Graduate,STEM,19,1000-4999,Pvt Ltd,1,29,False
+19961,city_114,0.926,,False,no_enrollment,Phd,STEM,>20,10000+,Public Sector,2,54,False
+3916,city_114,0.926,,False,no_enrollment,Masters,STEM,>20,1000-4999,Pvt Ltd,never,15,False
+3075,city_103,0.92,Male,True,no_enrollment,Graduate,STEM,10,10000+,Pvt Ltd,>4,21,False
+4438,city_103,0.92,Male,True,no_enrollment,Graduate,STEM,13,10000+,Pvt Ltd,3,83,False
+18459,city_114,0.926,Male,True,no_enrollment,Graduate,STEM,10,10000+,Pvt Ltd,2,33,False
+23779,city_103,0.92,Male,True,no_enrollment,Masters,STEM,19,10000+,Pvt Ltd,1,32,False
+17647,city_103,0.92,Male,True,no_enrollment,Masters,STEM,15,10000+,Pvt Ltd,never,6,False
+5855,city_173,0.878,Male,True,no_enrollment,Masters,STEM,18,1000-4999,Pvt Ltd,>4,11,False
+16993,city_103,0.92,Male,True,no_enrollment,Graduate,STEM,13,10000+,Pvt Ltd,2,42,False
+4383,city_103,0.92,,False,no_enrollment,Graduate,STEM,>20,10000+,Pvt Ltd,>4,46,False
+10540,city_103,0.92,Male,True,no_enrollment,Masters,STEM,18,5000-9999,Pvt Ltd,1,11,False
+31364,city_103,0.92,Male,True,no_enrollment,Graduate,Business Degree,>20,5000-9999,Pvt Ltd,1,106,False
+28093,city_103,0.92,Female,False,Full time course,Masters,STEM,12,10000+,Public Sector,2,155,False
+24637,city_103,0.92,Male,False,no_enrollment,Graduate,STEM,>20,10000+,Pvt Ltd,4,102,False
+23100,city_103,0.92,Male,True,no_enrollment,Graduate,STEM,>20,10000+,Pvt Ltd,3,2,False
+5178,city_103,0.92,Male,True,no_enrollment,Masters,STEM,>20,10000+,Pvt Ltd,>4,24,False
+16706,city_103,0.92,,False,no_enrollment,Phd,STEM,15,10000+,Pvt Ltd,2,148,False
+5105,city_103,0.92,Male,True,no_enrollment,Graduate,STEM,>20,10000+,Pvt Ltd,>4,78,False
+14277,city_46,0.762,Male,True,no_enrollment,Graduate,STEM,10,1000-4999,Pvt Ltd,4,83,False
+22600,city_16,0.91,Male,True,no_enrollment,Masters,STEM,17,1000-4999,Public Sector,>4,18,False
+15803,city_160,0.92,Male,True,no_enrollment,Masters,STEM,>20,5000-9999,Pvt Ltd,1,64,False
+15822,city_16,0.91,Male,False,no_enrollment,Graduate,STEM,19,1000-4999,Pvt Ltd,1,56,False
+12691,city_61,0.913,Male,True,no_enrollment,Graduate,STEM,>20,10000+,,4,78,False
+17636,city_114,0.926,Male,False,no_enrollment,Masters,STEM,>20,10000+,Pvt Ltd,>4,308,False
+8079,city_103,0.92,Male,False,no_enrollment,Masters,STEM,>20,1000-4999,Public Sector,>4,132,False
+10719,city_102,0.804,,True,no_enrollment,Masters,STEM,15,1000-4999,Pvt Ltd,1,11,False
+1484,city_160,0.92,Male,True,no_enrollment,Graduate,STEM,16,5000-9999,Pvt Ltd,>4,7,False
+29576,city_160,0.92,Male,False,Part time course,Graduate,STEM,14,10000+,Public Sector,>4,50,False
+14326,city_103,0.92,Male,True,no_enrollment,Masters,STEM,13,10000+,Pvt Ltd,2,22,False
+22822,city_16,0.91,Male,True,no_enrollment,High School,,>20,10000+,Pvt Ltd,1,44,False
+3898,city_23,0.899,Male,True,Part time course,Primary School,,11,5000-9999,Pvt Ltd,1,178,False
+208,city_16,0.91,Male,True,no_enrollment,Graduate,STEM,>20,10000+,Pvt Ltd,>4,58,True
+24109,city_104,0.924,Male,True,no_enrollment,Masters,STEM,15,1000-4999,Pvt Ltd,4,116,True
+12802,city_116,0.743,Male,True,no_enrollment,Masters,STEM,>20,10000+,Pvt Ltd,1,6,False
+10421,city_103,0.92,Male,True,no_enrollment,Masters,STEM,>20,10000+,Pvt Ltd,>4,19,False
+1004,city_103,0.92,Male,True,no_enrollment,Masters,STEM,>20,10000+,Pvt Ltd,4,10,False
+5996,city_16,0.91,Male,False,no_enrollment,Phd,STEM,>20,1000-4999,Public Sector,>4,13,False
+21248,city_21,0.624,,True,no_enrollment,Graduate,STEM,18,10000+,Pvt Ltd,>4,15,True
+4451,city_103,0.92,Male,True,no_enrollment,Masters,STEM,10,10000+,Public Sector,1,92,False
+19109,city_103,0.92,Male,True,no_enrollment,Graduate,STEM,16,10000+,Pvt Ltd,1,48,False
+32983,city_160,0.92,Male,True,no_enrollment,Graduate,STEM,17,10000+,Pvt Ltd,1,10,False
+4035,city_103,0.92,Male,True,no_enrollment,Graduate,STEM,>20,10000+,Pvt Ltd,2,25,False
+19436,city_21,0.624,,True,no_enrollment,Graduate,STEM,17,5000-9999,Pvt Ltd,2,47,True
+28578,city_103,0.92,,True,no_enrollment,Masters,STEM,10,10000+,Pvt Ltd,4,178,False
+23689,city_16,0.91,Male,True,no_enrollment,Masters,STEM,>20,10000+,Pvt Ltd,never,16,False
+32473,city_16,0.91,Male,True,no_enrollment,Graduate,STEM,>20,10000+,Pvt Ltd,>4,4,True
+31286,city_103,0.92,Male,True,no_enrollment,Graduate,STEM,10,5000-9999,Pvt Ltd,2,47,True
+31601,city_103,0.92,Male,True,no_enrollment,Graduate,STEM,>20,10000+,Pvt Ltd,1,166,False
+2564,city_21,0.624,Male,True,no_enrollment,Graduate,STEM,19,10000+,Pvt Ltd,2,12,False
+9309,city_16,0.91,,True,no_enrollment,Graduate,STEM,>20,5000-9999,Public Sector,>4,41,False
+22401,city_21,0.624,Male,True,no_enrollment,Graduate,STEM,11,10000+,Pvt Ltd,2,148,True
+32963,city_103,0.92,,False,no_enrollment,Graduate,STEM,18,1000-4999,Public Sector,1,80,False
+26818,city_75,0.939,Male,True,no_enrollment,Masters,STEM,18,5000-9999,Pvt Ltd,1,60,False
+32935,city_53,0.74,Male,False,no_enrollment,Masters,STEM,14,1000-4999,NGO,1,196,True
+6072,city_114,0.926,Female,True,no_enrollment,Graduate,STEM,10,10000+,Pvt Ltd,>4,100,False
+9453,city_103,0.92,,True,no_enrollment,Masters,STEM,>20,1000-4999,Pvt Ltd,1,23,True
+29853,city_102,0.804,Male,True,no_enrollment,Graduate,STEM,11,1000-4999,Pvt Ltd,1,21,False
+27726,city_41,0.827,Male,True,no_enrollment,High School,,17,1000-4999,Pvt Ltd,1,50,False
+29515,city_136,0.897,Male,False,no_enrollment,Phd,STEM,>20,10000+,Public Sector,never,27,False
+9765,city_150,0.698,Male,True,no_enrollment,Masters,STEM,>20,1000-4999,Pvt Ltd,>4,22,False
+13060,city_103,0.92,,True,no_enrollment,Phd,STEM,>20,10000+,Pvt Ltd,4,94,False
+25542,city_75,0.939,Female,True,no_enrollment,Graduate,STEM,14,5000-9999,Pvt Ltd,1,25,False
+12607,city_136,0.897,Male,True,no_enrollment,Masters,STEM,>20,10000+,Pvt Ltd,3,9,False
+13052,city_103,0.92,Male,False,no_enrollment,Graduate,STEM,16,10000+,Pvt Ltd,>4,192,True
+4291,city_103,0.92,Male,True,no_enrollment,Graduate,STEM,10,10000+,Pvt Ltd,1,28,False
+19216,city_103,0.92,Male,True,no_enrollment,Graduate,STEM,10,1000-4999,Pvt Ltd,1,11,False
+15621,city_103,0.92,Male,True,no_enrollment,Graduate,STEM,>20,1000-4999,Pvt Ltd,>4,76,False
+26781,city_103,0.92,Male,True,no_enrollment,Graduate,No Major,19,1000-4999,Pvt Ltd,>4,34,False
+22909,city_136,0.897,Male,True,no_enrollment,Masters,STEM,17,1000-4999,Pvt Ltd,>4,92,True
+11112,city_103,0.92,Female,True,no_enrollment,Graduate,STEM,>20,1000-4999,Pvt Ltd,1,280,False
+23983,city_75,0.939,Male,True,Part time course,Graduate,STEM,>20,10000+,Pvt Ltd,>4,35,False
+26588,city_114,0.926,Male,True,no_enrollment,Graduate,STEM,11,10000+,Pvt Ltd,1,218,True
+28464,city_28,0.939,Male,True,no_enrollment,Graduate,STEM,15,10000+,Pvt Ltd,>4,34,False
+21398,city_114,0.926,Male,False,no_enrollment,Masters,STEM,16,1000-4999,Pvt Ltd,4,72,False
+13160,city_103,0.92,Male,True,no_enrollment,Graduate,STEM,>20,5000-9999,Public Sector,>4,168,False
+14306,city_103,0.92,Male,True,no_enrollment,Graduate,STEM,>20,1000-4999,Pvt Ltd,2,25,False
+17670,city_65,0.802,Male,False,no_enrollment,Graduate,STEM,>20,10000+,Pvt Ltd,4,94,False
+2675,city_23,0.899,Male,True,Part time course,Graduate,STEM,10,1000-4999,Pvt Ltd,>4,70,False
+20255,city_103,0.92,,True,no_enrollment,Graduate,STEM,11,10000+,,4,84,False
+14363,city_16,0.91,Male,True,no_enrollment,Graduate,STEM,20,10000+,Pvt Ltd,1,70,False
+18332,city_75,0.939,Male,True,no_enrollment,Graduate,STEM,12,5000-9999,Public Sector,4,13,False
+21149,city_103,0.92,Male,True,no_enrollment,Graduate,STEM,>20,10000+,Pvt Ltd,never,116,False
+28891,city_136,0.897,Male,True,no_enrollment,Masters,STEM,>20,10000+,Pvt Ltd,>4,102,False
+15368,city_103,0.92,,True,Part time course,Masters,STEM,>20,10000+,Pvt Ltd,>4,33,False
+29941,city_103,0.92,Male,True,no_enrollment,Graduate,STEM,10,10000+,Pvt Ltd,4,165,False
+21599,city_114,0.926,Male,True,no_enrollment,Phd,STEM,>20,1000-4999,Public Sector,1,47,False
+23593,city_103,0.92,Male,True,no_enrollment,Graduate,STEM,>20,10000+,Pvt Ltd,never,54,False
+7743,city_97,0.925,,True,no_enrollment,Phd,STEM,10,10000+,Pvt Ltd,1,162,False
+495,city_103,0.92,Male,False,no_enrollment,Phd,STEM,15,5000-9999,Pvt Ltd,1,31,False
+18580,city_21,0.624,Male,True,no_enrollment,Graduate,STEM,10,1000-4999,Pvt Ltd,2,14,False
+31897,city_103,0.92,Male,True,no_enrollment,Masters,STEM,14,10000+,Pvt Ltd,>4,16,False
+5063,city_103,0.92,Male,True,no_enrollment,Phd,STEM,>20,10000+,Pvt Ltd,4,330,False
+16256,city_103,0.92,Male,True,no_enrollment,Primary School,,>20,1000-4999,Pvt Ltd,>4,88,False
+23470,city_73,0.754,Male,True,no_enrollment,Graduate,STEM,>20,5000-9999,Pvt Ltd,>4,34,False
+6897,city_102,0.804,Male,True,no_enrollment,Masters,STEM,20,1000-4999,Pvt Ltd,1,3,False
+26105,city_73,0.754,Male,True,no_enrollment,Graduate,STEM,>20,10000+,Pvt Ltd,2,74,False
+9287,city_16,0.91,Male,True,no_enrollment,Graduate,STEM,>20,1000-4999,Pvt Ltd,3,35,False
+2698,city_36,0.893,Male,False,,Graduate,No Major,12,10000+,Public Sector,3,68,False
+32306,city_21,0.624,Female,True,no_enrollment,Graduate,STEM,14,10000+,Pvt Ltd,1,14,True
+31382,city_103,0.92,Male,True,no_enrollment,Masters,Humanities,>20,5000-9999,Other,>4,50,False
+2147,city_21,0.624,,True,no_enrollment,Graduate,STEM,15,10000+,Pvt Ltd,>4,21,False
+11083,city_73,0.754,,True,Full time course,Graduate,STEM,14,5000-9999,Pvt Ltd,>4,56,False
+12302,city_103,0.92,Male,True,no_enrollment,Masters,STEM,>20,10000+,Pvt Ltd,4,4,False
+32517,city_103,0.92,,False,no_enrollment,Graduate,STEM,>20,10000+,Pvt Ltd,1,89,False
+28650,city_71,0.884,Male,True,no_enrollment,Graduate,STEM,13,10000+,Pvt Ltd,1,16,False
+14674,city_64,0.666,,False,no_enrollment,Graduate,STEM,14,5000-9999,Pvt Ltd,3,71,False
+14531,city_136,0.897,Male,True,no_enrollment,Masters,STEM,11,10000+,Pvt Ltd,>4,100,False
+1386,city_16,0.91,Male,True,no_enrollment,Graduate,STEM,10,10000+,Pvt Ltd,1,112,False
+2272,city_100,0.887,Male,True,no_enrollment,Graduate,STEM,14,1000-4999,Pvt Ltd,1,19,False
+16833,city_16,0.91,Male,True,no_enrollment,Masters,Business Degree,>20,10000+,Pvt Ltd,>4,79,False
+25234,city_67,0.855,,True,Full time course,Masters,STEM,14,10000+,Pvt Ltd,4,12,True
+21645,city_50,0.896,Male,True,no_enrollment,Masters,STEM,10,10000+,Pvt Ltd,1,55,False
+8576,city_103,0.92,,True,no_enrollment,Graduate,STEM,>20,10000+,Pvt Ltd,>4,8,False
+30031,city_114,0.926,Male,True,no_enrollment,Masters,STEM,>20,5000-9999,Pvt Ltd,2,36,False
+25309,city_16,0.91,Other,False,no_enrollment,Masters,Humanities,15,10000+,Pvt Ltd,3,51,False
+28965,city_21,0.624,Male,True,no_enrollment,Graduate,STEM,10,10000+,Pvt Ltd,4,21,False
+8054,city_104,0.924,Male,True,no_enrollment,Phd,STEM,>20,10000+,Public Sector,>4,29,False
+15890,city_114,0.926,Female,True,no_enrollment,Masters,STEM,15,1000-4999,Pvt Ltd,3,74,False
+25694,city_24,0.698,Female,False,no_enrollment,Graduate,STEM,16,1000-4999,Public Sector,>4,160,False
+19225,city_160,0.92,Female,True,no_enrollment,Graduate,STEM,>20,1000-4999,Pvt Ltd,>4,19,False
+8259,city_41,0.827,,True,no_enrollment,Masters,STEM,>20,1000-4999,Pvt Ltd,>4,8,False
+3549,city_103,0.92,Male,True,no_enrollment,Masters,STEM,>20,1000-4999,Pvt Ltd,>4,28,False
+599,city_103,0.92,,True,no_enrollment,Graduate,STEM,>20,10000+,Pvt Ltd,3,6,False
+7741,city_103,0.92,Male,False,no_enrollment,Phd,STEM,>20,10000+,Public Sector,>4,11,False
+26159,city_103,0.92,Female,True,no_enrollment,Masters,STEM,>20,10000+,Pvt Ltd,2,62,False
+1717,city_103,0.92,,True,no_enrollment,Graduate,Business Degree,10,10000+,Pvt Ltd,2,15,False
+3739,city_103,0.92,Male,True,no_enrollment,Graduate,STEM,12,5000-9999,Public Sector,3,32,False
+29041,city_103,0.92,Male,True,no_enrollment,Graduate,STEM,17,5000-9999,Pvt Ltd,>4,122,False
+11560,city_138,0.836,Male,True,no_enrollment,Graduate,STEM,>20,10000+,Pvt Ltd,1,33,False
+19601,city_73,0.754,Male,True,no_enrollment,Graduate,STEM,19,1000-4999,Pvt Ltd,>4,15,False
+7188,city_136,0.897,,True,no_enrollment,Masters,STEM,>20,10000+,Pvt Ltd,1,58,False
+17447,city_36,0.893,,True,Part time course,Graduate,STEM,11,10000+,,>4,67,False
+27851,city_138,0.836,Female,True,no_enrollment,Graduate,STEM,16,1000-4999,Pvt Ltd,>4,130,False
+13143,city_103,0.92,Male,True,no_enrollment,Masters,STEM,10,10000+,Pvt Ltd,1,24,True
+32347,city_21,0.624,Male,False,no_enrollment,Graduate,STEM,13,10000+,Pvt Ltd,>4,62,True
+14100,city_65,0.802,Male,True,no_enrollment,Masters,STEM,>20,1000-4999,Pvt Ltd,1,210,False
+30478,city_65,0.802,Male,True,Part time course,Graduate,STEM,10,10000+,Pvt Ltd,1,22,False
+16027,city_103,0.92,Male,True,no_enrollment,Masters,Other,12,10000+,Pvt Ltd,2,80,False
+2858,city_65,0.802,,False,no_enrollment,Graduate,STEM,10,10000+,Pvt Ltd,1,5,False
+28938,city_67,0.855,Male,True,no_enrollment,Masters,STEM,14,1000-4999,Pvt Ltd,4,54,False
+32736,city_75,0.939,,False,no_enrollment,Masters,STEM,>20,10000+,Public Sector,>4,13,False
+13801,city_16,0.91,Male,True,no_enrollment,Graduate,STEM,15,10000+,Pvt Ltd,2,100,False
+21924,city_160,0.92,Male,True,no_enrollment,High School,,13,1000-4999,Pvt Ltd,4,194,False
+2833,city_103,0.92,Male,True,Full time course,Masters,STEM,11,10000+,Pvt Ltd,2,34,False
+28483,city_53,0.74,,True,no_enrollment,Graduate,STEM,13,10000+,Pvt Ltd,1,63,True
+28997,city_114,0.926,,True,no_enrollment,Masters,STEM,19,5000-9999,Pvt Ltd,1,23,False
+29880,city_71,0.884,Male,True,no_enrollment,Graduate,STEM,14,1000-4999,Pvt Ltd,>4,10,False
+5979,city_21,0.624,Male,True,no_enrollment,Graduate,STEM,10,10000+,Pvt Ltd,>4,6,True
+2327,city_21,0.624,,True,no_enrollment,Graduate,STEM,17,1000-4999,Pvt Ltd,1,42,True
+29293,city_100,0.887,Male,True,no_enrollment,High School,,16,1000-4999,Pvt Ltd,1,143,False
+4142,city_103,0.92,Male,True,no_enrollment,Masters,STEM,13,1000-4999,NGO,>4,30,True
+1116,city_103,0.92,Female,True,no_enrollment,Masters,Humanities,19,10000+,Pvt Ltd,>4,56,False
+28547,city_103,0.92,Female,True,no_enrollment,Graduate,STEM,>20,10000+,Pvt Ltd,1,69,False
+20787,city_16,0.91,Male,True,no_enrollment,Phd,STEM,>20,5000-9999,Pvt Ltd,1,30,False
+6716,city_16,0.91,Male,True,no_enrollment,Masters,STEM,>20,1000-4999,Pvt Ltd,1,82,False
+23322,city_103,0.92,Male,True,no_enrollment,Graduate,STEM,15,10000+,Pvt Ltd,>4,31,True
+26832,city_114,0.926,Male,True,no_enrollment,High School,,>20,10000+,Pvt Ltd,>4,51,False
+959,city_16,0.91,Male,True,no_enrollment,Masters,STEM,>20,10000+,Pvt Ltd,never,29,False
+18584,city_21,0.624,Male,True,no_enrollment,Graduate,STEM,11,10000+,Pvt Ltd,>4,7,True
+3330,city_103,0.92,Female,True,no_enrollment,Masters,Arts,10,10000+,Public Sector,1,34,False
+7384,city_114,0.926,Male,True,no_enrollment,Masters,STEM,>20,1000-4999,Pvt Ltd,>4,74,False
+10393,city_103,0.92,Male,True,no_enrollment,Graduate,STEM,15,1000-4999,NGO,>4,90,False
+17098,city_103,0.92,Male,True,no_enrollment,Graduate,STEM,>20,5000-9999,Pvt Ltd,2,184,False
+4462,city_21,0.624,Male,True,no_enrollment,Graduate,STEM,15,1000-4999,Pvt Ltd,2,166,False
+31794,city_103,0.92,Male,True,no_enrollment,Masters,STEM,>20,1000-4999,NGO,>4,101,False
+8893,city_103,0.92,Male,True,no_enrollment,Graduate,Humanities,>20,10000+,Pvt Ltd,4,85,False
+33035,city_103,0.92,Male,True,Part time course,Masters,STEM,15,1000-4999,Pvt Ltd,1,57,False
+12766,city_103,0.92,Male,True,no_enrollment,Graduate,STEM,>20,10000+,NGO,3,136,False
+11165,city_23,0.899,Male,True,no_enrollment,Graduate,STEM,20,5000-9999,Pvt Ltd,1,30,False
+3049,city_67,0.855,Male,True,no_enrollment,Graduate,STEM,12,1000-4999,Pvt Ltd,1,47,False
+4415,city_103,0.92,Male,True,no_enrollment,Graduate,STEM,10,10000+,Pvt Ltd,1,52,False
+13545,city_16,0.91,Male,True,no_enrollment,Masters,STEM,>20,5000-9999,Pvt Ltd,>4,124,False
+25599,city_21,0.624,Male,True,no_enrollment,Masters,STEM,10,10000+,Pvt Ltd,never,14,False
+30411,city_114,0.926,Male,True,no_enrollment,Masters,STEM,>20,10000+,Pvt Ltd,1,32,False
+7685,city_103,0.92,Female,True,no_enrollment,Graduate,STEM,>20,10000+,Pvt Ltd,1,98,False
+28071,city_103,0.92,,True,no_enrollment,Graduate,STEM,>20,10000+,NGO,2,242,False
+26218,city_103,0.92,Male,True,Full time course,Graduate,STEM,10,1000-4999,Pvt Ltd,2,90,True
+4251,city_103,0.92,Male,True,no_enrollment,Masters,STEM,>20,5000-9999,Pvt Ltd,>4,12,False
+15174,city_114,0.926,Male,True,no_enrollment,Graduate,STEM,>20,10000+,Pvt Ltd,>4,26,False
+19452,city_21,0.624,Male,True,no_enrollment,Masters,STEM,>20,5000-9999,Pvt Ltd,>4,72,True
+11028,city_150,0.698,,True,Full time course,High School,,11,10000+,Public Sector,>4,15,True
+23940,city_103,0.92,Male,True,no_enrollment,Graduate,STEM,20,10000+,Pvt Ltd,2,48,False
+30102,city_28,0.939,,False,no_enrollment,Masters,Business Degree,>20,10000+,Pvt Ltd,>4,42,True
+28243,city_103,0.92,Male,True,no_enrollment,Graduate,STEM,13,10000+,Pvt Ltd,3,46,True
+11352,city_16,0.91,Male,True,no_enrollment,Masters,STEM,>20,1000-4999,Pvt Ltd,1,150,True
+3591,city_114,0.926,Male,False,no_enrollment,Phd,STEM,>20,5000-9999,Public Sector,>4,33,True
+26174,city_57,0.866,Male,True,no_enrollment,Masters,STEM,15,10000+,Pvt Ltd,never,17,False
+1133,city_16,0.91,Male,True,no_enrollment,Masters,STEM,>20,10000+,Pvt Ltd,1,62,False
+20799,city_104,0.924,,True,Full time course,Graduate,STEM,>20,1000-4999,NGO,>4,60,False
+2235,city_173,0.878,Male,True,no_enrollment,Masters,STEM,>20,10000+,Pvt Ltd,>4,222,False
+14198,city_103,0.92,Male,True,no_enrollment,Graduate,STEM,>20,10000+,Pvt Ltd,1,170,False
+1473,city_103,0.92,Male,True,no_enrollment,Masters,STEM,16,10000+,Pvt Ltd,>4,29,False
+31811,city_77,0.83,Male,True,no_enrollment,Primary School,,13,1000-4999,Pvt Ltd,2,2,False
+13719,city_16,0.91,Male,True,no_enrollment,Masters,STEM,10,1000-4999,Pvt Ltd,1,50,False
+14864,city_160,0.92,Female,True,no_enrollment,Masters,STEM,13,1000-4999,Public Sector,>4,28,False
+15420,city_103,0.92,Male,True,no_enrollment,Masters,STEM,>20,10000+,Pvt Ltd,>4,32,False
+11342,city_75,0.939,Male,True,no_enrollment,High School,,>20,10000+,Pvt Ltd,>4,116,False
+28851,city_103,0.92,Male,True,Part time course,Graduate,STEM,>20,5000-9999,Pvt Ltd,>4,47,False
+32386,city_103,0.92,,True,no_enrollment,Masters,STEM,13,10000+,Pvt Ltd,1,50,False
+22979,city_138,0.836,,True,no_enrollment,Graduate,STEM,19,10000+,Pvt Ltd,never,13,True
+12662,city_138,0.836,Male,False,no_enrollment,Masters,STEM,>20,1000-4999,Pvt Ltd,2,188,False
+11720,city_28,0.939,Male,False,no_enrollment,Masters,STEM,19,5000-9999,Pvt Ltd,>4,22,False
+5257,city_67,0.855,Male,True,no_enrollment,Masters,STEM,>20,1000-4999,Pvt Ltd,2,3,False
+19112,city_103,0.92,Female,True,no_enrollment,Graduate,STEM,15,10000+,NGO,>4,51,False
+17136,city_103,0.92,Male,True,no_enrollment,Graduate,STEM,18,10000+,Pvt Ltd,>4,28,False
+15517,city_103,0.92,Male,True,no_enrollment,Graduate,STEM,>20,1000-4999,Public Sector,>4,26,False
+24009,city_21,0.624,,False,Full time course,Masters,STEM,20,10000+,Pvt Ltd,1,27,True
+30628,city_16,0.91,Male,True,no_enrollment,Graduate,Humanities,10,10000+,Pvt Ltd,3,29,False
+21299,city_103,0.92,Male,True,Full time course,Graduate,STEM,12,10000+,Pvt Ltd,2,11,False
+23373,city_136,0.897,,True,no_enrollment,Masters,STEM,>20,10000+,Pvt Ltd,>4,20,True
+12015,city_136,0.897,Male,True,no_enrollment,Masters,STEM,14,1000-4999,Pvt Ltd,1,15,False
+15508,city_23,0.899,Male,True,no_enrollment,Graduate,STEM,16,1000-4999,Pvt Ltd,never,5,False
+9906,city_16,0.91,Male,True,no_enrollment,Masters,STEM,>20,1000-4999,Pvt Ltd,3,24,False
+18184,city_138,0.836,Male,True,no_enrollment,Masters,STEM,12,1000-4999,Pvt Ltd,2,40,False
+29741,city_103,0.92,Male,True,no_enrollment,Graduate,STEM,10,10000+,Pvt Ltd,1,21,False
+25438,city_103,0.92,Male,True,no_enrollment,Graduate,STEM,12,1000-4999,Pvt Ltd,>4,67,False
+29780,city_103,0.92,Female,True,no_enrollment,Graduate,Other,17,1000-4999,Pvt Ltd,2,46,False
+531,city_103,0.92,Male,True,no_enrollment,Graduate,STEM,>20,1000-4999,Pvt Ltd,>4,80,False
+27360,city_103,0.92,Male,True,no_enrollment,Graduate,STEM,>20,10000+,Pvt Ltd,>4,14,False
+14214,city_103,0.92,Male,True,no_enrollment,Graduate,STEM,18,10000+,Pvt Ltd,2,12,False
+988,city_16,0.91,Male,True,no_enrollment,Masters,STEM,11,10000+,Pvt Ltd,2,78,False
+26074,city_73,0.754,Male,True,no_enrollment,Graduate,STEM,14,1000-4999,Pvt Ltd,>4,57,False
+27103,city_16,0.91,Male,True,no_enrollment,Graduate,Arts,12,10000+,Pvt Ltd,4,59,False
+10280,city_67,0.855,Female,False,Full time course,Phd,STEM,14,1000-4999,Public Sector,2,140,False
+13488,city_138,0.836,Male,True,no_enrollment,Graduate,STEM,11,1000-4999,Pvt Ltd,1,96,False
+11019,city_28,0.939,Male,True,no_enrollment,Phd,STEM,>20,1000-4999,Public Sector,>4,161,False
+33335,city_99,0.915,Male,True,no_enrollment,High School,,14,1000-4999,Pvt Ltd,1,6,True
+8109,city_114,0.926,Male,True,no_enrollment,Graduate,STEM,11,10000+,Public Sector,1,114,False
+4211,city_103,0.92,Female,True,no_enrollment,Graduate,STEM,>20,1000-4999,Public Sector,1,48,False
+19424,city_100,0.887,Male,True,no_enrollment,Graduate,STEM,>20,1000-4999,Public Sector,>4,22,False
+15609,city_65,0.802,Male,True,no_enrollment,Graduate,STEM,12,10000+,Pvt Ltd,>4,34,False
+9244,city_21,0.624,,False,Full time course,Graduate,STEM,10,1000-4999,Pvt Ltd,never,113,True
+3927,city_16,0.91,Male,True,no_enrollment,Masters,Business Degree,>20,10000+,Pvt Ltd,2,48,False
+1134,city_103,0.92,,True,no_enrollment,Graduate,STEM,12,10000+,Pvt Ltd,3,23,False
+6528,city_21,0.624,Male,True,no_enrollment,Graduate,STEM,18,10000+,Pvt Ltd,>4,102,False
+16491,city_114,0.926,Male,True,no_enrollment,Masters,STEM,>20,10000+,Pvt Ltd,>4,39,False
+17231,city_36,0.893,Male,True,no_enrollment,Graduate,STEM,>20,1000-4999,Pvt Ltd,1,32,False
+3834,city_64,0.666,Male,True,no_enrollment,High School,,>20,10000+,Pvt Ltd,3,116,False
+18398,city_21,0.624,,True,no_enrollment,Graduate,STEM,10,5000-9999,Pvt Ltd,1,10,True
+15229,city_103,0.92,,True,Part time course,Masters,STEM,>20,5000-9999,Public Sector,4,11,False
+17715,city_103,0.92,Female,True,Part time course,Masters,STEM,17,10000+,Pvt Ltd,1,94,False
+7588,city_21,0.624,Male,True,no_enrollment,Graduate,STEM,14,10000+,Pvt Ltd,1,109,False
+1638,city_75,0.939,,False,no_enrollment,Graduate,STEM,10,10000+,Pvt Ltd,1,6,False
+16297,city_21,0.624,,True,no_enrollment,Masters,No Major,>20,1000-4999,Pvt Ltd,1,72,True
+29594,city_103,0.92,Male,True,no_enrollment,Graduate,Other,18,5000-9999,Pvt Ltd,>4,56,False
+30541,city_103,0.92,Male,True,no_enrollment,Graduate,STEM,>20,1000-4999,Pvt Ltd,>4,55,False
+220,city_103,0.92,Male,True,no_enrollment,Masters,STEM,>20,10000+,Pvt Ltd,1,67,False
+28311,city_103,0.92,Male,True,Part time course,Masters,Humanities,10,10000+,Public Sector,1,32,False
+2767,city_75,0.939,Male,False,Full time course,Graduate,STEM,15,1000-4999,NGO,1,25,False
+22942,city_103,0.92,Male,True,Full time course,Masters,STEM,11,10000+,Pvt Ltd,>4,84,False
+11040,city_103,0.92,Male,True,no_enrollment,Graduate,STEM,16,5000-9999,Pvt Ltd,1,136,False
+19124,city_103,0.92,Male,True,no_enrollment,Masters,STEM,>20,1000-4999,Other,>4,161,False
+14349,city_103,0.92,Male,True,no_enrollment,Graduate,STEM,>20,10000+,Pvt Ltd,>4,111,False
+14647,city_21,0.624,,True,Full time course,Masters,STEM,11,10000+,Pvt Ltd,3,91,True
+23040,city_103,0.92,Female,True,no_enrollment,Graduate,STEM,>20,1000-4999,Pvt Ltd,1,44,False
+7147,city_103,0.92,,True,no_enrollment,Masters,STEM,15,10000+,,1,96,False
+7151,city_23,0.899,Male,True,Part time course,Graduate,STEM,14,10000+,Public Sector,2,78,False
+19006,city_103,0.92,,True,no_enrollment,,,10,5000-9999,Pvt Ltd,1,20,False
+31751,city_61,0.913,Male,True,no_enrollment,Graduate,STEM,12,5000-9999,Pvt Ltd,1,100,False
+27290,city_103,0.92,Male,False,no_enrollment,Graduate,STEM,16,1000-4999,Other,>4,56,False
+21076,city_103,0.92,Male,True,no_enrollment,Graduate,STEM,16,10000+,Pvt Ltd,>4,78,False
+16857,city_136,0.897,Male,False,no_enrollment,Phd,STEM,12,5000-9999,Public Sector,2,74,True
+14289,city_114,0.926,Male,True,no_enrollment,Masters,STEM,>20,10000+,Pvt Ltd,2,22,False
+25849,city_103,0.92,Male,True,no_enrollment,Graduate,Business Degree,14,1000-4999,Pvt Ltd,>4,38,False
+7762,city_116,0.743,Male,True,no_enrollment,Masters,Humanities,10,1000-4999,Pvt Ltd,3,52,True
+12164,city_21,0.624,Male,True,no_enrollment,Graduate,STEM,11,10000+,Pvt Ltd,never,85,True
+14748,city_114,0.926,Male,True,no_enrollment,Masters,STEM,>20,1000-4999,Pvt Ltd,>4,78,False
+24100,city_36,0.893,Male,False,Full time course,Masters,STEM,10,1000-4999,Public Sector,2,37,False
+29100,city_160,0.92,Male,True,no_enrollment,Graduate,STEM,14,5000-9999,Pvt Ltd,4,79,False
+28011,city_103,0.92,Male,True,no_enrollment,Masters,STEM,>20,5000-9999,Pvt Ltd,>4,36,False
+15122,city_16,0.91,Male,True,no_enrollment,Graduate,STEM,17,1000-4999,Public Sector,1,85,False
+29247,city_165,0.903,Male,True,no_enrollment,Masters,STEM,>20,1000-4999,Pvt Ltd,1,61,False
+6626,city_114,0.926,,False,no_enrollment,Phd,STEM,20,1000-4999,Public Sector,2,24,False
+30029,city_160,0.92,Male,True,no_enrollment,Masters,STEM,>20,10000+,NGO,>4,88,False
+30003,city_103,0.92,Female,True,no_enrollment,Graduate,STEM,12,1000-4999,Pvt Ltd,1,46,False
+32166,city_103,0.92,Male,True,no_enrollment,Graduate,STEM,>20,1000-4999,Pvt Ltd,1,42,False
+17771,city_21,0.624,,True,no_enrollment,Graduate,STEM,10,10000+,Pvt Ltd,1,9,True
+31396,city_165,0.903,Male,True,no_enrollment,Masters,STEM,15,5000-9999,Pvt Ltd,1,64,False
+30050,city_100,0.887,Male,False,no_enrollment,High School,,>20,10000+,Pvt Ltd,>4,33,False
+16592,city_16,0.91,Male,False,no_enrollment,Graduate,STEM,18,5000-9999,Pvt Ltd,2,99,False
+7488,city_103,0.92,Male,True,no_enrollment,Masters,STEM,10,10000+,Pvt Ltd,1,20,False
+31535,city_114,0.926,Male,True,no_enrollment,Masters,STEM,>20,1000-4999,Pvt Ltd,1,95,False
+25898,city_21,0.624,Male,True,Full time course,Masters,STEM,17,10000+,Pvt Ltd,1,129,True
+25940,city_73,0.754,Male,True,no_enrollment,Masters,STEM,10,10000+,Pvt Ltd,1,10,False
+12230,city_103,0.92,Male,False,no_enrollment,Masters,STEM,18,10000+,Pvt Ltd,>4,43,True
+2697,city_16,0.91,,True,no_enrollment,Graduate,STEM,15,1000-4999,Pvt Ltd,>4,60,False
+11245,city_103,0.92,Male,True,Part time course,Graduate,STEM,17,5000-9999,Pvt Ltd,>4,15,False
+9434,city_160,0.92,Male,True,no_enrollment,Graduate,STEM,>20,5000-9999,Pvt Ltd,>4,108,False
+1559,city_103,0.92,Male,True,no_enrollment,Graduate,STEM,15,10000+,Pvt Ltd,>4,22,False
+17686,city_40,0.776,,True,Full time course,Graduate,STEM,>20,1000-4999,Pvt Ltd,4,132,False
+30181,city_103,0.92,Male,False,no_enrollment,Graduate,STEM,10,1000-4999,Pvt Ltd,4,45,False
+10307,city_103,0.92,Male,True,no_enrollment,Graduate,STEM,11,5000-9999,Pvt Ltd,2,11,False
+3219,city_136,0.897,Male,True,no_enrollment,Phd,STEM,11,10000+,Pvt Ltd,never,59,False
+26229,city_28,0.939,Male,True,no_enrollment,Masters,STEM,>20,5000-9999,Pvt Ltd,4,4,False
+30665,city_114,0.926,,True,no_enrollment,Masters,Other,11,10000+,Pvt Ltd,1,39,False
+5599,city_97,0.925,,True,no_enrollment,Masters,STEM,>20,1000-4999,Pvt Ltd,4,53,False
+28147,city_16,0.91,Male,True,no_enrollment,Graduate,STEM,16,1000-4999,Other,>4,67,False
+3676,city_103,0.92,Male,False,no_enrollment,Graduate,STEM,15,5000-9999,NGO,>4,4,True
+17881,city_16,0.91,Male,True,no_enrollment,Graduate,STEM,>20,10000+,Pvt Ltd,1,18,False
+28621,city_21,0.624,Male,True,no_enrollment,Graduate,Other,11,10000+,Pvt Ltd,1,21,True
+22877,city_103,0.92,Male,True,no_enrollment,Masters,STEM,>20,10000+,Pvt Ltd,>4,107,False
+32706,city_160,0.92,,True,no_enrollment,Graduate,STEM,11,1000-4999,Pvt Ltd,>4,23,False
+27756,city_103,0.92,Male,True,no_enrollment,Masters,STEM,16,10000+,Public Sector,2,21,False
+6380,city_75,0.939,Male,True,no_enrollment,Graduate,STEM,11,10000+,Pvt Ltd,2,22,False
+27027,city_123,0.738,Male,True,no_enrollment,Masters,STEM,15,10000+,Pvt Ltd,1,17,True
+31044,city_114,0.926,Male,True,no_enrollment,Graduate,STEM,10,1000-4999,Pvt Ltd,1,192,False
+18084,city_103,0.92,Male,True,Full time course,Masters,STEM,14,10000+,Pvt Ltd,3,102,True
+29191,city_46,0.762,Male,False,no_enrollment,Graduate,Humanities,12,10000+,Public Sector,>4,51,False
+8673,city_102,0.804,Male,True,no_enrollment,Masters,STEM,>20,10000+,Pvt Ltd,3,74,False
+2476,city_57,0.866,Male,True,no_enrollment,Graduate,STEM,>20,1000-4999,Pvt Ltd,1,23,False
+28876,city_103,0.92,Male,True,no_enrollment,Graduate,STEM,16,10000+,Pvt Ltd,>4,94,False
+4689,city_114,0.926,Male,True,no_enrollment,Graduate,Humanities,11,1000-4999,Pvt Ltd,3,23,False
+9943,city_61,0.913,Male,True,no_enrollment,Graduate,STEM,15,10000+,Pvt Ltd,>4,28,False
+13,city_103,0.92,Male,True,Part time course,Graduate,STEM,>20,1000-4999,Pvt Ltd,>4,78,False
+15206,city_114,0.926,Male,True,no_enrollment,Masters,STEM,12,10000+,Pvt Ltd,1,5,False
+30476,city_16,0.91,,True,no_enrollment,Graduate,STEM,>20,10000+,Pvt Ltd,3,73,False
+10913,city_136,0.897,Female,False,no_enrollment,Phd,STEM,11,1000-4999,Pvt Ltd,1,150,False
+25724,city_16,0.91,Male,False,no_enrollment,Masters,STEM,14,10000+,NGO,>4,88,False
+29037,city_103,0.92,Male,True,no_enrollment,,,>20,10000+,Pvt Ltd,>4,62,False
+30815,city_103,0.92,Male,True,no_enrollment,Graduate,Business Degree,>20,1000-4999,Pvt Ltd,>4,40,False
+22482,city_64,0.666,Male,True,no_enrollment,Graduate,STEM,15,10000+,Pvt Ltd,1,17,False
+21814,city_100,0.887,,True,no_enrollment,Graduate,STEM,10,5000-9999,,,23,False
+22307,city_103,0.92,Male,True,no_enrollment,Graduate,Business Degree,>20,10000+,Pvt Ltd,>4,28,False
+25343,city_16,0.91,Male,False,no_enrollment,Graduate,STEM,>20,10000+,Pvt Ltd,>4,24,False
+24672,city_16,0.91,Male,True,no_enrollment,High School,,14,1000-4999,Pvt Ltd,>4,214,False
+21355,city_162,0.767,,True,no_enrollment,Graduate,STEM,14,1000-4999,Pvt Ltd,2,28,False
+21401,city_134,0.698,Male,True,no_enrollment,Masters,STEM,15,1000-4999,Pvt Ltd,>4,128,False
+32012,city_103,0.92,Male,True,no_enrollment,Masters,STEM,12,1000-4999,Pvt Ltd,4,66,False
+16825,city_103,0.92,Male,True,no_enrollment,Graduate,STEM,>20,1000-4999,Pvt Ltd,>4,64,False
+19223,city_103,0.92,,True,no_enrollment,Graduate,STEM,10,10000+,Pvt Ltd,1,45,False
+23989,city_103,0.92,Male,True,no_enrollment,Graduate,STEM,15,10000+,Pvt Ltd,1,18,True
+15791,city_28,0.939,,True,no_enrollment,Graduate,STEM,12,10000+,Pvt Ltd,>4,64,True
+25330,city_114,0.926,Male,True,no_enrollment,Masters,STEM,>20,10000+,Pvt Ltd,2,139,False
+11260,city_103,0.92,Female,True,no_enrollment,Graduate,Humanities,>20,10000+,Pvt Ltd,>4,116,False
+1224,city_103,0.92,,False,Full time course,Masters,STEM,10,10000+,Public Sector,,6,True
+26765,city_103,0.92,Male,False,no_enrollment,High School,,11,10000+,Pvt Ltd,3,104,False
+14314,city_103,0.92,Male,True,no_enrollment,Graduate,STEM,>20,10000+,Pvt Ltd,>4,30,False
+3273,city_103,0.92,Male,True,no_enrollment,Graduate,STEM,12,10000+,Pvt Ltd,>4,141,False
+25419,city_136,0.897,Male,True,no_enrollment,,,>20,10000+,Pvt Ltd,>4,52,False
+6126,city_102,0.804,,True,no_enrollment,Masters,STEM,12,5000-9999,Pvt Ltd,1,111,False
+26030,city_75,0.939,Male,True,no_enrollment,Graduate,STEM,>20,10000+,Pvt Ltd,2,21,False
+27116,city_103,0.92,Male,True,no_enrollment,Graduate,STEM,16,10000+,Pvt Ltd,4,76,True
+22637,city_16,0.91,Male,False,Part time course,Masters,STEM,>20,10000+,Pvt Ltd,>4,26,False
+15893,city_103,0.92,Female,False,no_enrollment,Graduate,STEM,>20,10000+,Pvt Ltd,2,5,False
+17622,city_21,0.624,,True,no_enrollment,Graduate,STEM,13,10000+,Pvt Ltd,1,136,True
+29966,city_114,0.926,Male,True,Part time course,Phd,Humanities,11,10000+,Pvt Ltd,>4,56,False
+25148,city_98,0.949,Male,True,no_enrollment,Graduate,STEM,14,5000-9999,Pvt Ltd,2,174,False
+1079,city_103,0.92,,True,no_enrollment,Masters,STEM,>20,1000-4999,Pvt Ltd,>4,13,False
+17208,city_114,0.926,Male,True,Part time course,High School,,13,5000-9999,Pvt Ltd,>4,34,False
+24925,city_103,0.92,Male,False,Full time course,Masters,STEM,>20,1000-4999,Public Sector,never,29,True
+30064,city_21,0.624,Male,True,no_enrollment,Graduate,STEM,12,10000+,Pvt Ltd,never,35,True
+16122,city_103,0.92,,True,no_enrollment,Masters,STEM,19,10000+,Pvt Ltd,3,46,False
+16265,city_160,0.92,,True,no_enrollment,Graduate,STEM,14,1000-4999,Pvt Ltd,>4,80,False
+32140,city_16,0.91,Male,True,no_enrollment,Graduate,STEM,>20,5000-9999,Pvt Ltd,>4,82,False
+12901,city_28,0.939,,True,no_enrollment,Masters,STEM,>20,10000+,Pvt Ltd,2,40,False
+21768,city_21,0.624,Male,True,no_enrollment,Graduate,STEM,12,10000+,Pvt Ltd,>4,22,True
+12543,city_136,0.897,Male,False,no_enrollment,Masters,STEM,15,1000-4999,Public Sector,>4,29,False
+23512,city_103,0.92,Male,True,no_enrollment,Graduate,STEM,>20,10000+,Pvt Ltd,>4,33,False
+27533,city_103,0.92,Male,True,no_enrollment,Graduate,STEM,>20,10000+,Pvt Ltd,2,20,False
+30026,city_103,0.92,Male,True,no_enrollment,Masters,STEM,>20,5000-9999,Pvt Ltd,>4,86,False
+27804,city_103,0.92,Male,True,no_enrollment,Graduate,STEM,>20,1000-4999,Pvt Ltd,>4,4,False
+15891,city_103,0.92,Male,True,no_enrollment,Graduate,STEM,>20,10000+,Pvt Ltd,>4,18,False
+5545,city_102,0.804,Male,False,no_enrollment,Graduate,STEM,14,1000-4999,Pvt Ltd,1,19,False
+32978,city_103,0.92,,False,no_enrollment,Graduate,Business Degree,11,5000-9999,Pvt Ltd,1,10,False
+33362,city_173,0.878,Male,True,no_enrollment,Graduate,STEM,16,10000+,Pvt Ltd,1,100,False
+27906,city_103,0.92,Male,True,no_enrollment,Graduate,STEM,>20,5000-9999,Pvt Ltd,1,63,False
+13261,city_103,0.92,Male,True,no_enrollment,Graduate,STEM,>20,10000+,Pvt Ltd,>4,14,True
+14323,city_75,0.939,,True,Full time course,Graduate,STEM,>20,1000-4999,Pvt Ltd,>4,6,False
+31851,city_160,0.92,,True,no_enrollment,Graduate,STEM,11,10000+,Pvt Ltd,>4,122,True
+30731,city_61,0.913,Male,True,no_enrollment,Masters,STEM,>20,10000+,Pvt Ltd,>4,41,False
+13308,city_21,0.624,,True,no_enrollment,Graduate,STEM,11,1000-4999,Pvt Ltd,1,25,True
+5324,city_16,0.91,Female,True,no_enrollment,Graduate,STEM,14,10000+,Pvt Ltd,1,246,False
+32878,city_103,0.92,Male,True,no_enrollment,Masters,STEM,17,10000+,Pvt Ltd,3,26,False
+18770,city_21,0.624,Male,True,no_enrollment,Graduate,STEM,10,10000+,Pvt Ltd,2,13,False
+29225,city_103,0.92,Male,True,no_enrollment,Graduate,STEM,>20,5000-9999,Pvt Ltd,1,30,False
+20593,city_114,0.926,Male,True,no_enrollment,Graduate,STEM,14,1000-4999,Pvt Ltd,3,70,False
+8299,city_103,0.92,,False,Part time course,Graduate,STEM,10,10000+,Pvt Ltd,4,9,False
+21517,city_21,0.624,Male,True,no_enrollment,Graduate,STEM,11,10000+,Pvt Ltd,>4,28,False
+29857,city_98,0.949,Male,True,no_enrollment,Masters,STEM,>20,1000-4999,Pvt Ltd,>4,105,False
+2403,city_65,0.802,Male,True,no_enrollment,Graduate,STEM,>20,1000-4999,Pvt Ltd,2,9,False
+6508,city_115,0.789,,True,no_enrollment,Graduate,STEM,19,10000+,Pvt Ltd,>4,18,True
+23712,city_143,0.74,Male,False,no_enrollment,Masters,STEM,14,1000-4999,NGO,3,96,False
+28306,city_99,0.915,Male,True,no_enrollment,Masters,Humanities,>20,5000-9999,Public Sector,1,113,False
+23154,city_103,0.92,Male,True,no_enrollment,Graduate,STEM,>20,5000-9999,Pvt Ltd,>4,29,False
+5267,city_105,0.794,Male,True,no_enrollment,Graduate,STEM,11,10000+,Pvt Ltd,2,17,False
+18277,city_103,0.92,Male,True,no_enrollment,Masters,Business Degree,>20,10000+,Pvt Ltd,>4,18,False
+10566,city_21,0.624,,False,Full time course,Graduate,STEM,15,10000+,Pvt Ltd,2,156,True
+26717,city_103,0.92,Male,True,no_enrollment,Graduate,STEM,16,10000+,Pvt Ltd,>4,24,False
+25537,city_104,0.924,Male,True,no_enrollment,High School,,>20,1000-4999,Pvt Ltd,2,83,False
+21221,city_103,0.92,Male,True,no_enrollment,Graduate,STEM,15,10000+,Pvt Ltd,3,64,False
+12428,city_21,0.624,,True,no_enrollment,Graduate,STEM,10,10000+,Pvt Ltd,2,9,True
+7291,city_103,0.92,,True,no_enrollment,Graduate,STEM,>20,5000-9999,Pvt Ltd,4,23,False
+32998,city_28,0.939,Male,False,no_enrollment,Graduate,Business Degree,14,1000-4999,Pvt Ltd,>4,100,False
+31430,city_103,0.92,Male,True,no_enrollment,Graduate,STEM,>20,10000+,Pvt Ltd,>4,13,False
+15667,city_114,0.926,Male,True,,Graduate,STEM,10,10000+,Pvt Ltd,1,262,False
+25172,city_173,0.878,,False,no_enrollment,Graduate,STEM,>20,10000+,Pvt Ltd,>4,106,False
+13018,city_103,0.92,Female,True,no_enrollment,Graduate,Business Degree,>20,10000+,Pvt Ltd,>4,4,False
+21882,city_138,0.836,Male,True,no_enrollment,Masters,STEM,11,10000+,Pvt Ltd,1,8,False
+19804,city_102,0.804,Male,True,no_enrollment,Masters,STEM,10,5000-9999,Pvt Ltd,1,23,False
+17564,city_114,0.926,Male,True,no_enrollment,Graduate,STEM,14,1000-4999,Pvt Ltd,2,63,False
+29548,city_136,0.897,Male,True,no_enrollment,Masters,STEM,>20,10000+,Pvt Ltd,>4,98,False
+12501,city_21,0.624,Male,False,no_enrollment,Masters,STEM,15,5000-9999,Pvt Ltd,>4,46,True
+22159,city_103,0.92,Male,True,no_enrollment,Phd,STEM,12,1000-4999,Pvt Ltd,1,51,False
+30321,city_36,0.893,Male,False,Full time course,Graduate,STEM,11,10000+,Pvt Ltd,1,16,False
+6885,city_136,0.897,Male,True,no_enrollment,Masters,STEM,>20,10000+,Pvt Ltd,2,39,False
+22432,city_123,0.738,Male,True,no_enrollment,Masters,STEM,10,5000-9999,Pvt Ltd,>4,55,False
+20524,city_50,0.896,Male,True,no_enrollment,Graduate,STEM,10,1000-4999,Pvt Ltd,1,21,False
+10315,city_75,0.939,Male,True,no_enrollment,Masters,STEM,14,10000+,Pvt Ltd,1,82,False
+23250,city_114,0.926,Male,True,no_enrollment,Graduate,STEM,12,10000+,Pvt Ltd,4,35,False
+1477,city_162,0.767,Male,True,no_enrollment,Phd,STEM,>20,10000+,Pvt Ltd,1,34,False
+738,city_23,0.899,,True,Part time course,High School,,10,10000+,Public Sector,>4,66,False
+30620,city_138,0.836,Male,True,Part time course,Graduate,STEM,10,1000-4999,Pvt Ltd,2,47,False
+16506,city_36,0.893,Male,True,Part time course,Graduate,STEM,13,1000-4999,Pvt Ltd,2,10,False
+27407,city_98,0.949,Male,True,no_enrollment,Graduate,STEM,11,10000+,Pvt Ltd,1,45,False
+3664,city_103,0.92,,False,no_enrollment,Graduate,STEM,>20,1000-4999,Pvt Ltd,1,47,False
+4336,city_114,0.926,Male,True,no_enrollment,Masters,STEM,10,10000+,Pvt Ltd,1,42,False
+15954,city_23,0.899,Male,True,no_enrollment,Graduate,STEM,15,10000+,Pvt Ltd,1,282,False
+23813,city_173,0.878,Male,True,no_enrollment,,,20,5000-9999,Pvt Ltd,>4,36,False
+229,city_114,0.926,Male,False,no_enrollment,Phd,STEM,14,5000-9999,Public Sector,>4,9,True
+14811,city_114,0.926,Male,True,Full time course,Graduate,STEM,16,10000+,Pvt Ltd,1,32,True
+17516,city_103,0.92,Male,True,no_enrollment,Graduate,Business Degree,>20,1000-4999,Pvt Ltd,1,65,False
+6712,city_114,0.926,,False,no_enrollment,Masters,STEM,15,5000-9999,Pvt Ltd,1,40,False
+18994,city_21,0.624,,True,no_enrollment,Masters,STEM,18,1000-4999,Pvt Ltd,1,107,False
+2012,city_162,0.767,Male,True,no_enrollment,Graduate,STEM,20,10000+,Pvt Ltd,>4,34,True
+30830,city_104,0.924,Male,True,no_enrollment,Graduate,STEM,>20,10000+,Pvt Ltd,>4,37,False
+11531,city_114,0.926,Male,False,no_enrollment,Graduate,STEM,>20,5000-9999,Pvt Ltd,1,97,False
+10381,city_103,0.92,,True,no_enrollment,Graduate,Humanities,19,10000+,Pvt Ltd,,13,True
+13921,city_103,0.92,,True,no_enrollment,Masters,Business Degree,15,10000+,Pvt Ltd,>4,6,True
+16789,city_28,0.939,,True,no_enrollment,Masters,STEM,12,10000+,Pvt Ltd,3,106,False
+28289,city_104,0.924,,True,no_enrollment,High School,,>20,10000+,Pvt Ltd,4,23,False
+22825,city_16,0.91,Male,True,no_enrollment,Graduate,STEM,>20,10000+,Pvt Ltd,1,40,False
+23972,city_75,0.939,Male,True,no_enrollment,High School,,19,1000-4999,Pvt Ltd,>4,178,False
+21711,city_10,0.895,Male,True,no_enrollment,Graduate,STEM,17,1000-4999,Pvt Ltd,>4,39,False
+20603,city_90,0.698,,True,no_enrollment,Masters,STEM,14,1000-4999,Public Sector,1,4,False
+19122,city_103,0.92,,True,no_enrollment,Graduate,STEM,15,10000+,Pvt Ltd,>4,150,False
+3836,city_73,0.754,Male,True,no_enrollment,Graduate,STEM,>20,10000+,Pvt Ltd,>4,6,False
+22184,city_103,0.92,Female,True,no_enrollment,Graduate,STEM,>20,10000+,Pvt Ltd,>4,81,False
+30117,city_103,0.92,Male,True,no_enrollment,Graduate,STEM,10,1000-4999,Pvt Ltd,1,32,False
+30614,city_103,0.92,,True,no_enrollment,Graduate,STEM,12,1000-4999,Pvt Ltd,1,20,False
+6401,city_103,0.92,Male,True,no_enrollment,Graduate,Humanities,>20,10000+,Pvt Ltd,2,124,False
+32397,city_103,0.92,Male,True,no_enrollment,Graduate,STEM,20,10000+,Pvt Ltd,1,16,False
+26317,city_136,0.897,Female,True,no_enrollment,Masters,STEM,14,10000+,Pvt Ltd,2,98,False
+30164,city_160,0.92,Male,True,no_enrollment,Graduate,STEM,16,5000-9999,Public Sector,>4,77,False
+24882,city_21,0.624,Male,True,no_enrollment,Graduate,STEM,12,10000+,Pvt Ltd,1,10,True
+27394,city_53,0.74,Male,True,no_enrollment,Masters,STEM,16,1000-4999,Public Sector,1,51,False
+15607,city_16,0.91,Male,True,no_enrollment,Graduate,STEM,17,1000-4999,Pvt Ltd,4,92,False
+12193,city_97,0.925,Male,True,no_enrollment,Masters,STEM,>20,10000+,Pvt Ltd,1,77,False
+17005,city_75,0.939,Male,False,no_enrollment,Graduate,No Major,>20,1000-4999,Pvt Ltd,>4,50,True
+7435,city_103,0.92,,True,no_enrollment,Graduate,Arts,>20,10000+,Pvt Ltd,>4,54,False
+27838,city_83,0.923,Male,False,no_enrollment,Masters,STEM,>20,10000+,Pvt Ltd,>4,66,False
+31832,city_21,0.624,Male,False,no_enrollment,Graduate,STEM,10,5000-9999,Pvt Ltd,1,184,True
+2223,city_83,0.923,,True,no_enrollment,Graduate,STEM,>20,10000+,Pvt Ltd,2,45,False
+25447,city_103,0.92,Male,True,no_enrollment,Graduate,STEM,>20,1000-4999,Pvt Ltd,>4,57,False
+6803,city_16,0.91,Male,True,no_enrollment,High School,,10,10000+,Pvt Ltd,1,89,False
+32932,city_10,0.895,Male,True,Part time course,Masters,Other,>20,1000-4999,Pvt Ltd,>4,18,False
+3365,city_16,0.91,,True,no_enrollment,Graduate,Humanities,>20,1000-4999,Pvt Ltd,>4,23,False
+33047,city_103,0.92,Male,True,no_enrollment,Graduate,STEM,>20,10000+,Pvt Ltd,>4,18,False
