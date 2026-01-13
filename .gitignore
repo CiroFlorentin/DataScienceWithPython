@@ -214,3 +214,7 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+*.pkl
+*.txt
+11-Step-ImportingData/data/
